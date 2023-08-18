@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2023-08-18T13:49:48.531Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="oLe5Hps2uK4lkC8qlA_b" version="21.6.8" type="device">
+  <diagram name="Seite-1" id="jeGgyh1s52EJenlUqPR2">
+    <mxGraphModel dx="1434" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NuCs9it_2YZOb4XoILuc-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px; background-color: initial;&quot;&gt;Client&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="65" y="385" width="690" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-7" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Unity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="680" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-9" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;DLL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="680" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Server&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-200" width="690" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Rust&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=right;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-190" width="660" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1" source="NuCs9it_2YZOb4XoILuc-2" target="NuCs9it_2YZOb4XoILuc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-2" value="Network Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-13" value="?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NuCs9it_2YZOb4XoILuc-1" target="NuCs9it_2YZOb4XoILuc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-1" value="Network Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="NuCs9it_2YZOb4XoILuc-10" target="NuCs9it_2YZOb4XoILuc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-10" value="Game Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-14" value="Function Call" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NuCs9it_2YZOb4XoILuc-12" target="NuCs9it_2YZOb4XoILuc-1">
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="560" />
+              <mxPoint x="440" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuCs9it_2YZOb4XoILuc-12" value="Game Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
