@@ -1,0 +1,1 @@
+Without food humans can live a surprising amount of time without eating dependent on their body fat.

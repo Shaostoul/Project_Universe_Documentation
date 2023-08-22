@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6905b3d0fb874849",
+    "type": "split",
+    "children": [
+      {
+        "id": "242641b89e8d2c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2557b49b2d74f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Universe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d585ede7cc326bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a293c927b12a320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec90e53edcf60926",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dcd7ae7df780e1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e3557b9d85a63b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69e223c59a51bca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc190cc2ab0d0c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85df5a0b2b7daeb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Universe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bef8ec82a88af35b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Universe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a8d2d2d18e2b781",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c66cbfadf51f5131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Universe.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb2557b49b2d74f7",
+  "lastOpenFiles": [
+    "README.md",
+    "Project Universe.md",
+    "src/World_Definition.md",
+    "Resources/Water.md",
+    "Resources/Software.md",
+    "Resources/Shelter.md",
+    "Resources/Sanitation.md",
+    "Resources/Ore.md",
+    "Resources/Food.md",
+    "Resources/Energy.md",
+    "Resources",
+    "Gameplay",
+    "Business/Privacy Policy.md",
+    "Business/Money.md",
+    "Business/License.md",
+    "Business/Contributor Agreement.md",
+    "Business",
+    "src/Welcome_in_Project_Universe.md",
+    "src/Unity.md",
+    "src/SUMMARY.md",
+    "src/Security.md",
+    "src/Scripting_Tasklist.md",
+    "src/Rust.md",
+    "src/Modeling_Tasklist.md",
+    "src/Modeling.md",
+    "src/Mining.md",
+    "src/Idea.md",
+    "src/Crafting.md",
+    "src/Contribution.md",
+    "images/Server_Client_Relationship.drawio.png",
+    "images/Server_Client_Relationship-Idea 3.drawio.png",
+    "images/Server_Client_Relationship-Idea 2.drawio.png",
+    "images/Server_Client_Relationship-Idea 1.drawio.png",
+    "book.toml",
+    "src",
+    "images",
+    "drawio/Server_Client_Relationship.drawio",
+    "drawio/ReflexOrSkillCheck.drawio",
+    "drawio",
+    "Project_Universe_Documentation/src",
+    "Project_Universe_Documentation/images/Server_Client_Relationship.drawio.png",
+    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 3.drawio.png",
+    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 2.drawio.png",
+    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 1.drawio.png"
+  ]
+}

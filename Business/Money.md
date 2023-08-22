@@ -1,0 +1,2 @@
+
+Whether shopping for in-game and/or real-world goods/services we head to the virtual mall. Here players find kiosks linking to the various retailers promoting products.  We want to minimize the amount of advertising players are exposed to, a dedicated location seems best. This is the primary method of funding for the game done via affiliate links attached to the kiosks.

@@ -1,0 +1,1 @@
+Whether it's on Earth or in space we must harvest raw material from the Earth to create the technological tools helping us live our lives. On Earth our deepest mines within 4KM of the surface. In space we can harvest materials from asteroids and meteors.

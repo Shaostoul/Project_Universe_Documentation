@@ -1,0 +1,1 @@
+Without water humans die in a matter of days. We can drink dirty water, but by doing so we expose ourselves to the potentially deadly chemicals and lifeforms contained within. There are 3 key points when it comes to water we must figure out: #1 gathering water, #2 cleaning water, #3 storing water.
