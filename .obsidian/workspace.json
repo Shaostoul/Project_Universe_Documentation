@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb2557b49b2d74f7",
+            "id": "57a11381ce250a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe.md",
+                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe.md",
+                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe.md",
+                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe.md"
+                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md"
               }
             }
           }
@@ -145,48 +145,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb2557b49b2d74f7",
+  "active": "57a11381ce250a35",
   "lastOpenFiles": [
-    "README.md",
+    "Space/Universes/0/Galaxies/Milky Way/Milky Way.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
+    "Space/Universes/0/Universe=0.md",
+    "Space/Space.md",
+    "Space/Dimensions",
+    "Space/Universes/Universes.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Solar Systems.md",
+    "Space/Universes/0/Galaxies/Balaxies.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Saturn.md",
+    "Concepts/Setting.md",
     "Project Universe.md",
-    "src/World_Definition.md",
-    "Resources/Water.md",
-    "Resources/Software.md",
-    "Resources/Shelter.md",
-    "Resources/Sanitation.md",
-    "Resources/Ore.md",
-    "Resources/Food.md",
-    "Resources/Energy.md",
-    "Resources",
-    "Gameplay",
-    "Business/Privacy Policy.md",
-    "Business/Money.md",
-    "Business/License.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Moons",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Mercury.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Moons",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Moons",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Moons",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Moons",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Earth.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Moons/Moon.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Venus.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Uranus.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Jupiter/Jupiter.md",
+    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Mars.md",
+    "Materials/Fabric.md",
+    "Concepts/Purpose.md",
     "Business/Contributor Agreement.md",
-    "Business",
-    "src/Welcome_in_Project_Universe.md",
-    "src/Unity.md",
-    "src/SUMMARY.md",
-    "src/Security.md",
-    "src/Scripting_Tasklist.md",
-    "src/Rust.md",
-    "src/Modeling_Tasklist.md",
-    "src/Modeling.md",
-    "src/Mining.md",
-    "src/Idea.md",
-    "src/Crafting.md",
-    "src/Contribution.md",
-    "images/Server_Client_Relationship.drawio.png",
-    "images/Server_Client_Relationship-Idea 3.drawio.png",
-    "images/Server_Client_Relationship-Idea 2.drawio.png",
-    "images/Server_Client_Relationship-Idea 1.drawio.png",
-    "book.toml",
-    "src",
-    "images",
-    "drawio/Server_Client_Relationship.drawio",
-    "drawio/ReflexOrSkillCheck.drawio",
-    "drawio",
-    "Project_Universe_Documentation/src",
+    "Business/License.md",
+    "Business/Privacy Policy.md",
+    "Business/Revenue Sources.md",
+    "Lifeforms/Human.md",
+    "Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
+    "Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
+    "Diagrams/Server_Client_Relationship.drawio.png",
+    "Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/images/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 2.drawio.png",

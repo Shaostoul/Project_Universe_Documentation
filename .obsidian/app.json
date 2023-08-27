@@ -1,1 +1,5 @@
-{}
+{
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "livePreview": false
+}
