@@ -8,6 +8,6 @@ Currently we're considering three options:
 
 I'm in the process of seeking aid from the [American Bar Association](https://www.americanbar.org/groups/legal_services/flh-home/flh-free-legal-help/), but have yet to hear back from them.
 
-As an educational platform and providing tools helping everyone achieve self-sustainability via homesteading, we want to ensure our tools are always and forever freely accessible and modifiable by you. We believe anything meant to help humanity should be free and open source, but we also want to protect ourselves and you from potential lawsuits and malicious parties who'd modify then distribute/serve our product to you and possible install malware, steal information, or anything else.
+As an educational platform and providing tools helping everyone achieve self-sustainability via homesteading, we want to ensure our tools are always and forever freely accessible and modifiable by you. We believe anything meant to help humanity should be free and open source, but we also want to protect ourselves and you from potential lawsuits and malicious parties who'd modify then distribute/serve our product to you and possibly install malware, steal information, or anything else.
 
 With your help we'll find the perfect fit for us, but it will take time. Thank you for your time, patience, and support during these early stages of development!

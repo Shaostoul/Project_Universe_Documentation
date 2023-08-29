@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Energy.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Energy.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Energy.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Energy.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -147,51 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "57a11381ce250a35",
   "lastOpenFiles": [
-    "src/Project_Universe_Documentation.md",
-    "src/Project_Universe Documentation.md",
-    "book.toml",
-    "Resources/Food.md",
-    "Resources/Energy.md",
-    "Space/Universes/Our Universe/Our Universe.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Asteroid Belt.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Kuiper Belt.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts",
+    "Project_Universe_Documentation.md",
+    "README.md",
+    "SUMMARY.md",
+    "Business/Contributor_Agreement.md",
+    "Concepts/World_Definition.md",
+    "Business/Business_Models.md",
+    "Business/Privacy_Policy.md",
+    "Concepts/Mining.md",
+    "Concepts/Crafting.md",
+    "Concepts/Security.md",
+    "src/Unity.md",
+    "Tasks/Scripting_Tasklist.md",
+    "Concepts/Minimap.md",
+    "Tasks/Modeling_Tasklist.md",
+    "Tasks",
+    "src/Contribution.md",
+    "src/Developers/Untitled",
+    "src/How To Contribute",
+    "src/Rust.md",
+    "src/Modeling.md",
+    "src/Mining.md",
+    "src/Crafting.md",
+    "src/Idea.md",
+    "Business/License.md",
+    "Business",
     "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Moons/Moon.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Earth.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Jupiter/Jupiter.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Mars.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Mercury.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Neptune.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Saturn.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Uranus.md",
     "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Venus.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Moons",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Milky Way.md",
-    "Space/Space.md",
-    "Space/Dimensions",
-    "Space/Universes/Universes.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Solar Systems.md",
-    "Space/Universes/0/Galaxies/Balaxies.md",
-    "Concepts/Setting.md",
-    "Project Universe.md",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Moons",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Uranus.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Moons",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Saturn.md",
     "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Moons",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Neptune.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Moons",
     "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Moons",
-    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury",
-    "Materials/Fabric.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Moons",
+    "Diagrams/Server_Client_Relationship.drawio.png",
+    "Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
     "Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Diagrams/Server_Client_Relationship.drawio.png",
     "Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
+    "Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
+    "Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Project_Universe_Documentation/images/Server_Client_Relationship.drawio.png",
-    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 3.drawio.png",
-    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 2.drawio.png",
-    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 1.drawio.png"
+    "Project_Universe_Documentation/images/Server_Client_Relationship-Idea 3.drawio.png"
   ]
 }
