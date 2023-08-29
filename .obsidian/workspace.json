@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
+                "file": "Resources/Energy.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
+                "file": "Resources/Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
+                "file": "Resources/Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md"
+                "file": "Resources/Energy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,43 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a11381ce250a35",
+  "active": "ec90e53edcf60926",
   "lastOpenFiles": [
-    "Space/Universes/0/Galaxies/Milky Way/Milky Way.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
-    "Space/Universes/0/Universe=0.md",
+    "book.toml",
+    "Resources/Food.md",
+    "Resources/Energy.md",
+    "Space/Universes/Our Universe/Our Universe.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Asteroid Belt.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Kuiper Belt.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Moons/Moon.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Earth.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Jupiter/Jupiter.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Mars.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Mercury.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Neptune.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Saturn.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Uranus.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Venus.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Moons",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Milky Way.md",
     "Space/Space.md",
     "Space/Dimensions",
     "Space/Universes/Universes.md",
     "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Solar Systems.md",
     "Space/Universes/0/Galaxies/Balaxies.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Saturn.md",
     "Concepts/Setting.md",
     "Project Universe.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Moons",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Mercury.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Moons",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Moons",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Moons",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Moons",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Earth.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Moons/Moon.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Venus.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Uranus.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Jupiter/Jupiter.md",
-    "Space/Universes/0/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Mars.md",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Moons",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Moons",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury",
+    "Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Moons",
     "Materials/Fabric.md",
     "Concepts/Purpose.md",
-    "Business/Contributor Agreement.md",
-    "Business/License.md",
-    "Business/Privacy Policy.md",
-    "Business/Revenue Sources.md",
-    "Lifeforms/Human.md",
     "Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
     "Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Diagrams/Server_Client_Relationship.drawio.png",
