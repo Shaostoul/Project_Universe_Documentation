@@ -1,7 +1,9 @@
 book.toml
+.trash/
+.DS_Store
 .obsidian/hotkeys.json
 .obsidian/themes
 .obsidian/appearance.json
 .obsidian/workspace.json
-.obsidian/plugins.json
+.obsidian/plugins
 .obsidian/snippets

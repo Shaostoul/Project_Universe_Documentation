@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "57a11381ce250a35",
   "lastOpenFiles": [
-    "src/Project_Universe_Documentation.md",
     "src/SUMMARY.md",
+    "README.md",
+    "src/Resources/Energy.md",
+    "src/Project_Universe_Documentation.md",
     "src/Concepts/World_Definition.md",
     "src/Concepts/Setting.md",
     "src/Concepts/Security.md",
@@ -183,8 +185,6 @@
     "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Earth.md",
     "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
     "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Kuiper Belt.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Asteroid Belt.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Sun.md",
     "src/Diagrams/Server_Client_Relationship.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
