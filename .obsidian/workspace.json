@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Concepts/Crafting.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Concepts/Crafting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Concepts/Crafting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/Concepts/Crafting.md"
               }
             }
           }
@@ -149,9 +149,21 @@
   },
   "active": "57a11381ce250a35",
   "lastOpenFiles": [
-    "README.md",
-    "src/SUMMARY.md",
+    "src/Astronomical Objects/Asteroids/Example Asteroid.md",
+    "src/Astronomical Objects/Universes/Our Universe.md",
+    "src/Astronomical Objects/Solar Systems/Sun/Sun.md",
+    "src/Astronomical Objects/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
+    "src/Astronomical Objects/Solar Systems/Sun/Dwarf Planets/Pluto",
+    "src/Astronomical Objects/Solar Systems/Sun/Asteroid Belts/Kuiper Belt.md",
+    "src/Astronomical Objects/Solar Systems/Sun/Asteroid Belts/Asteroid Belt.md",
+    "src/Astronomical Objects/Galaxies/Milky Way.md",
+    "src/Astronomical Objects/Asteroids",
+    "src/Resources/Sanitation.md",
+    "src/Resources/Ore.md",
+    "src/Resources/Food.md",
     "src/Resources/Energy.md",
+    "src/SUMMARY.md",
+    "README.md",
     "src/Project_Universe_Documentation.md",
     "src/Concepts/World_Definition.md",
     "src/Concepts/Setting.md",
@@ -166,25 +178,13 @@
     "src/Business/Contributor_Agreement.md",
     "src/Business/Business_Models.md",
     "src/Business",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Moons/Moon.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Venus.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Venus/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Uranus.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Uranus/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Saturn.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Saturn/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Neptune.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Neptune/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mercury/Mercury.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Mars/Mars.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Jupiter/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Jupiter/Jupiter.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Moons",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Planets/Earth/Earth.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Dwarf Planets/Pluto/Pluto.md",
-    "src/Space/Universes/Our Universe/Galaxies/Milky Way/Solar Systems/Sun/Asteroid Belts/Kuiper Belt.md",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Earth/Moons/Moon.md",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Venus/Moons",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Uranus/Moons",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Saturn/Moons",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Neptune/Moons",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Mercury/Moons",
+    "src/Astronomical Objects/Solar Systems/Sun/Planets/Mars/Moons",
     "src/Diagrams/Server_Client_Relationship.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
