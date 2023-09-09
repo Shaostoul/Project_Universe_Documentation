@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Users/User~Shaostoul/User.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "69e223c59a51bca0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Users/User~Shaostoul/User.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Users/User~Shaostoul/User.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/Users/User~Shaostoul/User.md"
               }
             }
           }
@@ -149,42 +149,42 @@
   },
   "active": "57a11381ce250a35",
   "lastOpenFiles": [
+    "src/Lifeforms/Plants/White Potato.xml.md",
+    "src/Users/User~Shaostoul/User.md",
+    "src/Users/User~Shaostoul/Character~Shaostoul/Character.md",
+    "src/Lifeforms/Animals/Human.xml.md",
+    "src/Resources/Plant Nutrition Needs.md",
+    "src/Resources/Food.md",
+    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory/Inventory~Equipped.md",
+    "src/Project_Universe_Documentation.md",
+    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory/Inventory~Home.md",
+    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory/Inventory~Garage.md",
+    "src/SUMMARY.md",
+    "src/Lifeforms/Animals",
+    "src/Lifeforms/Plants",
+    "src/Users/User~Shaostoul/Character~Shaostoul/Untitled.md",
+    "src/Users/User~Shaostoul/Character~Shaostoul",
+    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory",
+    "src/Users/User~Shaostoul",
+    "Users/Example User/Shaostoul.md",
+    "Users/Example User",
+    "src/Astronomical Objects/Galaxies/Milky Way.md",
+    "src/Astronomical Objects/Asteroids/Example Asteroid.md",
+    "src/Resources.md",
+    "src/Users",
     "src/Website.md",
     "src/Tasks.md",
-    "src/Resources.md",
     "src/Materials.md",
     "src/Diagrams.md",
     "src/Development Tools.md",
     "src/Concepts.md",
     "src/Business.md",
-    "src/SUMMARY.md",
     "src/Concepts/Setting.md",
     "src/Concepts/Security.md",
     "src/Concepts/Purpose.md",
-    "src/Concepts/Mining.md",
-    "src/Concepts/Minimap.md",
-    "src/Concepts/Crafting.md",
-    "src/Business/Business_Models.md",
-    "src/Website/Privacy_Policy.md",
-    "src/Business/License.md",
-    "src/Business/Contributor_Agreement.md",
-    "src/Project_Universe_Documentation.md",
-    "src/Development Tools/Software.md",
     "src/Website",
-    "src/Development Tools/Hardware.md",
-    "src/Concepts/World_Definition.md",
     "src/Development Tools",
-    "src/Astronomical Objects/Asteroids/Example Asteroid.md",
-    "src/Astronomical Objects/Universes/Our Universe.md",
-    "src/Astronomical Objects/Solar Systems/Sun/Sun.md",
     "src/Astronomical Objects/Solar Systems/Sun/Dwarf Planets/Pluto",
-    "src/Astronomical Objects/Asteroids",
-    "src/Concepts",
-    "src/Business",
-    "src/Astronomical Objects/Solar Systems/Sun/Planets/Venus/Moons",
-    "src/Astronomical Objects/Solar Systems/Sun/Planets/Uranus/Moons",
-    "src/Astronomical Objects/Solar Systems/Sun/Planets/Saturn/Moons",
-    "src/Astronomical Objects/Solar Systems/Sun/Planets/Neptune/Moons",
     "src/Diagrams/Server_Client_Relationship.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
