@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "242641b89e8d2c4d",
+        "id": "6f82c733943e5940",
         "type": "tabs",
         "children": [
           {
-            "id": "57a11381ce250a35",
+            "id": "093fed8dac3a4ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Users/User~Shaostoul/User.md",
+                "file": "src/WIP Docs/Homeship.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200
   },
   "right": {
     "id": "69e223c59a51bca0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Users/User~Shaostoul/User.md",
+                "file": "src/WIP Docs/Homeship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Users/User~Shaostoul/User.md",
+                "file": "src/WIP Docs/Homeship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Users/User~Shaostoul/User.md"
+                "file": "src/WIP Docs/Homeship.md"
+              }
+            }
+          },
+          {
+            "id": "ed27960b4376f193",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -147,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57a11381ce250a35",
+  "active": "093fed8dac3a4ded",
   "lastOpenFiles": [
-    "src/Lifeforms/Plants/White Potato.xml.md",
-    "src/Users/User~Shaostoul/User.md",
-    "src/Users/User~Shaostoul/Character~Shaostoul/Character.md",
-    "src/Lifeforms/Animals/Human.xml.md",
-    "src/Resources/Plant Nutrition Needs.md",
-    "src/Resources/Food.md",
-    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory/Inventory~Equipped.md",
-    "src/Project_Universe_Documentation.md",
-    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory/Inventory~Home.md",
-    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory/Inventory~Garage.md",
+    "src/Fibonacci/Fibonacci Sequence.md",
+    "src/WIP Docs/Homeship.md",
+    "src/WIP Docs/Menu.md",
+    "src/Fibonacci",
+    "src/WIP Docs/PU Comprehensive Overview.md",
+    "src/Concepts.md",
     "src/SUMMARY.md",
-    "src/Lifeforms/Animals",
-    "src/Lifeforms/Plants",
-    "src/Users/User~Shaostoul/Character~Shaostoul/Untitled.md",
-    "src/Users/User~Shaostoul/Character~Shaostoul",
-    "src/Users/User~Shaostoul/Character~Shaostoul/Inventory",
-    "src/Users/User~Shaostoul",
-    "Users/Example User/Shaostoul.md",
-    "Users/Example User",
-    "src/Astronomical Objects/Galaxies/Milky Way.md",
-    "src/Astronomical Objects/Asteroids/Example Asteroid.md",
-    "src/Resources.md",
-    "src/Users",
-    "src/Website.md",
-    "src/Tasks.md",
+    "src/WIP Docs/Part 3.md",
+    "src/WIP Docs/Part 2.md",
+    "src/WIP Docs/Part 1.md",
+    "src/Business.md",
     "src/Materials.md",
+    "src/Project_Universe_Documentation.md",
+    "src/Resources.md",
+    "src/Tasks.md",
+    "src/Website.md",
+    "Resource.md",
+    "README.md",
     "src/Diagrams.md",
     "src/Development Tools.md",
-    "src/Concepts.md",
-    "src/Business.md",
+    "src/NVIDIA Contest/NVIDIA Contest Details.md",
+    "src/WIP Docs",
+    "src/Materials/Untitled",
     "src/Concepts/Setting.md",
-    "src/Concepts/Security.md",
-    "src/Concepts/Purpose.md",
-    "src/Website",
-    "src/Development Tools",
-    "src/Astronomical Objects/Solar Systems/Sun/Dwarf Planets/Pluto",
+    "src/NVIDIA Contest/Data Management Plan.md",
+    "src/NVIDIA Contest/Feature Prioritization List.md",
+    "src/NVIDIA Contest/Technical Specifications.md",
+    "src/NVIDIA Contest/Rapid Context Setter for AI Assistant.md",
+    "src/NVIDIA Contest/Dev Log/Day 1.md",
+    "src/NVIDIA Contest/Dev Log",
+    "src/NVIDIA Contest",
+    "src/Terms",
+    "src/User",
+    "src/Diagrams/Untitled Diagram.drawio.html",
+    "src/GDD",
+    "src/Lifeforms/Animals",
     "src/Diagrams/Server_Client_Relationship.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",

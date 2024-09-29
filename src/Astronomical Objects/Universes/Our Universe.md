@@ -24,11 +24,13 @@ Objects typically made of one or more stars and/or black holes orbited by planet
 Objects whose mass are capable fusing hydrogen (>80 Jupiter masses.)
 ## Brown Dwarf
 Objects whose mass are incapable fusing hydrogen (>80 Jupiter masses,) but capable of fusing deuterium (<13 Jupiter Masses).
+## Gas Giant
+Objects whose mass are incapable of fusing deuterium (<13 Jupiter masses) but greater than 10 Earth masses.
 ## Planets
 Objects whose mass are incapable of fusing deuterium (>13 Jupiter masses,) with sufficient self-gravity to pull themselves into a mostly spherical shape, and have cleared their neighboring region of planetesimals.
 ## Dwarf Planets
 Objects with insufficient mass for their self-gravity to form a mostly spherical shape (>400 kilometers,) hasn't cleared its neighboring region of planetesimals, and isn't the satellite of a planet.
-## Asteroids
+## Asteroids 
 Rocky/metallic objects whose radius is >1 meter with insufficient mass for their self-gravity to form a mostly spherical shape (<400 kilometers) and is not a comet.
 ## Comets
 Objects whose radius is >1 meter consisting mainly of ice, dust and gas smaller than (<400 kilometers) typically forming a coma and tail while close enough to a star.

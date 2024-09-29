@@ -15,6 +15,17 @@
 - [Tasks](Tasks.md)
 	- [Modeling Tasklist](Modeling_Tasklist.md)
 	- [Scripting Tasklist](Scripting_Tasklist.md)
-
- 
-
+- [NVIDIA Contest Details](NVIDIA Contest Details.md)
+	- [3-Minute Demo Video Script](3-Minute Demo Video Script.md)
+	- [[Data Management Plan]]
+	- [[Design Document]]
+	- [[Feature Prioritization List]]
+	- [[Personal Statement]]
+	- [[Post Contest]]
+	- [[Potential Challenges and Solutions]]
+	- [[Q&A]]
+	- [[Rapid Context Setter for AI Assistant]]
+	- [[Sustainability Impact Metrics]]
+	- [[Technical Specifications]]
+	- [[Tiered Introductions]]
+	- [[User Journey Map]]

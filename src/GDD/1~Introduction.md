@@ -1,0 +1,11 @@
+A Glimpse into the Future of Sustainable Exploration**
+
+"Project Universe" isn't just a game—it's an experience. Set against the vastness of interstellar space, the game offers players an opportunity to traverse galaxies, taking them beyond the realm of our world and into a future where humans venture into the unknown, seeking new frontiers and homes in distant stars.
+
+At its core, the game seeks to merge education with entertainment, teaching players essential skills required for self-sustainability. Imagine a universe where a player's knowledge isn't just confined to the virtual world; they're empowered with real-world skills that can shape their future. From crafting intricate tools and building spacecraft to understanding the basics of homesteading in space, players embark on a journey that is both enjoyable and enriching.
+
+Each homeship serves as a player's personal sanctuary. It's a canvas where they begin with just a quarter acre of space, growing, building, and crafting their way to a sustainable existence. But this venture isn't just a solitary endeavor. The vastness of space comes alive with interactions. Trade, communicate, and collaborate with other players, forming bonds and communities that transcend the game's virtual barrier.
+
+What truly sets "Project Universe" apart is its adaptability to evolving technology. Developed to be playable across a myriad of devices, from consoles to computers, handhelds to immersive VR setups, the game acknowledges the rapid pace of technological advancement. As tech evolves, so does the game's ambition to offer a seamless experience, regardless of the platform.
+
+Initiated on January 29, 2019, "Project Universe" has been a labor of love, a testament to the power of community and shared dreams. Our mission goes beyond pixels and code—it's a call to unite humanity in a shared vision of exploration, sustainability, and progress. So, join us as we set sail into the unknown, making stars our destination and the universe our playground.

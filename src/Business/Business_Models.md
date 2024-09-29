@@ -1,2 +1,5 @@
+# Crowdfunding
+Crowdfunding is the easiest method of funding Project Universe's development prior to all other potential money sources. Current methods of accepting crowdfunding / donations / gifts is via patreon.com/shaostoul, paypal.me/shaostoul, cash.app/shaostoul... Typically many small donations over a long period of time.
 
-Whether shopping for in-game and/or real-world goods/services we head to the virtual mall. Here players find kiosks linking to the various retailers promoting products.  We want to minimize the amount of advertising players are exposed to, a dedicated location seems best. This is the primary method of funding for the game done via affiliate links attached to the kiosks.
+# Investors
+Investors are the second easiest method of funding development, but due to investments typically having a much higher dollar value they require a proof of concept of sufficient quality.
