@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/WIP Docs/Homeship.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/WIP Docs/Homeship.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/WIP Docs/Homeship.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/WIP Docs/Homeship.md"
+                "file": "src/SUMMARY.md"
               }
             }
           },
@@ -161,13 +161,19 @@
   },
   "active": "093fed8dac3a4ded",
   "lastOpenFiles": [
-    "src/Fibonacci/Fibonacci Sequence.md",
+    "Resource.md",
+    "README.md",
+    "src/Website.md",
+    "src/Tasks.md",
+    "src/SUMMARY.md",
+    "src/Concepts/Minimap.md",
+    "src/Concepts/Crafting.md",
     "src/WIP Docs/Homeship.md",
+    "src/Fibonacci/Fibonacci Sequence.md",
     "src/WIP Docs/Menu.md",
     "src/Fibonacci",
     "src/WIP Docs/PU Comprehensive Overview.md",
     "src/Concepts.md",
-    "src/SUMMARY.md",
     "src/WIP Docs/Part 3.md",
     "src/WIP Docs/Part 2.md",
     "src/WIP Docs/Part 1.md",
@@ -175,10 +181,6 @@
     "src/Materials.md",
     "src/Project_Universe_Documentation.md",
     "src/Resources.md",
-    "src/Tasks.md",
-    "src/Website.md",
-    "Resource.md",
-    "README.md",
     "src/Diagrams.md",
     "src/Development Tools.md",
     "src/NVIDIA Contest/NVIDIA Contest Details.md",
@@ -188,8 +190,6 @@
     "src/NVIDIA Contest/Data Management Plan.md",
     "src/NVIDIA Contest/Feature Prioritization List.md",
     "src/NVIDIA Contest/Technical Specifications.md",
-    "src/NVIDIA Contest/Rapid Context Setter for AI Assistant.md",
-    "src/NVIDIA Contest/Dev Log/Day 1.md",
     "src/NVIDIA Contest/Dev Log",
     "src/NVIDIA Contest",
     "src/Terms",
