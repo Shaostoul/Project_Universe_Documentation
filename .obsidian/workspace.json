@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Home/Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Home/Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Home/Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Home/Home.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "2dd2d8e0344a60df",
   "lastOpenFiles": [
+    "Project Universe/Home/Home.md",
     "Project Universe/Home/55-Garage.md",
     "Project Universe/Home/3-Wetroom.md",
     "Project Universe/Home/34-Garden.md",
@@ -182,7 +183,6 @@
     "README.md",
     "Project Universe/Home/Home.zip",
     "Resource.md",
-    "Project Universe/Home/Home.md",
     "Project Universe/Home/89-Depot.md",
     "Project Universe/Home/144-Hangar.md",
     "Home/Home.zip",
