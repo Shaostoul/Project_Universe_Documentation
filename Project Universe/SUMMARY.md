@@ -1,4 +1,4 @@
-- [~Rooms](~Rooms.md)
+- [~Home](~Home.md)
 	- [Computer](01-Computer.md)
 	- [Network](02-Network.md)
 	- [Respawner](03-Respawner.md)
