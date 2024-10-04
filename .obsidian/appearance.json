@@ -1,5 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#008000",
   "translucency": false,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Liberation Mono",
+  "textFontFamily": "Liberation Mono",
+  "monospaceFontFamily": "Liberation Mono",
+  "nativeMenus": false
 }

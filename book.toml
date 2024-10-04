@@ -1,5 +1,21 @@
 [book]
-authors = []
+title = "Project Universe"
+authors = ["Shaostoul"]
+description = "A comprehensive guide and design document for Project Universe"
 language = "en"
 multilingual = false
-src = "src"
+src = "Project Universe"
+
+[build]
+build-dir = "book"  # Specifies where the final output will be stored
+
+[output.html]
+default-theme = "dark"  # Dark theme for the book
+default-highlighting = "base16-ocean-dark"  # Dark-themed syntax highlighting for code blocks
+mathjax-support = true  # Enables MathJax for mathematical formulas
+
+[output.html.search]
+enable = true  # Enables search functionality for HTML output
+
+[output.html.fold]
+enable = true  # Enables the ability to fold sections (like accordions)
