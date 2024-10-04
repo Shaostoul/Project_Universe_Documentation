@@ -1,13 +1,13 @@
-![[1-Computer]]
-![[1-Network]]
-![[2-Respawner]]
-![[3-Wetroom]]
-![[5-Bedroom]]
-![[8-Kitchen]]
-![[13-Livingroom]]
-![[21-Study]]
-![[34-Garden]]
-![[55-Garage]]
-![[89-Depot]]
-![[144-Hangar]]
-![[233-Ranch]]
+1. [Computer](1-Computer.md)
+2. [Network](1-Network.md)
+3. [Respawner](2-Respawner.md)
+4. [Wetroom](3-Wetroom.md)
+5. [Bedroom](5-Bedroom.md)
+6. [Kitchen](8-Kitchen.md)
+7. [Livingroom](13-Livingroom.md)
+8. [Study](21-Study.md)
+9. [Garden](34-Garden.md)
+10. [Garage](55-Garage.md)
+11. [Depot](89-Depot.md)
+12. [Hangar](144-Hangar.md)
+13. [Ranch](233-Ranch.md)
