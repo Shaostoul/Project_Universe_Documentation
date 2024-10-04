@@ -1,4 +1,4 @@
-- [Home](Home/Home.md)
+- [Rooms](Rooms.md)
 	- [Computer](Home/1-Computer.md)
 	- [Network](Home/1-Network.md)
 	- [Respawner](Home/2-Respawner.md)
