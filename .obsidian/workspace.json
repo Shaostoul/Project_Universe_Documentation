@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Home/~Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Home/~Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Home/~Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "Project Universe/Home/~Home.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "2dd2d8e0344a60df",
   "lastOpenFiles": [
+    "Project Universe/Home/03-Respawner.md",
     "Project Universe/Home/~Home.md",
+    "Project Universe/Home/04-Wetroom.md",
     "Project Universe/SUMMARY.md",
     "Project Universe/Home/13-Ranch.md",
     "README.md",
     "Project Universe/Home/10-Garage.md",
     "Project Universe/Home/01-Computer.md",
     "Project Universe/Home/02-Network.md",
-    "Project Universe/Home/03-Respawner.md",
-    "Project Universe/Home/04-Wetroom.md",
     "Project Universe/Home/05-Bedroom.md",
     "Project Universe/Home/06-Kitchen.md",
     "Project Universe/Home/07-Livingroom.md",
