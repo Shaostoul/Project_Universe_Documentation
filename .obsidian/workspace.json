@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Home/~Home.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -161,9 +161,12 @@
   },
   "active": "2dd2d8e0344a60df",
   "lastOpenFiles": [
+    "Project Universe/Home/13-Ranch.md",
     "Project Universe/SUMMARY.md",
-    "Project Universe/Home/01-Computer.md",
+    "README.md",
+    "Project Universe/Home/10-Garage.md",
     "Project Universe/Home/~Home.md",
+    "Project Universe/Home/01-Computer.md",
     "Project Universe/Home/02-Network.md",
     "Project Universe/Home/03-Respawner.md",
     "Project Universe/Home/04-Wetroom.md",
@@ -173,9 +176,7 @@
     "Project Universe/Home/08-Study.md",
     "Project Universe/Home/09-Garden.md",
     "Project Universe/Home/12-Hangar.md",
-    "Project Universe/Home/13-Ranch.md",
     "Project Universe/Home/11-Depot.md",
-    "Project Universe/Home/10-Garage.md",
     "Project Universe/Concepts/Golden Ratio.md",
     "Project Universe/Business.md",
     "Project Universe/Development Tools.md",
@@ -185,7 +186,6 @@
     "Project Universe/Resources.md",
     "Project Universe/Tasks.md",
     "Project Universe/Website.md",
-    "README.md",
     "Project Universe/Home/Home.zip",
     "Resource.md",
     "Home/Home.zip",
