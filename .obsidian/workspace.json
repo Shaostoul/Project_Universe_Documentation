@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Concepts/Golden Ratio.md",
+                "file": "Project Universe/Home/Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Concepts/Golden Ratio.md",
+                "file": "Project Universe/Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Concepts/Golden Ratio.md",
+                "file": "Project Universe/Home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Concepts/Golden Ratio.md"
+                "file": "Project Universe/Home/Home.md"
               }
             }
           },
@@ -161,9 +161,17 @@
   },
   "active": "2dd2d8e0344a60df",
   "lastOpenFiles": [
-    "Project Universe/Business.md",
-    "Project Universe/Concepts/Golden Ratio.md",
+    "Project Universe/Home/55-Garage.md",
+    "Project Universe/Home/3-Wetroom.md",
+    "Project Universe/Home/34-Garden.md",
+    "Project Universe/Home/233-Ranch.md",
+    "Project Universe/Home/13-Livingroom.md",
+    "Project Universe/Home/21-Study.md",
+    "Project Universe/Home/2-Respawner.md",
+    "Project Universe/Home/1-Network.md",
     "Project Universe/SUMMARY.md",
+    "Project Universe/Concepts/Golden Ratio.md",
+    "Project Universe/Business.md",
     "Project Universe/Development Tools.md",
     "Project Universe/Diagrams.md",
     "Project Universe/Materials.md",
@@ -175,21 +183,13 @@
     "Project Universe/Home/Home.zip",
     "Resource.md",
     "Project Universe/Home/Home.md",
-    "Project Universe/Home/(89) Depot.md",
-    "Project Universe/Home/(144) Hangar.md",
-    "Project Universe/Home/(233) Ranch.md",
-    "Project Universe/Home/(55) Garage.md",
+    "Project Universe/Home/89-Depot.md",
+    "Project Universe/Home/144-Hangar.md",
     "Home/Home.zip",
     "Home/Home.rar",
-    "Project Universe/Home/(34) Garden.md",
-    "Project Universe/Home/(21) Study.md",
-    "Project Universe/Home/(13) Livingroom.md",
-    "Project Universe/Home/(8) Kitchen.md",
-    "Project Universe/Home/(5) Bedroom.md",
-    "Project Universe/Home/(3) Wetroom.md",
-    "Project Universe/Home/(2) Respawner.md",
-    "Project Universe/Home/(1) Network.md",
-    "Project Universe/Home/(1) Computer.md",
+    "Project Universe/Home/8-Kitchen.md",
+    "Project Universe/Home/5-Bedroom.md",
+    "Project Universe/Home/1-Computer.md",
     "Home/9. (34) Garden/10. (55) Garage/Untitled",
     "Home/10. (55) Garage",
     "Home/8. (21) Study",
