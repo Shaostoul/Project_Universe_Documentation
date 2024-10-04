@@ -1,5 +1,7 @@
 The **Ranch** is a space dedicated to livestock care, animal husbandry, and sustainable farming. It provides players with the tools and resources to manage animals, learn about sustainable livestock farming, and integrate these practices into real-life homesteading.
 
+# Fibonacci Number - 233
+
 # Uses
 
 ## Real-World

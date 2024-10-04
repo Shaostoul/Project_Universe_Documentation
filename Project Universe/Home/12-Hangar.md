@@ -1,5 +1,3 @@
-# Hangar
-
 The **Hangar** is a large space dedicated to the construction, storage, and maintenance of vehicles and aircraft. It serves as the central hub for managing transportation systems, vehicle repairs, and large-scale projects in both in-game and real-world contexts.
 
 # Uses
