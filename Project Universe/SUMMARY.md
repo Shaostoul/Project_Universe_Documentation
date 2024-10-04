@@ -1,4 +1,4 @@
-[Home Overview](Home.md)
+[Home](Home.md)
 - [Computer](1-Computer.md)
 - [Network](1-Network.md)
 - [Respawner](2-Respawner.md)
