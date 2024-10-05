@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/Business/Contributor_Agreement.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/Business/Contributor_Agreement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/Business/Contributor_Agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Home/~Home.md"
+                "file": "Project Universe/Business/Contributor_Agreement.md"
               }
             }
           },
@@ -159,10 +159,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2dd2d8e0344a60df",
+  "active": "ec90e53edcf60926",
   "lastOpenFiles": [
-    "Project Universe/Home/03-Respawner.md",
+    "Project Universe/Business/License.md",
+    "Project Universe/Business/Contributor_Agreement.md",
+    "Project Universe/Business/Business_Models.md",
+    "Project Universe/Concepts/World_Definition.md",
+    "Project Universe/Concepts/Setting.md",
+    "Project Universe/Concepts/Security.md",
+    "Project Universe/Concepts/Mining.md",
+    "Project Universe/Concepts/Purpose.md",
+    "Project Universe/Concepts/Minimap.md",
+    "Project Universe/Concepts/Golden Ratio.md",
     "Project Universe/Home/~Home.md",
+    "Project Universe/Concepts/Crafting.md",
+    "Project Universe/Home/03-Respawner.md",
     "Project Universe/Home/04-Wetroom.md",
     "Project Universe/SUMMARY.md",
     "Project Universe/Home/13-Ranch.md",
@@ -176,18 +187,7 @@
     "Project Universe/Home/08-Study.md",
     "Project Universe/Home/09-Garden.md",
     "Project Universe/Home/12-Hangar.md",
-    "Project Universe/Home/11-Depot.md",
-    "Project Universe/Concepts/Golden Ratio.md",
-    "Project Universe/Business.md",
-    "Project Universe/Development Tools.md",
-    "Project Universe/Diagrams.md",
-    "Project Universe/Materials.md",
-    "Project Universe/Project_Universe_Documentation.md",
-    "Project Universe/Resources.md",
-    "Project Universe/Tasks.md",
-    "Project Universe/Website.md",
     "Project Universe/Home/Home.zip",
-    "Resource.md",
     "Home/Home.zip",
     "Home/Home.rar",
     "Home/9. (34) Garden/10. (55) Garage/Untitled",
