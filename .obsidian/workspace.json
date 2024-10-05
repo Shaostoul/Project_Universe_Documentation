@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Business/Contributor_Agreement.md",
+                "file": "Project Universe/Dev Tools/Software.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Business/Contributor_Agreement.md",
+                "file": "Project Universe/Dev Tools/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Business/Contributor_Agreement.md",
+                "file": "Project Universe/Dev Tools/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Business/Contributor_Agreement.md"
+                "file": "Project Universe/Dev Tools/Software.md"
               }
             }
           },
@@ -159,9 +159,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "2dd2d8e0344a60df",
   "lastOpenFiles": [
-    "Project Universe/Business/License.md",
+    "Project Universe/Dev Tools/Hardware.md",
+    "Project Universe/Dev Tools/Software.md",
+    "Project Universe/Business/Public Domain.md",
+    "Project Universe/Business/License Debate.md",
     "Project Universe/Business/Contributor_Agreement.md",
     "Project Universe/Business/Business_Models.md",
     "Project Universe/Concepts/World_Definition.md",
@@ -184,9 +187,6 @@
     "Project Universe/Home/05-Bedroom.md",
     "Project Universe/Home/06-Kitchen.md",
     "Project Universe/Home/07-Livingroom.md",
-    "Project Universe/Home/08-Study.md",
-    "Project Universe/Home/09-Garden.md",
-    "Project Universe/Home/12-Hangar.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
