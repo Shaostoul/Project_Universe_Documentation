@@ -1,6 +1,6 @@
 The **Home** section serves as the central hub for all player activities within Project Universe. It is a comprehensive space designed for real-life integration and virtual interaction. The home encompasses various key areas, each offering unique tools, resources, and learning experiences that seamlessly blend in-game objectives with real-world applications. From productivity and customization to practical skills and sustainability, the **Home** serves as both a sanctuary and a workspace.
 
-# Private Rooms
+# Rooms
 
 1. **[Computer](1-Computer.md)** - Manage offline tasks, settings, and personal data, both in-game and in real life.
 2. **[Network](1-Network.md)** - Control online features, collaboration, and external connectivity.
@@ -15,5 +15,3 @@ The **Home** section serves as the central hub for all player activities within 
 11. **[Depot](89-Depot.md)** - The central hub for managing resources, tools, and distribution.
 12. **[Hangar](144-Hangar.md)** - A large facility for vehicle construction, customization, and launch.
 13. **[Ranch](233-Ranch.md)** - A farming and livestock management area for sustainability and real-life agricultural integration.
-
-# Public Rooms

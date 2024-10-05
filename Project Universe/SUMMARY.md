@@ -1,4 +1,4 @@
-- [~Home](Home/~Home.md)
+- [00-Home](00-Home.md)
 	- [Computer](Home/01-Computer.md)
 	- [Network](Home/02-Network.md)
 	- [Respawner](Home/03-Respawner.md)

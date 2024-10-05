@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/Home/00-Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/Home/00-Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Home/~Home.md",
+                "file": "Project Universe/Home/00-Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Home/~Home.md"
+                "file": "Project Universe/Home/00-Home.md"
               }
             }
           },
@@ -185,7 +185,7 @@
     "Project Universe/Concepts/Purpose.md",
     "Project Universe/Concepts/Minimap.md",
     "Project Universe/Concepts/Golden Ratio.md",
-    "Project Universe/Home/~Home.md",
+    "Project Universe/Home/00-Home.md",
     "Project Universe/Concepts/Crafting.md",
     "Project Universe/Home/03-Respawner.md",
     "Project Universe/Home/04-Wetroom.md",
