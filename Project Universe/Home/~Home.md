@@ -2,21 +2,13 @@ The **Home** section serves as the central hub for all player activities within 
 
 # Rooms
 
-## [Computer](1-Computer.md)
+**[Computer](1-Computer.md)** - Manage offline tasks, settings, and personal data, both in-game and in real life.
 
-Manage offline tasks, settings, and personal data, both in-game and in real life.
+**[Network](1-Network.md)** - Control online features, collaboration, and external connectivity.
 
-## [Network](1-Network.md)
+[Respawner](2-Respawner.md) - The designated location for character respawn and customization.
 
-Control online features, collaboration, and external connectivity.
-
-## [Respawner](2-Respawner.md)
-
-The designated location for character respawn and customization.
-
-## [Wetroom](3-Wetroom.md)
-
-A fully-functional space for hygiene, self-care, and character customization.
+[Wetroom](3-Wetroom.md) - A fully-functional space for hygiene, self-care, and character customization.
 
 ## [Bedroom](5-Bedroom.md)
 

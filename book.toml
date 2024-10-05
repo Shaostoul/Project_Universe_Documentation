@@ -1,7 +1,7 @@
 [book]
 title = "Project Universe"
 authors = ["Shaostoul"]
-description = "A comprehensive guide and design document for Project Universe"
+description = "Project Universe's design documentation"
 language = "en"
 multilingual = false
 src = "Project Universe"

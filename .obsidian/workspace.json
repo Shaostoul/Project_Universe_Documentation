@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f82c733943e5940",
+        "id": "a5999d392933d038",
         "type": "tabs",
         "children": [
           {
-            "id": "2dd2d8e0344a60df",
+            "id": "fb8436124f099fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/GDD/0~Game Design Document.md",
+                "file": "Project Universe/Home/~Home.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/GDD/0~Game Design Document.md",
+                "file": "Project Universe/Home/~Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/GDD/0~Game Design Document.md",
+                "file": "Project Universe/Home/~Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/GDD/0~Game Design Document.md"
+                "file": "Project Universe/Home/~Home.md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2dd2d8e0344a60df",
+  "active": "fb8436124f099fd1",
   "lastOpenFiles": [
-    "Project Universe/GDD/1~Introduction.md",
     "Project Universe/GDD/0~Game Design Document.md",
+    "Project Universe/GDD/1~Introduction.md",
     "Project Universe/Concepts/Fibonacci Sequence.md",
     "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
