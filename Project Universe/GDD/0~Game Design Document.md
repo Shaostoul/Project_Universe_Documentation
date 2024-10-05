@@ -1,7 +1,3 @@
-Certainly! Let's lay out a concise GDD outline for "Project Universe."
-
----
-
 **Project Universe: Game Design Document (GDD)**
 
 ---

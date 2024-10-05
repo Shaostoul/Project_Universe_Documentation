@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Concepts/Fibonacci Sequence.md",
+                "file": "Project Universe/GDD/0~Game Design Document.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Concepts/Fibonacci Sequence.md",
+                "file": "Project Universe/GDD/0~Game Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Concepts/Fibonacci Sequence.md",
+                "file": "Project Universe/GDD/0~Game Design Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Concepts/Fibonacci Sequence.md"
+                "file": "Project Universe/GDD/0~Game Design Document.md"
               }
             }
           },
@@ -159,8 +159,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "2dd2d8e0344a60df",
   "lastOpenFiles": [
+    "Project Universe/GDD/1~Introduction.md",
+    "Project Universe/GDD/0~Game Design Document.md",
+    "Project Universe/Concepts/Fibonacci Sequence.md",
     "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
@@ -189,8 +192,6 @@
     "Project Universe/SUMMARY.md",
     "Project Universe/Home/13-Ranch.md",
     "README.md",
-    "Project Universe/Home/10-Garage.md",
-    "Project Universe/Home/01-Computer.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
