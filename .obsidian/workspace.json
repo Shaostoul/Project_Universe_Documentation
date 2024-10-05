@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Dev Tools/Software.md",
+                "file": "Project Universe/Concepts/Fibonacci Sequence.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Dev Tools/Software.md",
+                "file": "Project Universe/Concepts/Fibonacci Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Dev Tools/Software.md",
+                "file": "Project Universe/Concepts/Fibonacci Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Dev Tools/Software.md"
+                "file": "Project Universe/Concepts/Fibonacci Sequence.md"
               }
             }
           },
@@ -159,14 +159,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2dd2d8e0344a60df",
+  "active": "ec90e53edcf60926",
   "lastOpenFiles": [
-    "Project Universe/Dev Tools/Hardware.md",
+    "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
+    "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
+    "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
+    "Project Universe/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Project Universe/Dev Tools/Software.md",
-    "Project Universe/Business/Public Domain.md",
-    "Project Universe/Business/License Debate.md",
-    "Project Universe/Business/Contributor_Agreement.md",
-    "Project Universe/Business/Business_Models.md",
+    "Project Universe/Dev Tools/Hardware.md",
+    "Project Universe/Nature/Lifeforms/Animals/Human.xml.md",
+    "Project Universe/Nature/Lifeforms/Plants/White Potato.xml.md",
+    "Project Universe/Materials/Fabric.md",
+    "Project Universe/Nature",
+    "Project Universe/Legal/Public Domain.md",
+    "Project Universe/Legal/License Debate.md",
+    "Project Universe/Legal/Contributor_Agreement.md",
+    "Project Universe/Legal/Business_Models.md",
     "Project Universe/Concepts/World_Definition.md",
     "Project Universe/Concepts/Setting.md",
     "Project Universe/Concepts/Security.md",
@@ -183,10 +191,6 @@
     "README.md",
     "Project Universe/Home/10-Garage.md",
     "Project Universe/Home/01-Computer.md",
-    "Project Universe/Home/02-Network.md",
-    "Project Universe/Home/05-Bedroom.md",
-    "Project Universe/Home/06-Kitchen.md",
-    "Project Universe/Home/07-Livingroom.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
@@ -196,15 +200,10 @@
     "Home/7. (13) Livingroom",
     "Home/6. Kitchen/Untitled",
     "Home/2. (1) Network",
-    "Home/1. (1) Computer",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
-    "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
-    "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
-    "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
-    "Project Universe/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Diagrams/Server_Client_Relationship.drawio.png",
     "Diagrams/Server_Client_Relationship-Idea 3.drawio.png"
   ]
