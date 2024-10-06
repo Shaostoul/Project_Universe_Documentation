@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Home/00-Home.md",
+                "file": "Project Universe/Industry/00-Industry.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Home/00-Home.md",
+                "file": "Project Universe/Industry/00-Industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Home/00-Home.md",
+                "file": "Project Universe/Industry/00-Industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Home/00-Home.md"
+                "file": "Project Universe/Industry/00-Industry.md"
               }
             }
           },
@@ -161,12 +161,12 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
+    "Project Universe/Home/00-Home.md",
+    "Project Universe/Industry/00-Industry.md",
     "Project Universe/Home/02-Network.md",
     "Project Universe/Home/01-Computer.md",
-    "Project Universe/Home/00-Home.md",
     "Project Universe/SUMMARY.md",
     "README.md",
-    "Project Universe/Industry/00-Industry.md",
     "Project Universe/Industry",
     "Project Universe/GDD/0~Game Design Document.md",
     "Project Universe/GDD/1~Introduction.md",
