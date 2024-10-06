@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
+    "README.md",
     "Project Universe/SUMMARY.md",
     "Facilities/Industrial/04-Ore.md",
     "Facilities/Industrial/01-Ore.md",
@@ -184,7 +185,6 @@
     "Project Universe/Zones",
     "Project Universe/Facilities/Home/02-Network.md",
     "Project Universe/Facilities/Home/01-Computer.md",
-    "README.md",
     "Project Universe/Facilities/Industrial",
     "Project Universe/GDD/0~Game Design Document.md",
     "Project Universe/GDD/1~Introduction.md",
