@@ -13,3 +13,4 @@ Project Universe is a free, public-domain sci-fi fantasy simulation role-playing
 	- [Depot](11-Depot.md)
 	- [Hangar](12-Hangar.md)
 	- [Ranch](13-Ranch.md)
+- [Industry](00-Industrial Sector.md)

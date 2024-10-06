@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Facilities/Private/00-Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Facilities/Private/00-Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Facilities/Private/00-Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Facilities/Private/00-Home.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -159,11 +159,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "fb8436124f099fd1",
   "lastOpenFiles": [
+    "Project Universe/Facilities/Private/00-Home.md",
     "Project Universe/Facilities.zip",
     "Project Universe/Facilities/Public/00-Industrial Sector.md",
-    "Project Universe/Facilities/Private/00-Home.md",
     "Project Universe/Facilities/Public/09-Collaborative Projects.md",
     "Project Universe/Facilities/Public/08-Advanced Power Systems.md",
     "Project Universe/Facilities/Public/07-Mining Rig Operations.md",
@@ -200,7 +200,6 @@
     "Home/Home.rar",
     "Home/9. (34) Garden/10. (55) Garage/Untitled",
     "Home/10. (55) Garage",
-    "Home/8. (21) Study",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
