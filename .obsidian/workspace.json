@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md",
+                "file": "Project Universe/Sectors/Industry/00-Industrial.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md",
+                "file": "Project Universe/Sectors/Industry/00-Industrial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md",
+                "file": "Project Universe/Sectors/Industry/00-Industrial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md"
+                "file": "Project Universe/Sectors/Industry/00-Industrial.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
+    "Project Universe/Sectors/Industry/03-Fabrication Plant.md",
+    "Project Universe/Sectors/Industry/01-Ore Refinery.md",
     "Project Universe/Sectors/Industry/00-Industrial.md",
     "Project Universe/Sectors/Industry/02-Smelting Facility.md",
-    "Project Universe/Sectors/Industry/01-Ore Refinery.md",
     "Project Universe/Sectors",
     "Project Universe/Zones",
     "Project Universe/Sectors/Home/00-Home.md",
@@ -194,7 +195,6 @@
     "Project Universe/Concepts/Security.md",
     "Project Universe/Concepts/Mining.md",
     "Project Universe/Concepts/Purpose.md",
-    "Project Universe/Concepts/Minimap.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
