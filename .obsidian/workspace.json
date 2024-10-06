@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "Project Universe/Facilities/Facilities.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
-    "README.md",
+    "Project Universe/Facilities.zip",
     "Project Universe/SUMMARY.md",
+    "Project Universe/Facilities/Facilities.md",
+    "README.md",
     "Facilities/Industrial/04-Ore.md",
     "Facilities/Industrial/01-Ore.md",
     "Project Universe/Facilities/Industrial/00-Industrial Facilities.md",
@@ -170,7 +172,6 @@
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities/Home/00-Home.md",
-    "Project Universe/Facilities.zip",
     "Project Universe/Facilities/Industrial/09-Collaborative Projects.md",
     "Project Universe/Facilities/Industrial/08-Advanced Power Systems.md",
     "Project Universe/Facilities/Industrial/07-Mining Rig Operations.md",
@@ -195,8 +196,6 @@
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Project Universe/Dev Tools/Software.md",
     "Project Universe/Dev Tools/Hardware.md",
-    "Project Universe/Nature/Lifeforms/Animals/Human.xml.md",
-    "Project Universe/Nature/Lifeforms/Plants/White Potato.xml.md",
     "Project Universe/Nature",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
