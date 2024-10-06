@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
+    "Project Universe/Facilities/Facilities.md",
     "Facilities/Industrial/04-Ore.md",
     "Facilities/Industrial/01-Ore.md",
     "Facilities/Industrial/00-Industrial.md",
@@ -170,7 +171,6 @@
     "Project Universe/Game Design Document/PU Comprehensive Overview.md",
     "Project Universe/WIP Docs/Menu.md",
     "Project Universe/WIP Docs/Homeship.md",
-    "Project Universe/Facilities/Facilities.md",
     "Project Universe/Game Design Document/The Big Picture.md",
     "Project Universe/Game Design Document/Social Interaction & Trade ~ Expanded.md",
     "Project Universe/Game Design Document/Resource Collection ~ Expanded.md",
