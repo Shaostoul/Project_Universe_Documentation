@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Sectors/Industry/Industry Sector.md",
+                "file": "Project Universe/Sectors/Home/13-Ranch.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Sectors/Industry/Industry Sector.md",
+                "file": "Project Universe/Sectors/Home/13-Ranch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Sectors/Industry/Industry Sector.md",
+                "file": "Project Universe/Sectors/Home/13-Ranch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Sectors/Industry/Industry Sector.md"
+                "file": "Project Universe/Sectors/Home/13-Ranch.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
-    "Project Universe/Sectors/Industry/Untitled.md",
     "Project Universe/Sectors/Industry/Fabrication Plant.md",
     "Project Universe/Sectors/Industry/Industry Sector.md",
+    "Project Universe/Sectors/Industry/Mass Production Lines.md",
     "Project Universe/Sectors/Industry/Ore Refinery.md",
     "Project Universe/Sectors/Industry/Public Resource Depot.md",
     "Project Universe/Sectors/Industry/Recycling Center.md",
