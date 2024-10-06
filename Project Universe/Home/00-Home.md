@@ -4,7 +4,7 @@ The **Home** section serves as the central hub for all player activities within 
 
 1. **[Computer](01-Computer.md)** - Manage offline tasks, settings, and personal data, both in-game and in real life.
 2. **[Network](02-Network.md)** - Control online features, collaboration, and external connectivity.
-3. [Respawner](03-Respawner.md) - The designated location for character respawn and customization.
+3. **[Respawner](03-Respawner.md)** - The designated location for character respawn and customization.
 4. **[Wetroom](04-Wetroom.md)** - A fully-functional space for hygiene, self-care, and character customization.
 5. **[Bedroom](05-Bedroom.md)** - A private sanctuary for rest, relaxation, and productivity, both virtually and physically.
 6. **[Kitchen](06-Kitchen.md)** - A dynamic environment for learning culinary skills, meal planning, and nutrition tracking.
