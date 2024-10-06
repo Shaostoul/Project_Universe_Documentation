@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "README.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
-    "Facilities/Industrial/04-Ore.md",
     "Project Universe/SUMMARY.md",
+    "Facilities/Industrial/04-Ore.md",
     "Facilities/Industrial/01-Ore.md",
     "Project Universe/Facilities/Industrial/00-Industrial Facilities.md",
     "Facilities/Industrial/00-Industrial.md",
