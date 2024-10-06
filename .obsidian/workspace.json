@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5999d392933d038",
+        "id": "7ee1308039ff886c",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8436124f099fd1",
+            "id": "e1baab5b3d7fce48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +159,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fb8436124f099fd1",
+  "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
-    "Facilities/Industrial/01-Ore.md",
+    "Facilities/Industrial/04-Ore.md",
     "Project Universe/SUMMARY.md",
+    "Facilities/Industrial/01-Ore.md",
     "Project Universe/Facilities/Industrial/00-Industrial Facilities.md",
     "Facilities/Industrial/00-Industrial.md",
     "Facilities/Industrial",
@@ -196,7 +197,6 @@
     "Project Universe/Dev Tools/Hardware.md",
     "Project Universe/Nature/Lifeforms/Animals/Human.xml.md",
     "Project Universe/Nature/Lifeforms/Plants/White Potato.xml.md",
-    "Project Universe/Materials/Fabric.md",
     "Project Universe/Nature",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
