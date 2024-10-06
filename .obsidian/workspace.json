@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "README.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
+    "Project Universe/SUMMARY.md",
+    "README.md",
     "Project Universe/Industry/00-Industry.md",
     "Project Universe/Home/00-Home.md",
     "Project Universe/Industry",
@@ -191,8 +193,6 @@
     "Project Universe/Concepts/Crafting.md",
     "Project Universe/Home/03-Respawner.md",
     "Project Universe/Home/04-Wetroom.md",
-    "Project Universe/SUMMARY.md",
-    "Project Universe/Home/13-Ranch.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
