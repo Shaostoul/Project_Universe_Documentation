@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
-    "Project Universe/SUMMARY.md",
     "README.md",
+    "Project Universe/SUMMARY.md",
     "Project Universe/Industry/00-Industry.md",
     "Project Universe/Home/00-Home.md",
     "Project Universe/Industry",
