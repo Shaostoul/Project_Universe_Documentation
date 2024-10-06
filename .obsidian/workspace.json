@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Industry/00-Industry.md",
+                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Industry/00-Industry.md",
+                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Industry/00-Industry.md",
+                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Industry/00-Industry.md"
+                "file": "Project Universe/Sectors/Industry/01-Ore Refinery.md"
               }
             }
           },
@@ -159,16 +159,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "fb8436124f099fd1",
   "lastOpenFiles": [
+    "Project Universe/Sectors/Industry/00-Industrial.md",
+    "Project Universe/Sectors/Industry/01-Ore Refinery.md",
+    "Project Universe/Sectors",
     "Project Universe/Zones",
-    "Project Universe/Home/00-Home.md",
-    "Project Universe/Industry/00-Industry.md",
-    "Project Universe/Home/02-Network.md",
-    "Project Universe/Home/01-Computer.md",
+    "Project Universe/Sectors/Home/00-Home.md",
+    "Project Universe/Sectors/Home/02-Network.md",
+    "Project Universe/Sectors/Home/01-Computer.md",
     "Project Universe/SUMMARY.md",
     "README.md",
-    "Project Universe/Industry",
+    "Project Universe/Sectors/Industry",
     "Project Universe/GDD/0~Game Design Document.md",
     "Project Universe/GDD/1~Introduction.md",
     "Project Universe/Concepts/Fibonacci Sequence.md",
@@ -199,8 +201,6 @@
     "Home/9. (34) Garden/10. (55) Garage/Untitled",
     "Home/10. (55) Garage",
     "Home/8. (21) Study",
-    "Home/7. (13) Livingroom",
-    "Home/6. Kitchen/Untitled",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
