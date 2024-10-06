@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Home/00-Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Home/00-Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Home/00-Home.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Home/00-Home.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -161,6 +161,9 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
+    "Project Universe/Industry/00-Industry.md",
+    "Project Universe/Home/00-Home.md",
+    "Project Universe/Industry",
     "Project Universe/GDD/0~Game Design Document.md",
     "Project Universe/GDD/1~Introduction.md",
     "Project Universe/Concepts/Fibonacci Sequence.md",
@@ -185,13 +188,11 @@
     "Project Universe/Concepts/Purpose.md",
     "Project Universe/Concepts/Minimap.md",
     "Project Universe/Concepts/Golden Ratio.md",
-    "Project Universe/Home/00-Home.md",
     "Project Universe/Concepts/Crafting.md",
     "Project Universe/Home/03-Respawner.md",
     "Project Universe/Home/04-Wetroom.md",
     "Project Universe/SUMMARY.md",
     "Project Universe/Home/13-Ranch.md",
-    "README.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
@@ -200,7 +201,6 @@
     "Home/8. (21) Study",
     "Home/7. (13) Livingroom",
     "Home/6. Kitchen/Untitled",
-    "Home/2. (1) Network",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",

@@ -1,3 +1,4 @@
+Project Universe is a free sci-fi fantasy simulation role-playing game imagined by Shaostoul intent on facilitating poverty's end in pursuit of uniting humanity.
 - [00-Home](00-Home.md)
 	- [Computer](Home/01-Computer.md)
 	- [Network](Home/02-Network.md)
