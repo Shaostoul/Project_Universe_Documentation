@@ -1,4 +1,4 @@
-The **Home** section serves as the central hub for all player activities within Project Universe. It is a comprehensive space designed for real-life integration and virtual interaction. The home encompasses various key areas, each offering unique tools, resources, and learning experiences that seamlessly blend in-game objectives with real-world applications. From productivity and customization to practical skills and sustainability, the **Home** serves as both a sanctuary and a workspace.
+You **Home** serves as the central hub for all player activities within Project Universe. It is a comprehensive space designed for real-life integration and virtual interaction. Homes encompass various key areas, each offering unique tools, resources, and learning experiences that seamlessly blend in-game objectives with real-world applications. From productivity and customization to practical skills and sustainability, your **Home** serves as both a sanctuary and a workspace.
 
 # Rooms
 
