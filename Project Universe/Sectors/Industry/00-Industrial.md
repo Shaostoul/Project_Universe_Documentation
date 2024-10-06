@@ -1,6 +1,7 @@
 The Industrial zone is essential for processing resources, fabricating advanced materials, and supporting the infrastructure that enables the player community to expand beyond their personal homesteads. It provides the tools and environment necessary for managing resources at a macro scale, contributing to the larger goals of space exploration, community projects, and sustainability.
 
 # Features
+
 1. **Ore Refinery**: Processes raw materials such as asteroid ore into refined resources like metal ingots or alloys.
 2. **Smelting Facility**: High-capacity furnaces designed to convert raw ore into usable metals for industrial and community purposes.
 3. **Fabrication Plant**: Turns refined materials into essential components for construction, machinery, and large-scale infrastructure projects.
