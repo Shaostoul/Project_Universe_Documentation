@@ -1,6 +1,3 @@
-The **Industry** section is where large-scale resource management, manufacturing, and mass production take place within Project Universe. This area is designed to support high-capacity activities that go beyond the scope of individual player homes, focusing on community-driven and industrial-scale operations. Whether it’s mining asteroids, refining raw materials, or fabricating complex machinery, the Industrial sector is the hub for large-scale collaboration and progress.
-
-# Purpose
 The Industrial zone is essential for processing resources, fabricating advanced materials, and supporting the infrastructure that enables the player community to expand beyond their personal homesteads. It provides the tools and environment necessary for managing resources at a macro scale, contributing to the larger goals of space exploration, community projects, and sustainability.
 
 # Features
