@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md",
+                "file": "Project Universe/Sectors/Home/00-Residential Sector.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md",
+                "file": "Project Universe/Sectors/Home/00-Residential Sector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md",
+                "file": "Project Universe/Sectors/Home/00-Residential Sector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md"
+                "file": "Project Universe/Sectors/Home/00-Residential Sector.md"
               }
             }
           },
@@ -161,8 +161,11 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
-    "Project Universe/Sectors/Industry/06-Mass Production Lines.md",
+    "Project Universe/Sectors/Industry/09-Collaborative Projects.md",
+    "Project Universe/Sectors/Industry/08-Advanced Power Systems.md",
+    "Project Universe/Sectors/Industry/07-Mining Rig Operations.md",
     "Project Universe/Sectors/Industry/00-Industry Sector.md",
+    "Project Universe/Sectors/Industry/06-Mass Production Lines.md",
     "Project Universe/Sectors/Industry/02-Smelting Facility.md",
     "Project Universe/Sectors/Industry/05-Recycling Center.md",
     "Project Universe/Sectors/Industry/04-Public Resource Depot.md",
@@ -192,9 +195,6 @@
     "Project Universe/Nature",
     "Project Universe/Legal/Public Domain.md",
     "Project Universe/Legal/License Debate.md",
-    "Project Universe/Legal/Contributor_Agreement.md",
-    "Project Universe/Legal/Business_Models.md",
-    "Project Universe/Concepts/World_Definition.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
