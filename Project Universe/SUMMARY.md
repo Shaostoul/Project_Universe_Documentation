@@ -1,5 +1,5 @@
 Project Universe is a free, public-domain sci-fi fantasy simulation role-playing video game, developed by Shaostoul's global community of volunteers, dedicated to empowering individuals and communities through unconventional, low-cost solutions in hopes of peacefully uniting humanity.
-- [Home](00-Home.md)
+- [Home](Residential%20Sector.md)
 	- [Computer](01-Computer.md)
 	- [Network](02-Network.md)
 	- [Respawner](03-Respawner.md)

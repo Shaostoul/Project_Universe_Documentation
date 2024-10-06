@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industrial.md",
+                "file": "Project Universe/Sectors/Home/13-Ranch.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industrial.md",
+                "file": "Project Universe/Sectors/Home/13-Ranch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industrial.md",
+                "file": "Project Universe/Sectors/Home/13-Ranch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industrial.md"
+                "file": "Project Universe/Sectors/Home/13-Ranch.md"
               }
             }
           },
@@ -161,13 +161,15 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
-    "Project Universe/Sectors/Industry/03-Fabrication Plant.md",
-    "Project Universe/Sectors/Industry/01-Ore Refinery.md",
-    "Project Universe/Sectors/Industry/00-Industrial.md",
-    "Project Universe/Sectors/Industry/02-Smelting Facility.md",
+    "Project Universe/Sectors/Home/Residential Sector.md",
+    "Project Universe/Sectors/Industry/Industrial Sector.md",
+    "Project Universe/Sectors/Industry/Ore Refinery.md",
+    "Project Universe/Sectors/Industry/Smelting Facility.md",
+    "Project Universe/Sectors/Industry/Fabrication Plant.md",
+    "Project Universe/Sectors/Industry/Public Resource Depot.md",
+    "Project Universe/Sectors/Industry/Recycling Center.md",
     "Project Universe/Sectors",
     "Project Universe/Zones",
-    "Project Universe/Sectors/Home/00-Home.md",
     "Project Universe/Sectors/Home/02-Network.md",
     "Project Universe/Sectors/Home/01-Computer.md",
     "Project Universe/SUMMARY.md",
@@ -193,8 +195,6 @@
     "Project Universe/Concepts/World_Definition.md",
     "Project Universe/Concepts/Setting.md",
     "Project Universe/Concepts/Security.md",
-    "Project Universe/Concepts/Mining.md",
-    "Project Universe/Concepts/Purpose.md",
     "Project Universe/Home/Home.zip",
     "Home/Home.zip",
     "Home/Home.rar",
