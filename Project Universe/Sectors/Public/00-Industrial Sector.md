@@ -1,4 +1,4 @@
-The **Industry Sector** is essential for processing resources, fabricating advanced materials, and supporting the infrastructure that enables the player community to expand beyond their personal homesteads. It provides the tools and environment necessary for managing resources at a macro scale, contributing to the larger goals of space exploration, community projects, and sustainability.
+The **Industrial Sector** is essential for processing resources, fabricating advanced materials, and supporting the infrastructure that enables the player community to expand beyond their personal homesteads. It provides the tools and environment necessary for managing resources at a macro scale, contributing to the larger goals of space exploration, community projects, and sustainability.
 
 # Features
 

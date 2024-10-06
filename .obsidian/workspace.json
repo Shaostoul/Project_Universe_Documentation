@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md",
+                "file": "Project Universe/Sectors/Public/00-Industrial Sector.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md",
+                "file": "Project Universe/Sectors/Public/00-Industrial Sector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md",
+                "file": "Project Universe/Sectors/Public/00-Industrial Sector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Sectors/Industry/00-Industry Sector.md"
+                "file": "Project Universe/Sectors/Public/00-Industrial Sector.md"
               }
             }
           },
@@ -161,25 +161,25 @@
   },
   "active": "fb8436124f099fd1",
   "lastOpenFiles": [
-    "Project Universe/Sectors/Home/00-Residential Sector.md",
-    "Project Universe/Sectors/Industry/09-Collaborative Projects.md",
-    "Project Universe/Sectors/Industry/08-Advanced Power Systems.md",
-    "Project Universe/Sectors/Industry/07-Mining Rig Operations.md",
-    "Project Universe/Sectors/Industry/00-Industry Sector.md",
-    "Project Universe/Sectors/Industry/06-Mass Production Lines.md",
-    "Project Universe/Sectors/Industry/02-Smelting Facility.md",
-    "Project Universe/Sectors/Industry/05-Recycling Center.md",
-    "Project Universe/Sectors/Industry/04-Public Resource Depot.md",
-    "Project Universe/Sectors/Industry/03-Fabrication Plant.md",
-    "Project Universe/Sectors/Industry/01-Ore Refinery.md",
-    "Project Universe/Sectors/Home/13-Ranch.md",
+    "Project Universe/Sectors/Private/00-Residential Sector.md",
+    "Project Universe/Sectors/Public/09-Collaborative Projects.md",
+    "Project Universe/Sectors/Public/08-Advanced Power Systems.md",
+    "Project Universe/Sectors/Public/07-Mining Rig Operations.md",
+    "Project Universe/Sectors/Public/00-Industrial Sector.md",
+    "Project Universe/Sectors/Public/06-Mass Production Lines.md",
+    "Project Universe/Sectors/Public/02-Smelting Facility.md",
+    "Project Universe/Sectors/Public/05-Recycling Center.md",
+    "Project Universe/Sectors/Public/04-Public Resource Depot.md",
+    "Project Universe/Sectors/Public/03-Fabrication Plant.md",
+    "Project Universe/Sectors/Public/01-Ore Refinery.md",
+    "Project Universe/Sectors/Private/13-Ranch.md",
     "Project Universe/Sectors",
     "Project Universe/Zones",
-    "Project Universe/Sectors/Home/02-Network.md",
-    "Project Universe/Sectors/Home/01-Computer.md",
+    "Project Universe/Sectors/Private/02-Network.md",
+    "Project Universe/Sectors/Private/01-Computer.md",
     "Project Universe/SUMMARY.md",
     "README.md",
-    "Project Universe/Sectors/Industry",
+    "Project Universe/Sectors/Public",
     "Project Universe/GDD/0~Game Design Document.md",
     "Project Universe/GDD/1~Introduction.md",
     "Project Universe/Concepts/Fibonacci Sequence.md",
