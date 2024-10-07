@@ -116,7 +116,7 @@
               "state": {
                 "file": "Project Universe/Facilities/Facilities.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -171,7 +171,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e1baab5b3d7fce48",
+  "active": "bef8ec82a88af35b",
   "lastOpenFiles": [
     "Project Universe/Facilities/Social/09-Arena.md",
     "Project Universe/Facilities/Facilities.md",

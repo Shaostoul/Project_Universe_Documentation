@@ -9,7 +9,7 @@ The **Home Facilities** are designed for personal use and productivity, offering
 
 - [Computer](Facilities/Home/01-Computer.md)
 - [Network](Facilities/Home/02-Network.md)
-- [Respawn](Facilities/Home/03-Respawn.md)
+- [Respawn](Facilities/Home/03-Respawner.md)
 - [Wetroom](Facilities/Home/04-Wetroom.md)
 - [Bedroom](Facilities/Home/05-Bedroom.md)
 - [Kitchen](Facilities/Home/06-Kitchen.md)
