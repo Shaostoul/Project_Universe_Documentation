@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Facilities/Home/13-Ranch.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Facilities/Home/13-Ranch.md",
+                "file": "Project Universe/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Facilities/Home/13-Ranch.md",
+                "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Facilities/Home/13-Ranch.md"
+                "file": "Project Universe/SUMMARY.md"
               }
             }
           },
@@ -173,8 +173,21 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
-    "Project Universe/Facilities/Home/12-Hangar.md",
+    "Project Universe/Facilities/Facilities.md",
+    "Project Universe/Facilities/Social/10-Conference_Room.md",
+    "Project Universe/Facilities/Social/09-Arena.md",
+    "Project Universe/Facilities/Social/08-Arcade.md",
+    "Project Universe/Facilities/Social/07-Theater.md",
+    "Project Universe/Facilities/Social/06-Public_Garden.md",
+    "Project Universe/Facilities/Social/00-Social_Facilities.md",
+    "Project Universe/Facilities/Social/05-Lounge.md",
+    "Project Universe/Facilities/Social/04-Event_Hall.md",
+    "Project Universe/Facilities/Social/03-Guild_Hall.md",
+    "Project Universe/Facilities/Social/Untitled",
+    "Project Universe/Facilities/Social/02-Cafes_Restaurants.md",
+    "Project Universe/Facilities/Social/01-Mall.md",
     "Project Universe/Facilities/Home/13-Ranch.md",
+    "Project Universe/Facilities/Home/12-Hangar.md",
     "Project Universe/Facilities/Home/11-Depot.md",
     "Project Universe/Facilities/Home/10-Garage.md",
     "Project Universe/Facilities/Home/09-Garden.md",
@@ -187,18 +200,6 @@
     "Project Universe/Facilities/Home/02-Network.md",
     "Project Universe/Facilities/Home/01-Computer.md",
     "Project Universe/Facilities/Home/00-Home.md",
-    "Project Universe/Facilities/Industrial/02-Smelting_Facility.md",
-    "Project Universe/Facilities/Industrial/06-Mass_Production_Lines.md",
-    "Project Universe/Facilities/Industrial/04-Public_Resource_Depot.md",
-    "Project Universe/Facilities/Industrial/00-Industrial_Facilities.md",
-    "Project Universe/SUMMARY.md",
-    "Project Universe/Facilities/Industrial/09-Collaborative_Projects.md",
-    "Project Universe/Facilities/Industrial/03-Fabrication_Plant.md",
-    "Project Universe/Facilities/Facilities.md",
-    "Project Universe/Facilities/Industrial/08-Advanced_Power_Systems.md",
-    "Project Universe/Facilities/Industrial/07-Mining_Rig_Operations.md",
-    "Project Universe/Facilities/Industrial/05-Recycling_Center.md",
-    "Project Universe/Facilities/Industrial/01-Ore_Refinery.md",
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities/Social",
@@ -212,7 +213,6 @@
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Project Universe/Nature",
-    "Project Universe/Home/Home.zip",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
