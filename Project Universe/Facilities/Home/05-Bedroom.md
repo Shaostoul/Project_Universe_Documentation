@@ -1,4 +1,4 @@
-The **Bedroom** is a multi-functional space designed for rest, productivity, and interaction. It serves as a personal sanctuary where players can recover, manage their tasks, and engage with both virtual and real-life activities. The bedroom is designed to enhance both comfort and functionality, providing tools for productivity and relaxation.
+Facilities/The **Bedroom** is a multi-functional space designed for rest, productivity, and interaction. It serves as a personal sanctuary where players can recover, manage their tasks, and engage with both virtual and real-life activities. The bedroom is designed to enhance both comfort and functionality, providing tools for productivity and relaxation.
 
 # Uses
 
