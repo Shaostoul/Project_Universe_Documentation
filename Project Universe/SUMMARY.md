@@ -1,3 +1,3 @@
-[Facilities](Project Universe/Facilities/Facilities.md)
-- [Home](Project Universe/Facilities/Home/00-Home.md)
-- [Industrial](Project Universe/Facilities/Industrial/00-Industrial Facilities.md)
+[Facilities](Facilities/Facilities.md)
+- [Home](Facilities/Home/00-Home.md)
+- [Industrial](Facilities/Industrial/00-Industrial Facilities.md)
