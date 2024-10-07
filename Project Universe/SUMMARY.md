@@ -13,13 +13,13 @@
   - [Depot](Facilities/Home/11-Depot.md)
   - [Hangar](Facilities/Home/12-Hangar.md)
   - [Ranch](Facilities/Home/13-Ranch.md)
-- [Industrial](Facilities/Industrial/00-Industrial Facilities.md)
-  - [Ore Refinery](Facilities/Industrial/01-Ore Refinery.md)
-  - [Smelting Facility](Facilities/Industrial/02-Smelting Facility.md)
-  - [Fabrication Plant](Facilities/Industrial/03-Fabrication Plant.md)
-  - [Public Resource Depot](Facilities/Industrial/04-Public Resource Depot.md)
-  - [Recycling Center](Facilities/Industrial/05-Recycling Center.md)
-  - [Mass Production Lines](Facilities/Industrial/06-Mass Production Lines.md)
-  - [Mining Rig Operations](Facilities/Industrial/07-Mining Rig Operations.md)
-  - [Advanced Power Systems](Facilities/Industrial/08-Advanced Power Systems.md)
-  - [Collaborative Projects](Facilities/Industrial/09-Collaborative Projects.md)
+- [[00-Industrial Facilities]]
+	- [[01-Ore Refinery]]
+	- [[02-Smelting Facility]]
+	- [[03-Fabrication Plant]]
+	- [[04-Public Resource Depot]]
+	- [[05-Recycling Center]]
+	- [[06-Mass Production Lines]]
+	- [[07-Mining Rig Operations]]
+	- [[08-Advanced Power Systems]]
+	- [[09-Collaborative Projects]]
