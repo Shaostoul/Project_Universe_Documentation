@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Home/13-Ranch.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Home/13-Ranch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Home/13-Ranch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "Project Universe/Facilities/Home/13-Ranch.md"
               }
             }
           },
@@ -172,37 +171,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e9f3423fbcf9f7b2",
+  "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
-    "Project Universe/Facilities/Industrial/09-Collaborative_Projects.md",
-    "Project Universe/SUMMARY.md",
-    "Project Universe/Facilities/Industrial/03-Fabrication_Plant.md",
+    "Project Universe/Facilities/Home/12-Hangar.md",
+    "Project Universe/Facilities/Home/13-Ranch.md",
+    "Project Universe/Facilities/Home/11-Depot.md",
+    "Project Universe/Facilities/Home/10-Garage.md",
+    "Project Universe/Facilities/Home/09-Garden.md",
+    "Project Universe/Facilities/Home/08-Study.md",
+    "Project Universe/Facilities/Home/07-Livingroom.md",
+    "Project Universe/Facilities/Home/06-Kitchen.md",
+    "Project Universe/Facilities/Home/05-Bedroom.md",
+    "Project Universe/Facilities/Home/04-Wetroom.md",
+    "Project Universe/Facilities/Home/03-Respawner.md",
+    "Project Universe/Facilities/Home/02-Network.md",
+    "Project Universe/Facilities/Home/01-Computer.md",
     "Project Universe/Facilities/Home/00-Home.md",
-    "Project Universe/Facilities/Facilities.md",
+    "Project Universe/Facilities/Industrial/02-Smelting_Facility.md",
+    "Project Universe/Facilities/Industrial/06-Mass_Production_Lines.md",
+    "Project Universe/Facilities/Industrial/04-Public_Resource_Depot.md",
     "Project Universe/Facilities/Industrial/00-Industrial_Facilities.md",
+    "Project Universe/SUMMARY.md",
+    "Project Universe/Facilities/Industrial/09-Collaborative_Projects.md",
+    "Project Universe/Facilities/Industrial/03-Fabrication_Plant.md",
+    "Project Universe/Facilities/Facilities.md",
     "Project Universe/Facilities/Industrial/08-Advanced_Power_Systems.md",
     "Project Universe/Facilities/Industrial/07-Mining_Rig_Operations.md",
-    "Project Universe/Facilities/Industrial/06-Mass_Production_Lines.md",
     "Project Universe/Facilities/Industrial/05-Recycling_Center.md",
     "Project Universe/Facilities/Industrial/01-Ore_Refinery.md",
-    "Project Universe/Facilities/Industrial/02-Smelting_Facility.md",
-    "Project Universe/Facilities/Industrial/04-Public_Resource_Depot.md",
-    "Facilities/Industrial/00-Industrial.md",
     "Facilities/Industrial",
     "Facilities",
-    "().md",
     "Project Universe/Facilities/Social",
-    "Facilities/Industrial/04-Ore.md",
-    "Facilities/Industrial/01-Ore.md",
-    "Project Universe/Game Design Document/Story Part 3.md",
-    "Project Universe/Game Design Document/Story Part 2.md",
-    "Project Universe/Game Design Document/Story Part 1.md",
-    "Project Universe/Game Design Document/PU Comprehensive Overview.md",
-    "Project Universe/WIP Docs/Menu.md",
-    "Project Universe/WIP Docs/Homeship.md",
-    "Project Universe/Game Design Document/The Big Picture.md",
-    "Project Universe/Game Design Document/Social Interaction & Trade ~ Expanded.md",
-    "Project Universe/Game Design Document/Resource Collection ~ Expanded.md",
     "Project Universe/Game Design Document",
     "Project Universe/Facilities.zip",
     "Project Universe/Facilities",
