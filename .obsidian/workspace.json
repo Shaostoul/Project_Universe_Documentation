@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "Project Universe/Facilities/Facilities.md"
               }
             }
           },
@@ -161,7 +161,9 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
+    "Project Universe/Facilities/Industrial Facilities/00-Industrial Facilities.md",
     "Project Universe/Facilities/Facilities.md",
+    "Project Universe/SUMMARY.md",
     "Facilities/Industrial/04-Ore.md",
     "Facilities/Industrial/01-Ore.md",
     "Facilities/Industrial/00-Industrial.md",
@@ -185,15 +187,13 @@
     "Project Universe/Game Design Document/5~Technical Aspects.md",
     "Project Universe/Game Design Document/4~Gameplay Mechanics.md",
     "Project Universe/Game Design Document/3~Core Gameplay Loops.md",
-    "Project Universe/Game Design Document/2~Narrative & Lore.md",
-    "Project Universe/Game Design Document/1~Introduction.md",
     "Project Universe/Game Design Document",
     "Project Universe/Facilities.zip",
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities",
     "Project Universe/Zones",
-    "Project Universe/Facilities/Industrial",
+    "Project Universe/Facilities/Industrial Facilities",
     "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
