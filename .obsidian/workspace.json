@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "Project Universe/Facilities/Facilities.md"
               }
             }
           },
@@ -159,12 +159,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bef8ec82a88af35b",
+  "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
+    "Project Universe/SUMMARY.md",
     "Project Universe/Facilities/Social",
     "Project Universe/Facilities/Facilities.md",
     "Project Universe/Facilities/Industrial/00-Industrial Facilities.md",
-    "Project Universe/SUMMARY.md",
     "Facilities/Industrial/04-Ore.md",
     "Facilities/Industrial/01-Ore.md",
     "Facilities/Industrial/00-Industrial.md",
@@ -200,7 +200,6 @@
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
     "Project Universe/Nature",
     "Project Universe/Home/Home.zip",
-    "Home/Home.zip",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
