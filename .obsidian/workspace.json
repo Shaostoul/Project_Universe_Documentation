@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Facilities/Facilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/SUMMARY.md"
+                "file": "Project Universe/Facilities/Facilities.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
+    "Project Universe/SUMMARY.md",
     "Project Universe/Facilities/Facilities.md",
     "Project Universe/Facilities/Social/10-Conference_Room.md",
     "Project Universe/Facilities/Social/09-Arena.md",
@@ -199,7 +200,6 @@
     "Project Universe/Facilities/Home/03-Respawner.md",
     "Project Universe/Facilities/Home/02-Network.md",
     "Project Universe/Facilities/Home/01-Computer.md",
-    "Project Universe/Facilities/Home/00-Home.md",
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities/Social",
