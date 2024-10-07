@@ -1,25 +1,3 @@
 [Facilities](Facilities/Facilities.md)
 - [Home](Facilities/Home/00-Home.md)
-  - [Computer](Facilities/Home/01-Computer.md)
-  - [Network](Facilities/Home/02-Network.md)
-  - [Respawner](Facilities/Home/03-Respawner.md)
-  - [Wetroom](Facilities/Home/04-Wetroom.md)
-  - [Bedroom](Facilities/Home/05-Bedroom.md)
-  - [Kitchen](Facilities/Home/06-Kitchen.md)
-  - [Livingroom](Facilities/Home/07-Livingroom.md)
-  - [Study](Facilities/Home/08-Study.md)
-  - [Garden](Facilities/Home/09-Garden.md)
-  - [Garage](Facilities/Home/10-Garage.md)
-  - [Depot](Facilities/Home/11-Depot.md)
-  - [Hangar](Facilities/Home/12-Hangar.md)
-  - [Ranch](Facilities/Home/13-Ranch.md)
-- [[00-Industrial Facilities]]
-	- [[01-Ore Refinery]]
-	- [[02-Smelting Facility]]
-	- [[03-Fabrication Plant]]
-	- [[04-Public Resource Depot]]
-	- [[05-Recycling Center]]
-	- [[06-Mass Production Lines]]
-	- [[07-Mining Rig Operations]]
-	- [[08-Advanced Power Systems]]
-	- [[09-Collaborative Projects]]
+- [Industrial](Facilities/Industrial/00-Industrial Facilities.md)
