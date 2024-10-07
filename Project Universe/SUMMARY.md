@@ -1,25 +1,25 @@
-- [Facilities](Facilities/Facilities.md)
-	- [Home](Facilities/Home/00-Home.md)
-		- [Computer](Facilities/Home/01-Computer.md)
-		- [Network](Facilities/Home/02-Network.md)
-		- [Respawner](Facilities/Home/03-Respawner.md)
-		- [Wetroom](Facilities/Home/04-Wetroom.md)
-		- [Bedroom](Facilities/Home/05-Bedroom.md)
-		- [Kitchen](Facilities/Home/06-Kitchen.md)
-		- [Livingroom](Facilities/Home/07-Livingroom.md)
-		- [Study](Facilities/Home/08-Study.md)
-		- [Garden](Facilities/Home/09-Garden.md)
-		- [Garage](Facilities/Home/10-Garage.md)
-		- [Depot](Facilities/Home/11-Depot.md)
-		- [Hangar](Facilities/Home/12-Hangar.md)
-		- [Ranch](Facilities/Home/13-Ranch.md)
-	- [Industrial](Facilities/Industrial/00-Industrial Facilities.md)
-		- [Ore Refinery](Facilities/Industrial/01-Ore Refinery.md)
-		- [Smelting Facility](Facilities/Industrial/02-Smelting Facility.md)
-		- [Fabrication Plant](Facilities/Industrial/03-Fabrication Plant.md)
-		- [Public Resource Depot](Facilities/Industrial/04-Public Resource Depot.md)
-		- [Recycling Center](Facilities/Industrial/05-Recycling Center.md)
-		- [Mass Production Lines](Facilities/Industrial/06-Mass Production Lines.md)
-		- [Mining Rig Operations](Facilities/Industrial/07-Mining Rig Operations.md)
-		- [Advanced Power Systems](Facilities/Industrial/08-Advanced Power Systems.md)
-		- [Collaborative Projects](Facilities/Industrial/09-Collaborative Projects.md)
+[Facilities]Facilities/Facilities.md
+	[Home]Facilities/Home/00-Home.md
+		[Computer]Facilities/Home/01-Computer.md
+		[Network]Facilities/Home/02-Network.md
+		[Respawner]Facilities/Home/03-Respawner.md
+		[Wetroom]Facilities/Home/04-Wetroom.md
+		[Bedroom]Facilities/Home/05-Bedroom.md
+		[Kitchen]Facilities/Home/06-Kitchen.md
+		[Livingroom]Facilities/Home/07-Livingroom.md
+		[Study]Facilities/Home/08-Study.md
+		[Garden]Facilities/Home/09-Garden.md
+		[Garage]Facilities/Home/10-Garage.md
+		[Depot]Facilities/Home/11-Depot.md
+		[Hangar]Facilities/Home/12-Hangar.md
+		[Ranch]Facilities/Home/13-Ranch.md
+	[Industrial]Facilities/Industrial/00-Industrial Facilities.md
+		[Ore Refinery]Facilities/Industrial/01-Ore Refinery.md
+		[Smelting Facility]Facilities/Industrial/02-Smelting Facility.md
+		[Fabrication Plant]Facilities/Industrial/03-Fabrication Plant.md
+		[Public Resource Depot]Facilities/Industrial/04-Public Resource Depot.md
+		[Recycling Center]Facilities/Industrial/05-Recycling Center.md
+		[Mass Production Lines]Facilities/Industrial/06-Mass Production Lines.md
+		[Mining Rig Operations]Facilities/Industrial/07-Mining Rig Operations.md
+		[Advanced Power Systems]Facilities/Industrial/08-Advanced Power Systems.md
+		[Collaborative Projects]Facilities/Industrial/09-Collaborative Projects.md
