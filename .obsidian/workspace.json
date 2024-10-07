@@ -104,7 +104,7 @@
               "state": {
                 "file": "Project Universe/SUMMARY.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,7 +159,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e1baab5b3d7fce48",
+  "active": "bef8ec82a88af35b",
   "lastOpenFiles": [
     "Facilities/Industrial/00-Industrial.md",
     "Project Universe/SUMMARY.md",
