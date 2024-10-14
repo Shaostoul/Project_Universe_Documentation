@@ -1,4 +1,4 @@
-The **Study** is a space for focused work, reading, learning, and research. It serves as a hub for intellectual growth, skill development, and personal projects, providing tools and resources for productivity and education.
+The **Library** is a space for focused work, reading, learning, and research. It serves as a hub for intellectual growth, skill development, and personal projects, providing tools and resources for productivity and education.
 
 # Uses
 

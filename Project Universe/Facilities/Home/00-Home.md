@@ -9,7 +9,7 @@ Your **Home** serves as the central hub for most player activities within Projec
 5. **[Bedroom](05-Bedroom.md)** - A private sanctuary for rest, relaxation, and productivity, both virtually and physically.
 6. **[Kitchen](06-Kitchen.md)** - A dynamic environment for learning culinary skills, meal planning, and nutrition tracking.
 7. **[Livingroom](07-Livingroom.md)** - A communal space for leisure, social interaction, and recovery.
-8. **[Study](08-Study.md)** - A dedicated area for learning, research, and creative work.
+8. **[Study](08-Library.md)** - A dedicated area for learning, research, and creative work.
 9. **[Garden](09-Garden.md)** - A sustainable farming space, providing both food and educational experiences.
 10. **[Garage](10-Garage.md)** - A practical workshop for crafting, vehicle maintenance, and storage.
 11. **[Depot](11-Depot.md)** - The central hub for managing resources, tools, and distribution.

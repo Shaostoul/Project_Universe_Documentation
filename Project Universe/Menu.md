@@ -1,0 +1,24 @@
+- Who
+	- Profile
+	- Crew
+	- Achievements
+- What
+	- Inventory
+	- Equipment
+	- Tasks
+- When
+	- Timeline
+	- Next Milestone
+	- Log
+- Where
+	- Journey
+	- Ship Map
+	- Resource Locations
+- Why
+	- Mission
+	- Lore
+	- Ethics
+- How
+	- Tutorials
+	- Controls
+	- Tips

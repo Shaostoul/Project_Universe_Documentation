@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md",
+                "file": "Project Universe/Menu.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md",
+                "file": "Project Universe/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md",
+                "file": "Project Universe/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Facilities/Facilities.md"
+                "file": "Project Universe/Menu.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,14 +172,27 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bef8ec82a88af35b",
+  "active": "e1baab5b3d7fce48",
   "lastOpenFiles": [
-    "Project Universe/Facilities/Social/09-Arena.md",
+    "Project Universe/Facilities/Home/00-Home.md",
+    "Project Universe/Menu.md",
+    "Project Universe/Gameplay/Offline Single Player.md",
     "Project Universe/Facilities/Facilities.md",
+    "Project Universe/Concepts/Fibonacci Sequence.md",
+    "Project Universe/Gameplay",
+    "Project Universe/Concepts/Golden Ratio.md",
+    "Project Universe/Facilities/Home/Home.rar",
+    "Project Universe/Facilities/Home/10-Garage.md",
+    "Project Universe/Facilities/Home/12-Hangar.md",
+    "Project Universe/Facilities/Home/08-Library.md",
+    "Project Universe/Facilities/Home/13-Ranch.md",
+    "Project Universe/Facilities/Home/11-Depot.md",
+    "README.md",
+    "Project Universe/SUMMARY.md",
+    "Project Universe/Facilities/Social/09-Arena.md",
     "Project Universe/Facilities/Home/05-Bedroom.md",
     "Home/03-Respawn.md",
     "Home",
-    "Project Universe/SUMMARY.md",
     "Project Universe/Facilities/Social/10-Conference_Room.md",
     "Project Universe/Facilities/Social/08-Arcade.md",
     "Project Universe/Facilities/Social/07-Theater.md",
@@ -190,25 +204,12 @@
     "Project Universe/Facilities/Social/Untitled",
     "Project Universe/Facilities/Social/02-Cafes_Restaurants.md",
     "Project Universe/Facilities/Social/01-Mall.md",
-    "Project Universe/Facilities/Home/13-Ranch.md",
-    "Project Universe/Facilities/Home/12-Hangar.md",
-    "Project Universe/Facilities/Home/11-Depot.md",
-    "Project Universe/Facilities/Home/10-Garage.md",
-    "Project Universe/Facilities/Home/09-Garden.md",
-    "Project Universe/Facilities/Home/08-Study.md",
-    "Project Universe/Facilities/Home/07-Livingroom.md",
-    "Project Universe/Facilities/Home/06-Kitchen.md",
-    "Project Universe/Facilities/Home/04-Wetroom.md",
-    "Project Universe/Facilities/Home/03-Respawner.md",
-    "Project Universe/Facilities/Home/02-Network.md",
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities/Social",
     "Project Universe/Game Design Document",
     "Project Universe/Facilities.zip",
     "Project Universe/Facilities",
-    "Project Universe/Zones",
-    "Project Universe/Facilities/Industrial",
     "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",

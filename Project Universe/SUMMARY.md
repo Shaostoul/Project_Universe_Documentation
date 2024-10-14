@@ -7,7 +7,7 @@
 		- [Bedroom](Facilities/Home/05-Bedroom.md)
 		- [Kitchen](Facilities/Home/06-Kitchen.md)
 		- [Livingroom](Facilities/Home/07-Livingroom.md)
-		- [Study](Facilities/Home/08-Study.md)
+		- [Study](08-Library.md)
 		- [Garden](Facilities/Home/09-Garden.md)
 		- [Garage](Facilities/Home/10-Garage.md)
 		- [Depot](Facilities/Home/11-Depot.md)
