@@ -17,7 +17,7 @@
 - Why
 	- Mission
 	- Lore
-	- Ethics
+	- [[Ethics]]
 - How
 	- Tutorials
 	- Controls

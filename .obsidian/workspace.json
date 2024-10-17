@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Menu.md",
+                "file": "Project Universe/Ethics.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Menu.md",
+                "file": "Project Universe/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Menu.md",
+                "file": "Project Universe/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Menu.md"
+                "file": "Project Universe/Ethics.md"
               }
             }
           },
@@ -172,10 +172,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e1baab5b3d7fce48",
+  "active": "ec90e53edcf60926",
   "lastOpenFiles": [
-    "Project Universe/Facilities/Home/00-Home.md",
     "Project Universe/Menu.md",
+    "Project Universe/Ethics.md",
+    "Project Universe/Facilities/Home/00-Home.md",
     "Project Universe/Gameplay/Offline Single Player.md",
     "Project Universe/Facilities/Facilities.md",
     "Project Universe/Concepts/Fibonacci Sequence.md",
@@ -203,7 +204,6 @@
     "Project Universe/Facilities/Social/03-Guild_Hall.md",
     "Project Universe/Facilities/Social/Untitled",
     "Project Universe/Facilities/Social/02-Cafes_Restaurants.md",
-    "Project Universe/Facilities/Social/01-Mall.md",
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities/Social",
