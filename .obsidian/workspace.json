@@ -16,7 +16,9 @@
                 "file": "Project Universe/Ethics.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ethics"
             }
           },
           {
@@ -28,10 +30,27 @@
                 "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
+            }
+          },
+          {
+            "id": "d443238e6b016091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Universe/Open Letters/The Power of Voluntary Collaboration.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Power of Voluntary Collaboration"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Ethics.md",
+                "file": "Project Universe/Farming/Soil Amendments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Soil Amendments"
             }
           },
           {
@@ -114,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Ethics.md",
+                "file": "Project Universe/Farming/Soil Amendments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Soil Amendments"
             }
           },
           {
@@ -128,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Universe/Ethics.md"
-              }
+                "file": "Project Universe/Farming/Soil Amendments.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Soil Amendments"
             }
           },
           {
@@ -150,7 +183,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -172,10 +207,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "d443238e6b016091",
   "lastOpenFiles": [
+    "Project Universe/Open Letters/The Power of Altruism.md",
+    "Project Universe/Open Letters/The Power of Voluntary Collaboration.md",
+    "Project Universe/Open Letters/Care for Yourself.md",
+    "Project Universe/Open Letters/The Importance of Being Cordial.md",
+    "Project Universe/Open Letters/Forever Invitation.md",
+    "Project Universe/Ethics/Ethics.md",
+    "Project Universe/Ethics",
+    "Project Universe/Farming/Soil Amendments.md",
+    "Project Universe/Open Letters",
+    "Project Universe/Farming/Coconut Husks as Soil Amendment.md",
+    "Project Universe/Farming/Soil - The Foundation of Gardening.md",
+    "Project Universe/Farming/Used Coffee Grounds as Fertilizer.md",
+    "Project Universe/Farming",
     "Project Universe/Menu.md",
-    "Project Universe/Ethics.md",
     "Project Universe/Facilities/Home/00-Home.md",
     "Project Universe/Gameplay/Offline Single Player.md",
     "Project Universe/Facilities/Facilities.md",
@@ -194,22 +241,10 @@
     "Project Universe/Facilities/Home/05-Bedroom.md",
     "Home/03-Respawn.md",
     "Home",
-    "Project Universe/Facilities/Social/10-Conference_Room.md",
-    "Project Universe/Facilities/Social/08-Arcade.md",
-    "Project Universe/Facilities/Social/07-Theater.md",
-    "Project Universe/Facilities/Social/06-Public_Garden.md",
-    "Project Universe/Facilities/Social/00-Social_Facilities.md",
-    "Project Universe/Facilities/Social/05-Lounge.md",
-    "Project Universe/Facilities/Social/04-Event_Hall.md",
-    "Project Universe/Facilities/Social/03-Guild_Hall.md",
     "Project Universe/Facilities/Social/Untitled",
-    "Project Universe/Facilities/Social/02-Cafes_Restaurants.md",
     "Facilities/Industrial",
     "Facilities",
     "Project Universe/Facilities/Social",
-    "Project Universe/Game Design Document",
-    "Project Universe/Facilities.zip",
-    "Project Universe/Facilities",
     "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
