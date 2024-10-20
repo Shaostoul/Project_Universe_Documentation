@@ -1,0 +1,7 @@
+Cordiality is the practice of treating others with kindness, respect, and warmth, even in the face of differences or challenges. It involves intentionally approaching interactions with an open heart and a genuine willingness to connect. Practicing cordiality means choosing to remain calm when emotions rise and being receptive when others express viewpoints that may differ from our own.
+
+The essence of cordiality is not about avoiding conflict or agreeing with everyone; rather, it is the act of engaging with others in a respectful and constructive manner. It encourages curiosity over judgment and seeks to transform disagreements into opportunities for understanding and growth.
+
+By practicing cordiality, we create an environment where dialogue can flourish and conflicts can be resolved peacefully. It is a powerful tool for building bridges, strengthening communities, and fostering a world where compassion and unity take precedence over division.
+
+Incorporating cordiality into our daily interactions can have a profound impact, not only on those around us but also on our own sense of peace and fulfillment. As we make the conscious choice to practice cordiality, we contribute to a more harmonious and connected world, one small act of kindness at a time.
