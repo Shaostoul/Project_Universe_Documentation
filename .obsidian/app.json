@@ -5,6 +5,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "tabSize": 5
 }
