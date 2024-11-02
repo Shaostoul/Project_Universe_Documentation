@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/SUMMARY.md",
+                "file": "Project Universe/Software.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "Software"
             }
           }
         ]
@@ -181,10 +181,12 @@
   },
   "active": "26a9c70981b8e4ee",
   "lastOpenFiles": [
+    "Project Universe/Roadmap.md",
     "Project Universe/Project-Universe.md",
     "Project Universe/SUMMARY.md",
-    "Project Universe/Facilities/Facilities.md",
     "Project Universe/Software.md",
+    "().md",
+    "Project Universe/Facilities/Facilities.md",
     "Shaostoul.com.md",
     "Project Universe/vault_structure.txt",
     "Project Universe/Table of Contents.md",
@@ -209,7 +211,6 @@
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials/Resin.md",
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials/TPU (Thermoplastic Polyurethane).md",
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials/PLA (Polylactic Acid).md",
-    "Project Universe/Modules/Crafting/3D Printing/Printing Materials/PETG (Polyethylene Terephthalate Glycol-Modified).md",
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials",
     "Project Universe/Modules/Crafting/3D Printing/Types of 3D Printing",
     "Project Universe/Modules/Crafting/3D Printing",

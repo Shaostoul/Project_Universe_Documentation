@@ -2,4 +2,8 @@ Project Universe extends beyond a traditional video game; it's a comprehensive p
 
 Through an engaging sci-fi setting, Project Universe offers not just gameplay but an ecosystem where players can access and share 3D models, blueprints, and instructional guides for everything from simple tools to complex structures. This connects people across the globe, enabling them to create and build in real life while immersed in a futuristic, fun environment. The inspiration for Project Universe's mission is deeply connected to the belief that everyone deserves equal opportunities to learn, grow, and contribute to the collective prosperity of humanity.
 
-Initially created by Shaostoul aka Michael Boisson and his free open global community. Visit Shaostoul.com for more info and/or join the **[Discord](https://discord.gg/9XxmmeQnWC)**
+Invented by Shaostoul (Michael Boisson) and developed further with humanity's voluntary assistance.
+- Register on [Shaostoul.com](https://shaostoul.com)
+- Join the [Discord](https://discord.gg/9XxmmeQnWC)
+- Sync the [Github](https://github.com/Shaostoul/Project_Universe_Documentation)
+- View the [eBook](https://docs.shaostoul.com/)

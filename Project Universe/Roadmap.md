@@ -1,5 +1,3 @@
-### **Roadmap to Game Release and First Main Story Arc**
-
 1. **Pre-Production**
    - Establish core gameplay mechanics and design documentation.
    - Develop initial concept art and asset list.
