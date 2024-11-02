@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Project Universe.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Project Universe"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -181,10 +181,10 @@
   },
   "active": "26a9c70981b8e4ee",
   "lastOpenFiles": [
+    "Project Universe/Project_Universe.md",
     "Project Universe/SUMMARY.md",
     "Project Universe/Software.md",
     "Project Universe/Roadmap.md",
-    "Project Universe/Project Universe.md",
     "Project Universe/Ethics.md",
     "().md",
     "Project Universe/Facilities/Facilities.md",
