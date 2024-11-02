@@ -209,9 +209,7 @@
     - [Compassion](Practices/Compassion.md)
     - [Cordiality](Practices/Cordiality.md)
     - [Honor](Practices/Honor.md)
-    - [Patience](Practices/Pat
-
-ience.md)
+    - [Patience](Practices/Patience.md)
     - [Respect](Practices/Respect.md)
     - [Self-Care](Practices/Self-Care.md)
     - [Self-Confidence](Practices/Self-Confidence.md)

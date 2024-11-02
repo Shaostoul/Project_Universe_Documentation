@@ -4,5 +4,6 @@
   "livePreview": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }
