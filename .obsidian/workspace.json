@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Modules/Farming/Animals/Beekeeping.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beekeeping"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -179,12 +179,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "26a9c70981b8e4ee",
   "lastOpenFiles": [
+    "Project Universe.md",
+    "Project Universe/Project Universe.md",
+    "Project Universe/Software.md",
+    "Project Universe/SUMMARY.md",
+    "Shaostoul.com.md",
+    "Project Universe/Facilities/Facilities.md",
+    "Project Universe/vault_structure.txt",
+    "Project Universe/Table of Contents.md",
+    "Project Universe/Modules/Farming/Animals/Beekeeping.md",
     "Project Universe/Modules/Farming/Animals",
     "Project Universe/Modules/Farming/Plants",
     "Project Universe/Modules/Crafting/Woodworking.md",
-    "Project Universe/Modules/Farming/Animals/Beekeeping.md",
     "Project Universe/Modules/Crafting/Stoneworking.md",
     "Project Universe/Modules/Crafting/Metalworking.md",
     "Project Universe/Modules/Crafting/Earthworking.md",
@@ -203,20 +211,12 @@
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials/TPU (Thermoplastic Polyurethane).md",
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials/PLA (Polylactic Acid).md",
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials/PETG (Polyethylene Terephthalate Glycol-Modified).md",
-    "Project Universe/Modules/Crafting/3D Printing/Printing Materials/PET (Polyethylene Terephthalate).md",
-    "Project Universe/Modules/Crafting/3D Printing/Printing Materials/Nylon (Polyamide).md",
-    "Project Universe/Modules/Crafting/3D Printing/Printing Materials/ABS (Acrylonitrile Butadiene Styrene).md",
     "Project Universe/Modules/Crafting/3D Printing/Printing Materials",
     "Project Universe/Modules/Crafting/3D Printing/Types of 3D Printing",
     "Project Universe/Modules/Crafting/3D Printing",
-    "Project Universe/Modules/Farming/Animals/Aquaponics Fish.md",
     "Project Universe/Modules/Crafting",
-    "Project Universe/Modules/Farming/Animals/Aquaponics Shellfish.md",
-    "Project Universe/Modules/Farming/Plants/Perennial Berry Bushes.md",
     "Project Universe/Modules/Energy Systems/Energy Systems.zip",
     "Project Universe/Modules/Energy Systems",
-    "Project Universe/Modules/Farming/Plants/Plants.ods",
-    "Project Universe/Modules/Farming/lu5192c6t4e.tmp",
     "Untitled.canvas",
     "Project Universe/Diagrams/Server_Client_Relationship.drawio.png",
     "Project Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",

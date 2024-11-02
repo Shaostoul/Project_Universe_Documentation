@@ -1,21 +1,53 @@
 [book]
 title = "Project Universe"
-authors = ["Shaostoul"]
+authors = "Shaostoul"
 description = "Project Universe is a free, public-domain sci-fi fantasy simulation RPG, developed by Shaostoul's global community of volunteers, dedicated to empowering individuals and communities through unconventional, low-cost solutions in hopes of peacefully uniting humanity."
 language = "en"
-multilingual = false
+multilingual = true
 src = "Project Universe"
+keywords = [
+    "Sci-fi", 
+    "Fantasy Simulation", 
+    "RPG", 
+    "Space Exploration", 
+    "Community Development", 
+    "Open-Source", 
+    "Public Domain", 
+    "Poverty Alleviation", 
+    "Education", 
+    "Self-Sustainability", 
+    "3D Printing", 
+    "Collaborative Gameplay", 
+    "Renewable Energy", 
+    "Interstellar Travel", 
+    "Crafting Systems", 
+    "Skill Development", 
+    "Global Unity", 
+    "STEM Education", 
+    "Immersive Experience", 
+    "Player Customization", 
+    "Sustainability", 
+    "Resource Management", 
+    "Peaceful Conflict Resolution", 
+    "Empathy in Gameplay"
+]
 
 [build]
 build-dir = "book"  # Specifies where the final output will be stored
+clean = true  # Ensures old files are removed before a new build
 
 [output.html]
 default-theme = "dark"  # Dark theme for the book
 default-highlighting = "base16-ocean-dark"  # Dark-themed syntax highlighting for code blocks
 mathjax-support = true  # Enables MathJax for mathematical formulas
+theme-toggle = true  # Allows readers to switch between light and dark modes
+logo = "assets/logo.png"  # Logo displayed at the top of the HTML output
 
 [output.html.search]
 enable = true  # Enables search functionality for HTML output
 
 [output.html.fold]
 enable = true  # Enables the ability to fold sections (like accordions)
+
+[output.html.css]
+custom-css = ["styles/custom.css"]  # Path to your custom CSS file
