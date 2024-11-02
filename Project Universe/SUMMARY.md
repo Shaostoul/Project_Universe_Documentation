@@ -1,6 +1,6 @@
 # Summary
 
-- ["Project Universe"](Project-Universe.md)
+- [Project Universe](Project-Universe.md)
 - [Facilities](Facilities/Facilities.md)
   - [Home](Facilities/Home/00-Home.md)
     - [Computer](Facilities/Home/01-Computer.md)
