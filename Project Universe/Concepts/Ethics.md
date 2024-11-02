@@ -1,6 +1,3 @@
-# Ethics in Project Universe
-
-## Overview
 Ethics play a central role in *Project Universe*, guiding both the development of the game and the player's experience. This document outlines the core ethical principles that the project and its community aim to uphold, ensuring that the game reflects values of altruism, sustainability, and humanity’s greater good. However, while the game promotes nonviolence between humans, there are scenarios where violence is inevitable for survival against hostile alien species or monsters.
 
 ## Core Ethical Principles
