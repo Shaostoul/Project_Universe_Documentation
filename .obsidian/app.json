@@ -4,7 +4,7 @@
   "livePreview": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "showLineNumber": true,
   "tabSize": 5
 }
