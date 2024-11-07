@@ -6,5 +6,6 @@
   "showUnsupportedFiles": true,
   "promptDelete": true,
   "showLineNumber": true,
-  "tabSize": 5
+  "tabSize": 5,
+  "readableLineLength": false
 }

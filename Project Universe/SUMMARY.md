@@ -202,7 +202,7 @@
 	        - [Sheep](Lifeforms/Animals/Sheep.md)
 	    - [Plants](Lifeforms/Plants/Wild%20Blueberries.md)
 	        - [Wild Blueberries](Lifeforms/Plants/Wild%20Blueberries.md)
-	- [Behaviors](Behaviors.md)
+	- [Behaviors](Behaviors/Behaviors.md)
 		- [The 4 Types of Love](Behaviors/The%204%20Types%20of%20Love/The%204%20Types%20of%20Love.md)
 			- [Agape](Behaviors/The%204%20Types%20of%20Love/Agape.md)
 			- [Eros](Behaviors/The%204%20Types%20of%20Love/Eros.md)
