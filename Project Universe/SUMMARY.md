@@ -203,37 +203,37 @@
 	    - [Plants](Lifeforms/Plants/Wild%20Blueberries.md)
 	        - [Wild Blueberries](Lifeforms/Plants/Wild%20Blueberries.md)
 	- [Behaviors](Behaviors.md)
-		- [[The 4 Types of Love]]
-			- [[Agape]]
-			- [[Eros]]
-			- [[Philia]]
-			- [[Storge]]
-		- [[The 7 Capital Virtues]]
-			- [[Charity]]
-			- [[Chastity]]
-			- [[Diligence]]
-			- [[Humility]]
-			- [[Kindness]]
-			- [[Patience]]
-			- [[Temperance]]
-		- [[The 7 Deadly Sins]]
-			- [[Envy]]
-			- [[Gluttony]]
-			- [[Greed]]
-			- [[Lust]]
-			- [[Pride]]
-			- [[Sloth]]
-			- [[Wrath]]
-	    - [Altruism](Altruism.md)
-	    - [Compassion](Compassion.md)
-	    - [Cordiality](Cordiality.md)
-	    - [Honor](Honor.md)
-	    - [Respect](Respect.md)
-	    - [Self-Care](Self-Care.md)
-	    - [Self-Confidence](Self-Confidence.md)
-	    - [Self-Love](Self-Love.md)
-	    - [Unconditional Love](Unconditional%20Love.md)
-	    - [Voluntary Collaboration](Voluntary%20Collaboration.md)
+		- [The 4 Types of Love](The%204%20Types%20of%20Love.md)
+			- [Agape](Agape.md)
+			- [Eros](Eros.md)
+			- [Philia](Philia.md)
+			- [Storge](Storge.md)
+		- [The 7 Capital Virtues](The%207%20Capital%20Virtues.md)
+			- [Charity](Charity.md)
+			- [Chastity](Chastity.md)
+			- [Diligence](Diligence.md)
+			- [Humility](Humility.md)
+			- [Kindness](Kindness.md)
+			- [Patience](Patience.md)
+			- [Temperance](Temperance.md)
+		- [The 7 Deadly Sins](The%207%20Deadly%20Sins.md)
+			- [Envy](Envy.md)
+			- [Gluttony](Gluttony.md)
+			- [Greed](Greed.md)
+			- [Lust](Lust.md)
+			- [Pride](Pride.md)
+			- [Sloth](Sloth.md)
+			- [Wrath](Wrath.md)
+		- [Altruism](Altruism.md)
+		- [Compassion](Compassion.md)
+		- [Cordiality](Cordiality.md)
+		- [Honor](Honor.md)
+		- [Respect](Respect.md)
+		- [Self-Care](Self-Care.md)
+		- [Self-Confidence](Self-Confidence.md)
+		- [Self-Love](Self-Love.md)
+		- [Unconditional Love](Unconditional%20Love.md)
+		- [Voluntary Collaboration](Voluntary%20Collaboration.md)
 	- [Resources](Resources/Energy.md)
 	    - [Energy](Resources/Energy.md)
 	    - [Food](Resources/Food.md)

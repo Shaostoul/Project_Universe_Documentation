@@ -2,27 +2,27 @@
 
 **Behaviors** represent the actions, attitudes, and principles that guide how we interact with others and manage ourselves. From expressions of kindness and empathy to maintaining patience and self-discipline, our behaviors influence the quality of our relationships and personal growth. Through practices like humility, altruism, and respect, we cultivate a sense of connection and responsibility toward others and the world. By consciously developing positive behaviors, we strengthen not only our character but also the communities we inhabit, creating a foundation for a more supportive, compassionate, and resilient society.
 
-- [[The 4 Types of Love]]
-	- [[Agape]]
-	- [[Eros]]
-	- [[Philia]]
-	- [[Storge]]
-- [[The 7 Capital Virtues]]
-	- [[Charity]]
-	- [[Chastity]]
-	- [[Diligence]]
-	- [[Humility]]
-	- [[Kindness]]
-	- [[Patience]]
-	- [[Temperance]]
-- [[The 7 Deadly Sins]]
-	- [[Envy]]
-	- [[Gluttony]]
-	- [[Greed]]
-	- [[Lust]]
-	- [[Pride]]
-	- [[Sloth]]
-	- [[Wrath]]
+- [The 4 Types of Love](The%204%20Types%20of%20Love.md)
+	- [Agape](Agape.md)
+	- [Eros](Eros.md)
+	- [Philia](Philia.md)
+	- [Storge](Storge.md)
+- [The 7 Capital Virtues](The%207%20Capital%20Virtues.md)
+	- [Charity](Charity.md)
+	- [Chastity](Chastity.md)
+	- [Diligence](Diligence.md)
+	- [Humility](Humility.md)
+	- [Kindness](Kindness.md)
+	- [Patience](Patience.md)
+	- [Temperance](Temperance.md)
+- [The 7 Deadly Sins](The%207%20Deadly%20Sins.md)
+	- [Envy](Envy.md)
+	- [Gluttony](Gluttony.md)
+	- [Greed](Greed.md)
+	- [Lust](Lust.md)
+	- [Pride](Pride.md)
+	- [Sloth](Sloth.md)
+	- [Wrath](Wrath.md)
 - [Altruism](Altruism.md)
 - [Compassion](Compassion.md)
 - [Cordiality](Cordiality.md)
