@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Universe/Character/The 4 Types of Love/The 4 Types of Love.md",
+                "file": "Project Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The 4 Types of Love"
+              "title": "SUMMARY"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 505.5,
+    "collapsed": true
   },
   "right": {
     "id": "69e223c59a51bca0",
@@ -196,19 +197,25 @@
   },
   "active": "913239cf30fe14a6",
   "lastOpenFiles": [
+    "Project Universe/SUMMARY.md",
     "Project Universe/Character/The 7 Capital Virtues/The 7 Capital Virtues.md",
+    "Project Universe/Character/The 7 Capital Virtues/Patience.md",
+    "Project Universe/Modules/Energy Systems/~Table of Contents.md",
+    "Project Universe/Character/The 7 Deadly Sins/Greed.md",
     "Project Universe/Character/The 7 Deadly Sins/The 7 Deadly Sins.md",
-    "Project Universe/Character/The 4 Types of Love/The 4 Types of Love.md",
-    "Project Universe/Character/The 7 Deadly Sins/Wrath.md",
     "Project Universe/Character/The 7 Deadly Sins/Sloth.md",
+    "Project Universe/Character/The 4 Types of Love/The 4 Types of Love.md",
+    "Project Universe/Legal/Legal.md",
+    "Project Universe/Modules/Modules.md",
+    "Project Universe/Character/The 4 Types of Love/Agape.md",
+    "Project Universe/Modules/Farming/Farming.md",
+    "Project Universe/Character/The 7 Deadly Sins/Wrath.md",
     "Project Universe/Character/The 7 Deadly Sins/Pride.md",
     "Project Universe/Character/The 7 Deadly Sins/Lust.md",
-    "Project Universe/Character/The 7 Deadly Sins/Greed.md",
     "Project Universe/Character/The 7 Deadly Sins/Gluttony.md",
     "Project Universe/Character/The 7 Deadly Sins/Envy.md",
     "Project Universe/Character/The 7 Capital Virtues/Temperance.md",
     "Project Universe/Character/Altruism.md",
-    "Project Universe/Character/The 7 Capital Virtues/Patience.md",
     "Project Universe/Character/The 7 Capital Virtues/Kindness.md",
     "Project Universe/Character/The 7 Capital Virtues/Humility.md",
     "Project Universe/Character/The 7 Capital Virtues/Diligence.md",
@@ -216,12 +223,6 @@
     "Project Universe/Character/The 7 Capital Virtues/Charity.md",
     "Project Universe/Character/The 4 Types of Love/Storge.md",
     "Project Universe/Character/The 4 Types of Love/Philia.md",
-    "Project Universe/Character/The 4 Types of Love/Eros.md",
-    "Project Universe/Character/The 4 Types of Love/Agape.md",
-    "Project Universe/Health/Diet/Viome/Viome.md",
-    "Project Universe/Health/Diet/Diet.md",
-    "Project Universe/Health/Exercise/Exercise.md",
-    "Project Universe/Health/Diet/Viome/Viome Avoid List.md",
     "Project Universe/Health/Diet/Viome",
     "Project Universe/Health/Diet",
     "Project Universe/Health/Exercise",
