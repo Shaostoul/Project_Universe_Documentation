@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Project Universe/Character\"  ",
+      "query": "path:\"Project Universe/Behaviors\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3628873693012147,
+  "scale": 0.25883865621816626,
   "close": false
 }
