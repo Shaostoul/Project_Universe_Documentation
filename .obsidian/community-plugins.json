@@ -3,5 +3,6 @@
   "html-tabs",
   "tabs",
   "obsidian-latex-suite",
-  "toc-generator"
+  "toc-generator",
+  "mdbook-summary-generator"
 ]
