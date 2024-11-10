@@ -1,3 +1,6 @@
+# Table of Contents
+
+- [book.toml](book.toml)
 - **[Project_Universe]**
   - **[Concepts]**
     - [Concepts.md](Project_Universe/Concepts/Concepts.md)
@@ -452,5 +455,3 @@
   - **[Tasks]**
     - [Modeling.md](Project_Universe/Tasks/Modeling.md)
     - [Scripting.md](Project_Universe/Tasks/Scripting.md)
-  - [toc.txt](Project_Universe/toc.txt)
-  - [WIP.md](Project_Universe/WIP.md)
