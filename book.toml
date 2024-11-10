@@ -4,7 +4,7 @@ authors = ["Shaostoul"]
 description = "Project Universe is a free, public-domain sci-fi fantasy simulation RPG, developed by Shaostoul's global community of volunteers, dedicated to empowering individuals and communities through unconventional, low-cost solutions in hopes of peacefully uniting humanity."
 language = "en"
 multilingual = true
-src = "Project Universe"
+src = "Project_Universe"
 keywords = [
     "Sci-fi", 
     "Fantasy Simulation", 
