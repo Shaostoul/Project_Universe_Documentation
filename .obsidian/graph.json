@@ -1,70 +1,70 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Project Universe/Behaviors\"  ",
+      "query": "path:Project_Universe/Human_Nature  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Project Universe/Health\"  ",
+      "query": "path:Project_Universe/Health  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Project Universe/Facilities\"  ",
+      "query": "path:Project_Universe/Facilities  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"Project Universe/Game Design Document\"  ",
+      "query": "path:Project_Universe/Game_Design_Document  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:\"Project Universe/Legal\"  ",
+      "query": "path:Project_Universe/Legal  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"Project Universe/Responsibilities\"  ",
+      "query": "path:Project_Universe/Responsibilities  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:\"Project Universe/Resources\"  ",
+      "query": "path:Project_Universe/Resources  ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "path:\"Project Universe/Nature\"  ",
+      "query": "path:Project_Universe/Nature  ",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
     },
     {
-      "query": "path:\"Project Universe/Modules\"  ",
+      "query": "path:Project_Universe/Modules  ",
       "color": {
         "a": 1,
         "rgb": 14701233
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 1.49878892733564,
   "lineSizeMultiplier": 3.00778546712803,
   "collapse-forces": false,
-  "centerStrength": 0.686851211072664,
+  "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.25883865621816626,
+  "scale": 0.13168724279835634,
   "close": false
 }
