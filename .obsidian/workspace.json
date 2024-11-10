@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Project_Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               },
@@ -179,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3299312a39348118",
+  "active": "ec90e53edcf60926",
   "lastOpenFiles": [
-    "Project_Universe/SUMMARY.md",
-    "SUMMARY.md",
     "Project_Universe/Software.md",
+    "Project_Universe/SUMMARY.md",
+    "Project_Universe/SUMMARY.md",
     "Project_Universe/Roadmap.md",
     "Project_Universe/Project_Universe.md",
     "Project_Universe/Human_Nature/Morality_and_Ethics.md",
