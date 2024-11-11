@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/SUMMARY.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": true
               },
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec90e53edcf60926",
+  "active": "3299312a39348118",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "Project_Universe/Human_Nature/Challenges_and_Obstacles.md",
+    "Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md",
     "Project_Universe/SUMMARY.md",
     "Project_Universe/Concepts/Concepts.md",
-    "Project_Universe/SUMMARY.md",
     "Project_Universe/Modules/Energy Systems/Solar Energy 2.md",
     "Project_Universe/Software.md",
     "Project_Universe/Roadmap.md",
@@ -205,8 +207,6 @@
     "Project_Universe/Human_Nature/Virtues_and_Vices/Diligence.md",
     "Project_Universe/Human_Nature/Virtues_and_Vices/Compassion.md",
     "Project_Universe/Human_Nature/Virtues_and_Vices/Charity.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Anger.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Altruism.md",
     "Emotions",
     "Fundamental_Needs",
     "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues/Moral Integrity",
