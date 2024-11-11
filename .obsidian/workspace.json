@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Project_Universe/SUMMARY.md",
                 "mode": "source",
                 "source": true
               },
@@ -179,9 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3299312a39348118",
+  "active": "ec90e53edcf60926",
   "lastOpenFiles": [
-    "SUMMARY.md",
+    "Project_Universe/SUMMARY.md",
     "Project_Universe/Human_Nature/Challenges_and_Obstacles.md",
     "Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md",
     "Project_Universe/SUMMARY.md",
