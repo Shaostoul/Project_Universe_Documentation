@@ -8,5 +8,6 @@
   "showLineNumber": true,
   "tabSize": 3,
   "readableLineLength": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "strictLineBreaks": false
 }

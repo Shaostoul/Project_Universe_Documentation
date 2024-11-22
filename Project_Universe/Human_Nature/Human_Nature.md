@@ -4,156 +4,36 @@
 
 ---
 
-## Table of Contents
-
-  - [Challenges_and_Obstacles](Challenges_and_Obstacles.md)
-    - [Competition](Challenges_and_Obstacles/Competition.md)
-    - [Compulsive_Behaviors](Challenges_and_Obstacles/Compulsive_Behaviors.md)
-    - [Dependence](Challenges_and_Obstacles/Dependence.md)
-    - [Doubt](Challenges_and_Obstacles/Doubt.md)
-    - [Exclusion](Challenges_and_Obstacles/Exclusion.md)
-    - [Existential_Challenges](Challenges_and_Obstacles/Existential_Challenges.md)
-    - [Fear](Challenges_and_Obstacles/Fear.md)
-    - [Habits_and_Addictions](Challenges_and_Obstacles/Habits_and_Addictions.md)
-    - [Inner-Conflicts](Challenges_and_Obstacles/Inner-Conflicts.md)
-    - [Inner_Critic](Challenges_and_Obstacles/Inner_Critic.md)
-    - [Jealousy](Challenges_and_Obstacles/Jealousy.md)
-    - [Legacy](Challenges_and_Obstacles/Legacy.md)
-    - [Meaning](Challenges_and_Obstacles/Meaning.md)
-    - [Mortality](Challenges_and_Obstacles/Mortality.md)
-    - [Self-Sabotage](Challenges_and_Obstacles/Self-Sabotage.md)
-    - [Social_Struggles](Challenges_and_Obstacles/Social_Struggles.md)
-    - [Unproductive_Habits](Challenges_and_Obstacles/Unproductive_Habits.md)
-  - [Emotions](Emotions.md)
-    - [Anger](Emotions/Anger.md)
-    - [Challenging_Emotions](Emotions/Challenging_Emotions.md)
-    - [Contentment](Emotions/Contentment.md)
-    - [Curiosity](Emotions/Curiosity.md)
-    - [Disgust](Emotions/Disgust.md)
-    - [Fear](Emotions/Fear.md)
-    - [Gratitude](Emotions/Gratitude.md)
-    - [Hope](Emotions/Hope.md)
-    - [Inspiration](Emotions/Inspiration.md)
-    - [Jealousy](Emotions/Jealousy.md)
-    - [Joy](Emotions/Joy.md)
-    - [Love](Emotions/Love.md)
-    - [Neutral_or_Complex_Emotions](Emotions/Neutral_or_Complex_Emotions.md)
-    - [Positive_Emotions](Emotions/Positive_Emotions.md)
-    - [Regret](Emotions/Regret.md)
-    - [Sadness](Emotions/Sadness.md)
-    - [Surprise](Emotions/Surprise.md)
-  - [Fundamental_Needs](Fundamental_Needs.md)
-    - [Belonging](Fundamental_Needs/Belonging.md)
-    - [Companionship](Fundamental_Needs/Companionship.md)
-    - [Creativity](Fundamental_Needs/Creativity.md)
-    - [Food](Fundamental_Needs/Food.md)
-    - [Healthcare](Fundamental_Needs/Healthcare.md)
-    - [Love](Fundamental_Needs/Love.md)
-    - [Physical_Needs](Fundamental_Needs/Physical_Needs.md)
-    - [Psychological_Needs](Fundamental_Needs/Psychological_Needs.md)
-    - [Purpose](Fundamental_Needs/Purpose.md)
-    - [Rest](Fundamental_Needs/Rest.md)
-    - [Safety](Fundamental_Needs/Safety.md)
-    - [Security](Fundamental_Needs/Security.md)
-    - [Self-Actualization](Fundamental_Needs/Self-Actualization.md)
-    - [Self-Fulfillment_Needs](Fundamental_Needs/Self-Fulfillment_Needs.md)
-    - [Shelter](Fundamental_Needs/Shelter.md)
-    - [Social_Needs](Fundamental_Needs/Social_Needs.md)
-    - [Stability](Fundamental_Needs/Stability.md)
-    - [Water](Fundamental_Needs/Water.md)
-  - [Morality_and_Ethics](Morality_and_Ethics.md)
-    - [Accountability](Morality_and_Ethics/Accountability.md)
-    - [Admitting_Mistakes](Morality_and_Ethics/Admitting_Mistakes.md)
-    - [Charity](Morality_and_Ethics/Charity.md)
-    - [Compassion](Morality_and_Ethics/Compassion.md)
-    - [Consent](Morality_and_Ethics/Consent.md)
-    - [Empathy](Morality_and_Ethics/Empathy.md)
-    - [Fairness](Morality_and_Ethics/Fairness.md)
-    - [Forgiveness](Morality_and_Ethics/Forgiveness.md)
-    - [Honesty](Morality_and_Ethics/Honesty.md)
-    - [Integrity](Morality_and_Ethics/Integrity.md)
-    - [Justice](Morality_and_Ethics/Justice.md)
-    - [Ownership](Morality_and_Ethics/Ownership.md)
-    - [Privacy](Morality_and_Ethics/Privacy.md)
-    - [Respect_for_Others](Morality_and_Ethics/Respect_for_Others.md)
-    - [Responsibility](Morality_and_Ethics/Responsibility.md)
-    - [Seeking_Growth](Morality_and_Ethics/Seeking_Growth.md)
-  - [Motivations_and_Drives](Motivations_and_Drives.md)
-    - [Achievement](Motivations_and_Drives/Achievement.md)
-    - [Altruism](Motivations_and_Drives/Altruism.md)
-    - [Approval](Motivations_and_Drives/Approval.md)
-    - [Belonging](Motivations_and_Drives/Belonging.md)
-    - [Contribution](Motivations_and_Drives/Contribution.md)
-    - [Curiosity](Motivations_and_Drives/Curiosity.md)
-    - [Health](Motivations_and_Drives/Health.md)
-    - [Legacy](Motivations_and_Drives/Legacy.md)
-    - [Recognition](Motivations_and_Drives/Recognition.md)
-    - [Safety](Motivations_and_Drives/Safety.md)
-    - [Self-Actualization](Motivations_and_Drives/Self-Actualization.md)
-    - [Survival_Instincts](Motivations_and_Drives/Survival_Instincts.md)
-  - [Personal_Development](Personal_Development.md)
-    - [Adaptability](Personal_Development/Adaptability.md)
-    - [Diligence](Personal_Development/Diligence.md)
-    - [Health](Personal_Development/Health.md)
-    - [Introspection](Personal_Development/Introspection.md)
-    - [Mindfulness](Personal_Development/Mindfulness.md)
-    - [Patience](Personal_Development/Patience.md)
-    - [Perseverance](Personal_Development/Perseverance.md)
-    - [Physical_Discipline](Personal_Development/Physical_Discipline.md)
-    - [Self-Awareness](Personal_Development/Self-Awareness.md)
-    - [Skill_Development](Personal_Development/Skill_Development.md)
-  - [Relationships_and_Connection](Relationships_and_Connection.md)
-    - [Agape](Relationships_and_Connection/Agape.md)
-    - [Authenticity](Relationships_and_Connection/Authenticity.md)
-    - [Boundaries](Relationships_and_Connection/Boundaries.md)
-    - [Commitment](Relationships_and_Connection/Commitment.md)
-    - [Communication](Relationships_and_Connection/Communication.md)
-    - [Community_Engagement](Relationships_and_Connection/Community_Engagement.md)
-    - [Compassion](Relationships_and_Connection/Compassion.md)
-    - [Conflict_Resolution](Relationships_and_Connection/Conflict_Resolution.md)
-    - [Empathy](Relationships_and_Connection/Empathy.md)
-    - [Eros](Relationships_and_Connection/Eros.md)
-    - [Extended_Family](Relationships_and_Connection/Extended_Family.md)
-    - [Forgiveness](Relationships_and_Connection/Forgiveness.md)
-    - [Intimacy](Relationships_and_Connection/Intimacy.md)
-    - [Listening](Relationships_and_Connection/Listening.md)
-    - [Loyalty](Relationships_and_Connection/Loyalty.md)
-    - [Parent-Child](Relationships_and_Connection/Parent-Child.md)
-    - [Partnership](Relationships_and_Connection/Partnership.md)
-    - [Philia](Relationships_and_Connection/Philia.md)
-    - [Respect](Relationships_and_Connection/Respect.md)
-    - [Sibling_Relationships](Relationships_and_Connection/Sibling_Relationships.md)
-    - [Social_Support](Relationships_and_Connection/Social_Support.md)
-    - [Storge](Relationships_and_Connection/Storge.md)
-    - [Support](Relationships_and_Connection/Support.md)
-    - [Trust](Relationships_and_Connection/Trust.md)
-  - [Virtues_and_Vices](Virtues_and_Vices.md)
-    - [Altruism](Virtues_and_Vices/Altruism.md)
-    - [Anger](Virtues_and_Vices/Anger.md)
-    - [Charity](Virtues_and_Vices/Charity.md)
-    - [Chastity](Virtues_and_Vices/Chastity.md)
-    - [Compassion](Virtues_and_Vices/Compassion.md)
-    - [Cordiality](Virtues_and_Vices/Cordiality.md)
-    - [Diligence](Virtues_and_Vices/Diligence.md)
-    - [Envy](Virtues_and_Vices/Envy.md)
-    - [Fear](Virtues_and_Vices/Fear.md)
-    - [Gluttony](Virtues_and_Vices/Gluttony.md)
-    - [Greed](Virtues_and_Vices/Greed.md)
-    - [Hatred](Virtues_and_Vices/Hatred.md)
-    - [Honor](Virtues_and_Vices/Honor.md)
-    - [Kindness](Virtues_and_Vices/Kindness.md)
-    - [Laziness](Virtues_and_Vices/Laziness.md)
-    - [Lust](Virtues_and_Vices/Lust.md)
-    - [Malice](Virtues_and_Vices/Malice.md)
-    - [Pride](Virtues_and_Vices/Pride.md)
-    - [Respect](Virtues_and_Vices/Respect.md)
-    - [Self-Care](Virtues_and_Vices/Self-Care.md)
-    - [Self-Confidence](Virtues_and_Vices/Self-Confidence.md)
-    - [Self-Love](Virtues_and_Vices/Self-Love.md)
-    - [Sloth](Virtues_and_Vices/Sloth.md)
-    - [Temperance](Virtues_and_Vices/Temperance.md)
-    - [Unconditional_Love](Virtues_and_Vices/Unconditional_Love.md)
-    - [Vices](Virtues_and_Vices/Vices.md)
-    - [Virtues](Virtues_and_Vices/Virtues.md)
-    - [Voluntary_Collaboration](Virtues_and_Vices/Voluntary_Collaboration.md)
-    - [Wrath](Virtues_and_Vices/Wrath.md)
+<div class="collapsible-tabs">
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md">Challenges_and_Obstacles</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Emotions/Emotions.md">Emotions</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Fundamental_Needs/Fundamental_Needs.md">Fundamental_Needs</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Morality_and_Ethics.md">Morality_and_Ethics</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Motivations_and_Drives/Motivations_and_Drives.md">Motivations_and_Drives</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Personal_Development/Personal_Development.md">Personal_Development</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Relationships_and_Connection/Relationships_and_Connection.md">Relationships_and_Connection</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Virtues_and_Vices/Virtues_and_Vices.md">Virtues_and_Vices</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div></div>

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6905b3d0fb874849",
+    "id": "9a3804759a646b35",
     "type": "split",
     "children": [
       {
-        "id": "24e269600d7c0926",
+        "id": "445aa544b12f7cca",
         "type": "tabs",
         "children": [
           {
-            "id": "3299312a39348118",
+            "id": "cf681318688a59d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/Human_Nature/Fundamental_Needs.md",
+                "file": "Project_Universe/Human_Nature/Fundamental_Needs/Fundamental_Needs.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d585ede7cc326bc7",
+    "id": "e28a017dc01772a9",
     "type": "split",
     "children": [
       {
-        "id": "3a293c927b12a320",
+        "id": "d81cd41b017d9ac1",
         "type": "tabs",
         "children": [
           {
-            "id": "ec90e53edcf60926",
+            "id": "f8ce6bb2fc41a6f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "3dcd7ae7df780e1b",
+            "id": "c185fa4c99dd5a09",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "4e3557b9d85a63b0",
+            "id": "9ec5f4b200ddc053",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +77,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 300
   },
   "right": {
-    "id": "69e223c59a51bca0",
+    "id": "205c3ee9466d51c9",
     "type": "split",
     "children": [
       {
-        "id": "cdc190cc2ab0d0c7",
+        "id": "427728cb980c4bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "85df5a0b2b7daeb4",
+            "id": "c8940fc812483d16",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Universe/Farming/Soil Amendments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +102,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Soil Amendments"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bef8ec82a88af35b",
+            "id": "7850f69e0934fc28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Universe/Input-Output Devices/Hardware Wishlist.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hardware Wishlist"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2a8d2d2d18e2b781",
+            "id": "4f77150166a09bb4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,19 +132,7 @@
             }
           },
           {
-            "id": "c66cbfadf51f5131",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Project Universe/Input-Output Devices/Hardware Wishlist.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Hardware Wishlist"
-            }
-          },
-          {
-            "id": "ed27960b4376f193",
+            "id": "44192b446301120d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,9 +144,18 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "8e3b094eb3a06e7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,54 +174,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3299312a39348118",
+  "active": "cf681318688a59d0",
   "lastOpenFiles": [
-    "Project_Universe/Human_Nature/Relationships_and_Connection.md",
-    "Project_Universe/Human_Nature/Personal_Development.md",
-    "Project_Universe/Human_Nature/Motivations_and_Drives.md",
-    "Project_Universe/Human_Nature/Morality_and_Ethics.md",
-    "Project_Universe/Human_Nature/Human_Nature.md",
-    "Project_Universe/Human_Nature/Fundamental_Needs.md",
-    "Project_Universe/Human_Nature/Emotions.md",
-    "Project_Universe/Human_Nature/Challenges_and_Obstacles.md",
-    "Project_Universe/Software.md",
-    "Project_Universe/SUMMARY.md",
-    "Project_Universe/Human_Nature/Motivations_and_Drives/Altruism.md",
-    "Project_Universe/Human_Nature/Motivations_and_Drives/Approval.md",
-    "Project_Universe/Health/Diet/Viome/Viome.md",
-    "Project_Universe/Health/Diet/Viome/Avoid_List.md",
-    "Project_Universe/Health/Diet/Viome/Superfood.md",
-    "Project_Universe/Health/Diet/Viome/Minimize_List.md",
-    "Project_Universe/Health/Diet/Viome/Enjoy_List.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Self-Confidence.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Malice.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Gluttony.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Chastity.md",
-    "Project_Universe/Human_Nature/Virtues_and_Vices.md",
     "Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md",
-    "Project_Universe/Concepts/Concepts.md",
-    "Project_Universe/Modules/Energy Systems/Solar Energy 2.md",
+    "Project_Universe/Human_Nature/Emotions/Emotions.md",
+    "Project_Universe/Human_Nature/Emotions/Fear.md",
+    "Project_Universe/Human_Nature/Emotions/Inspiration.md",
+    "Project_Universe/Human_Nature/Emotions/Love.md",
+    "Project_Universe/Human_Nature/Emotions/Surprise.md",
+    "Project_Universe/Human_Nature/Emotions/Gratitude.md",
+    "Project_Universe/Human_Nature/Emotions/Jealousy.md",
+    "Project_Universe/Project_Universe.md",
     "Project_Universe/Roadmap.md",
-    "Emotions",
-    "Fundamental_Needs",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues/Moral Integrity",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues/Intrapersonal",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues/Interpersonal",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues/Altruistic and Collaborative",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Vices/Self-Destructive",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Vices/Relationally Destructive",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Vices/Miscellaneous",
-    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues",
-    "Untitled.canvas",
-    "Project_Universe/Diagrams/Server_Client_Relationship.drawio.png",
-    "Project_Universe/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
-    "Project_Universe/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
-    "Project_Universe/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
-    "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship.drawio.png",
-    "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 3.drawio.png",
-    "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 2.drawio.png",
-    "Project_Universe_Documentation/src/Diagrams/Server_Client_Relationship-Idea 1.drawio.png",
-    "Diagrams/Server_Client_Relationship.drawio.png",
-    "Diagrams/Server_Client_Relationship-Idea 3.drawio.png"
+    "Project_Universe/Human_Nature/Human_Nature.md",
+    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues_and_Vices.md",
+    "Project_Universe/Facilities/Facilities.md",
+    "Project_Universe/Facilities/Social/Social.md",
+    "Project_Universe/Concepts/Concepts.md",
+    "Project_Universe/Diagrams/Diagrams.md",
+    "Project_Universe/Facilities/Industrial/Industrial.md",
+    "Project_Universe/Facilities/Social/Theater.md",
+    "Project_Universe/Facilities/Home/Home.md",
+    "Project_Universe/Health/Health.md",
+    "Project_Universe/Software.md"
   ]
 }

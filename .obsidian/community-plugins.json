@@ -1,8 +1,7 @@
 [
   "obsidian-git",
-  "html-tabs",
-  "tabs",
-  "obsidian-latex-suite",
   "toc-generator",
-  "mdbook-summary-generator"
+  "mdbook-summary-generator",
+  "dummy-plugin",
+  "folder-tabs-plugin"
 ]

@@ -10,7 +10,7 @@ Your **Home** serves as the central hub for most player activities within Projec
 6. **[Kitchen](Kitchen.md)** - A dynamic environment for learning culinary skills, meal planning, and nutrition tracking.
 7. **[Livingroom](Livingroom.md)** - A communal space for leisure, social interaction, and recovery.
 8. **[Study](Library.md)** - A dedicated area for learning, research, and creative work.
-9. **[Garden](Garden.md)** - A sustainable farming space, providing both food and educational experiences.
+9. **[Garden](Project_Universe/Facilities/Home/Garden.md)** - A sustainable farming space, providing both food and educational experiences.
 10. **[Garage](Garage.md)** - A practical workshop for crafting, vehicle maintenance, and storage.
 11. **[Depot](Depot.md)** - The central hub for managing resources, tools, and distribution.
 12. **[Hangar](Hangar.md)** - A large facility for vehicle construction, customization, and launch.
