@@ -253,7 +253,7 @@
   - [Construction](Modules/Construction.md)
   - [Crafting](Modules/Crafting/Crafting.md)
     - [3D_Printing](Modules/Crafting/3D_Printing/3D_Printing.md)
-      - Printing_Materials
+      - [Printing_Materials](#)
         - [ABS_(Acrylonitrile_Butadiene_Styrene)](Modules/Crafting/3D_Printing/Printing_Materials/ABS_(Acrylonitrile_Butadiene_Styrene).md)
         - [Metal_Filaments](Modules/Crafting/3D_Printing/Printing_Materials/Metal_Filaments.md)
         - [Nylon_(Polyamide)](Modules/Crafting/3D_Printing/Printing_Materials/Nylon_(Polyamide).md)
@@ -263,7 +263,7 @@
         - [Resin](Modules/Crafting/3D_Printing/Printing_Materials/Resin.md)
         - [Specialty_Filaments](Modules/Crafting/3D_Printing/Printing_Materials/Specialty_Filaments.md)
         - [TPU_(Thermoplastic_Polyurethane)](Modules/Crafting/3D_Printing/Printing_Materials/TPU_(Thermoplastic_Polyurethane).md)
-      - Types_of_3D_Printing
+      - [Types_of_3D_Printing](#)
         - [DLP_(Digital_Light_Processing)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/DLP_(Digital_Light_Processing).md)
         - [DMLS_(Direct_Metal_Laser_Sintering)_and_SLM_(Selective_Laser_Melting)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/DMLS_(Direct_Metal_Laser_Sintering)_and_SLM_(Selective_Laser_Melting).md)
         - [FDM_(Fused_Deposition_Modeling)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/FDM_(Fused_Deposition_Modeling).md)
@@ -347,20 +347,20 @@
   - [~Gameplay_Mechanics](Modules/~Gameplay_Mechanics.md)
 - [Nature](Nature/Nature.md)
   - [Astronomical_Objects](Nature/Astronomical_Objects/Astronomical_Objects.md)
-    - Asteroids
+    - [Asteroids](#)
       - [Example_Asteroid](Nature/Astronomical_Objects/Asteroids/Example_Asteroid.md)
-    - Galaxies
+    - [Galaxies](#)
       - [Milky_Way](Nature/Astronomical_Objects/Galaxies/Milky_Way.md)
-    - Solar_Systems
+    - [Solar_Systems](#)
       - [Sun](Nature/Astronomical_Objects/Solar_Systems/Sun/Sun.md)
-        - Asteroid_Belts
+        - [Asteroid_Belts](#)
           - [Asteroid_Belt](Nature/Astronomical_Objects/Solar_Systems/Sun/Asteroid_Belts/Asteroid_Belt.md)
           - [Kuiper_Belt](Nature/Astronomical_Objects/Solar_Systems/Sun/Asteroid_Belts/Kuiper_Belt.md)
-        - Dwarf_Planets
+        - [Dwarf_Planets](#)
           - [Pluto](Nature/Astronomical_Objects/Solar_Systems/Sun/Dwarf_Planets/Pluto/Pluto.md)
-        - Planets
+        - [Planets](#)
           - [Earth](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Earth/Earth.md)
-            - Moons
+            - [Moons](#)
               - [Moon](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Earth/Moons/Moon.md)
           - [Jupiter](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Jupiter/Jupiter.md)
           - [Mars](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Mars/Mars.md)
@@ -369,7 +369,7 @@
           - [Saturn](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Saturn/Saturn.md)
           - [Uranus](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Uranus/Uranus.md)
           - [Venus](Nature/Astronomical_Objects/Solar_Systems/Sun/Planets/Venus/Venus.md)
-    - Universes
+    - [Universes](#)
       - [Our_Universe](Nature/Astronomical_Objects/Universes/Our_Universe.md)
   - [Lifeforms](Nature/Lifeforms/Lifeforms.md)
     - [Animals](Nature/Lifeforms/Animals/Animals.md)
