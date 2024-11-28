@@ -2,5 +2,7 @@
   "obsidian-git",
   "interactive_table_of_contents_tabs",
   "expandable_table_of_contents",
-  "mdbook-automation"
+  "mdbook-automation",
+  "mdbook_summary_generator",
+  "table_of_contents_generator"
 ]

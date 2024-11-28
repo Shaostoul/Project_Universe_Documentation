@@ -8,8 +8,8 @@ Personalized approaches to diet—such as those informed by microbiome analysis 
 
 Ultimately, diet and exercise together are essential for holistic health, with diet laying the groundwork by fueling and nourishing the body, allowing for effective physical activity, recovery, and overall vitality.
 
-<div class="collapsible-tabs">
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Health/Diet/Viome/Viome.md">Viome</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div></div>
+- [Viome](Project_Universe/Health/Diet/Viome/Viome.md)
+  - [Avoid_List](Project_Universe/Health/Diet/Viome/Avoid_List.md)
+  - [Enjoy_List](Project_Universe/Health/Diet/Viome/Enjoy_List.md)
+  - [Minimize_List](Project_Universe/Health/Diet/Viome/Minimize_List.md)
+  - [Superfood](Project_Universe/Health/Diet/Viome/Superfood.md)

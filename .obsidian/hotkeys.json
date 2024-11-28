@@ -7,7 +7,7 @@
       "key": "Q"
     }
   ],
-  "expandable_table_of_contents:insert-expandable-toc": [
+  "table_of_contents_generator:generate-toc-for-active-file": [
     {
       "modifiers": [
         "Mod"

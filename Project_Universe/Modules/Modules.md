@@ -2,92 +2,99 @@
 
 This folder covers the various gameplay modules within Project Universe, detailing different aspects of game mechanics, player interaction, and in-game activities. Each module is designed to enhance the player's experience and support the overall vision of the game.
 
-<div class="collapsible-tabs">
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/AI.md">AI</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Combat.md">Combat</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Construction.md">Construction</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Crafting/Crafting.md">Crafting</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting.md">Crafting</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Customization.md">Customization</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Energy_Systems/Energy_Systems.md">Energy_Systems</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Exploration.md">Exploration</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Farming/Farming.md">Farming</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Inventory.md">Inventory</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Minimap.md">Minimap</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Mining.md">Mining</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Missions.md">Missions</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Movement.md">Movement</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Multiplayer.md">Multiplayer</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Offline_Single_Player.md">Offline_Single_Player</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Progression.md">Progression</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Resource_Gathering.md">Resource_Gathering</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Ship_Management.md">Ship_Management</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Survival.md">Survival</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Trading.md">Trading</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/~Gameplay_Mechanics.md">~Gameplay_Mechanics</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div></div>
+- [AI](Modules/AI.md)
+- [Combat](Modules/Combat.md)
+- [Construction](Modules/Construction.md)
+- [Crafting](Modules/Crafting/Crafting.md)
+  - [3D_Printing](Modules/Crafting/3D_Printing/3D_Printing.md)
+    - [Printing_Materials](#)
+      - [ABS_(Acrylonitrile_Butadiene_Styrene)](Modules/Crafting/3D_Printing/Printing_Materials/ABS_(Acrylonitrile_Butadiene_Styrene).md)
+      - [Metal_Filaments](Modules/Crafting/3D_Printing/Printing_Materials/Metal_Filaments.md)
+      - [Nylon_(Polyamide)](Modules/Crafting/3D_Printing/Printing_Materials/Nylon_(Polyamide).md)
+      - [PETG_(Polyethylene_Terephthalate_Glycol-Modified)](Modules/Crafting/3D_Printing/Printing_Materials/PETG_(Polyethylene_Terephthalate_Glycol-Modified).md)
+      - [PET_(Polyethylene_Terephthalate)](Modules/Crafting/3D_Printing/Printing_Materials/PET_(Polyethylene_Terephthalate).md)
+      - [PLA_(Polylactic_Acid)](Modules/Crafting/3D_Printing/Printing_Materials/PLA_(Polylactic_Acid).md)
+      - [Resin](Modules/Crafting/3D_Printing/Printing_Materials/Resin.md)
+      - [Specialty_Filaments](Modules/Crafting/3D_Printing/Printing_Materials/Specialty_Filaments.md)
+      - [TPU_(Thermoplastic_Polyurethane)](Modules/Crafting/3D_Printing/Printing_Materials/TPU_(Thermoplastic_Polyurethane).md)
+    - [Types_of_3D_Printing](#)
+      - [DLP_(Digital_Light_Processing)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/DLP_(Digital_Light_Processing).md)
+      - [DMLS_(Direct_Metal_Laser_Sintering)_and_SLM_(Selective_Laser_Melting)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/DMLS_(Direct_Metal_Laser_Sintering)_and_SLM_(Selective_Laser_Melting).md)
+      - [FDM_(Fused_Deposition_Modeling)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/FDM_(Fused_Deposition_Modeling).md)
+      - [Material_Jetting](Modules/Crafting/3D_Printing/Types_of_3D_Printing/Material_Jetting.md)
+      - [SLA_(Stereolithography)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/SLA_(Stereolithography).md)
+      - [SLS_(Selective_Laser_Sintering)](Modules/Crafting/3D_Printing/Types_of_3D_Printing/SLS_(Selective_Laser_Sintering).md)
+  - [Clayworking](Modules/Crafting/Clayworking.md)
+  - [Earthworking](Modules/Crafting/Earthworking.md)
+  - [Metalworking](Modules/Crafting/Metalworking.md)
+  - [Stoneworking](Modules/Crafting/Stoneworking.md)
+  - [Woodworking](Modules/Crafting/Woodworking.md)
+- [Customization](Modules/Customization.md)
+- [Energy_Systems](Modules/Energy_Systems/Energy_Systems.md)
+  - [Batteries](Modules/Energy_Systems/Batteries.md)
+  - [Biomass_and_Bioenergy](Modules/Energy_Systems/Biomass_and_Bioenergy.md)
+  - [Chemical_Storage](Modules/Energy_Systems/Chemical_Storage.md)
+  - [Electromagnetic_Field_(EMF)_Harvesting](Modules/Energy_Systems/Electromagnetic_Field_(EMF)_Harvesting.md)
+  - [Emissions_and_Pollution](Modules/Energy_Systems/Emissions_and_Pollution.md)
+  - [Energy_Efficiency](Modules/Energy_Systems/Energy_Efficiency.md)
+  - [Energy_Processes](Modules/Energy_Systems/Energy_Processes.md)
+  - [Energy_Production](Modules/Energy_Systems/Energy_Production.md)
+  - [Energy_Production_Comparison](Modules/Energy_Systems/Energy_Production_Comparison.md)
+  - [Energy_Storage](Modules/Energy_Systems/Energy_Storage.md)
+  - [Energy_System_Design_Note_for_Unreal_Engine_5](Modules/Energy_Systems/Energy_System_Design_Note_for_Unreal_Engine_5.md)
+  - [Energy_Transmission_and_Distribution](Modules/Energy_Systems/Energy_Transmission_and_Distribution.md)
+  - [Environmental_and_Social_Impact_of_Energy](Modules/Energy_Systems/Environmental_and_Social_Impact_of_Energy.md)
+  - [Fossil_Fuels](Modules/Energy_Systems/Fossil_Fuels.md)
+  - [Geothermal_Energy](Modules/Energy_Systems/Geothermal_Energy.md)
+  - [Health_and_Safety_in_Energy_Systems](Modules/Energy_Systems/Health_and_Safety_in_Energy_Systems.md)
+  - [Hydro_Energy](Modules/Energy_Systems/Hydro_Energy.md)
+  - [Land_and_Water_Use](Modules/Energy_Systems/Land_and_Water_Use.md)
+  - [Mechanical_Storage](Modules/Energy_Systems/Mechanical_Storage.md)
+  - [Nuclear_Energy](Modules/Energy_Systems/Nuclear_Energy.md)
+  - [Power_Grids](Modules/Energy_Systems/Power_Grids.md)
+  - [Smart_Grids](Modules/Energy_Systems/Smart_Grids.md)
+  - [Solar_Energy](Modules/Energy_Systems/Solar_Energy.md)
+  - [Solar_Energy_2](Modules/Energy_Systems/Solar_Energy_2.md)
+  - [Sustainable_and_Future_Energy_Technologies](Modules/Energy_Systems/Sustainable_and_Future_Energy_Technologies.md)
+  - [Wind_Energy](Modules/Energy_Systems/Wind_Energy.md)
+  - [WIP_Concept](Modules/Energy_Systems/WIP_Concept.md)
+  - [Wireless_Power_Transmission](Modules/Energy_Systems/Wireless_Power_Transmission.md)
+  - [~Glossary](Modules/Energy_Systems/~Glossary.md)
+  - [~Introduction](Modules/Energy_Systems/~Introduction.md)
+  - [~Table_of_Contents](Modules/Energy_Systems/~Table_of_Contents.md)
+- [Exploration](Modules/Exploration.md)
+- [Farming](Modules/Farming/Farming.md)
+  - [Animals](Modules/Farming/Animals/Animals.md)
+    - [Aquaponics_Fish](Modules/Farming/Animals/Aquaponics_Fish.md)
+    - [Aquaponics_Shellfish](Modules/Farming/Animals/Aquaponics_Shellfish.md)
+    - [Beekeeping](Modules/Farming/Animals/Beekeeping.md)
+  - [Closed_Loop_Habitat](Modules/Farming/Closed_Loop_Habitat.md)
+  - [Coconut_Husks_as_Soil_Amendment](Modules/Farming/Coconut_Husks_as_Soil_Amendment.md)
+  - [Farming_Animals_Key_Factors](Modules/Farming/Farming_Animals_Key_Factors.md)
+  - [Farming_Fungus_Key_Factors](Modules/Farming/Farming_Fungus_Key_Factors.md)
+  - [Farming_Plants_Key_Factors](Modules/Farming/Farming_Plants_Key_Factors.md)
+  - [Plants](Modules/Farming/Plants/Plants.ods)
+    - [Perennial_Berry_Bushes](Modules/Farming/Plants/Perennial_Berry_Bushes.md)
+    - [Perennial_Fruit_Trees](Modules/Farming/Plants/Perennial_Fruit_Trees.md)
+    - [Perennial_Vegetables](Modules/Farming/Plants/Perennial_Vegetables.md)
+    - [Perennial_Vines](Modules/Farming/Plants/Perennial_Vines.md)
+    - [Perennial_Herbs](Modules/Farming/Plants/Perennial_Herbs.md)
+  - [Plant_Lifespans](Modules/Farming/Plant_Lifespans.md)
+  - [Products_from_Animals](Modules/Farming/Products_from_Animals.md)
+  - [Products_from_Plants](Modules/Farming/Products_from_Plants.md)
+  - [Soil_-_The_Foundation_of_Gardening](Modules/Farming/Soil_-_The_Foundation_of_Gardening.md)
+  - [Soil_Amendments](Modules/Farming/Soil_Amendments.md)
+  - [Used_Coffee_Grounds_as_Fertilizer](Modules/Farming/Used_Coffee_Grounds_as_Fertilizer.md)
+- [Inventory](Modules/Inventory.md)
+- [Minimap](Modules/Minimap.md)
+- [Mining](Modules/Mining.md)
+- [Missions](Modules/Missions.md)
+- [Movement](Modules/Movement.md)
+- [Multiplayer](Modules/Multiplayer.md)
+- [Offline_Single_Player](Modules/Offline_Single_Player.md)
+- [Progression](Modules/Progression.md)
+- [Resource_Gathering](Modules/Resource_Gathering.md)
+- [Ship_Management](Modules/Ship_Management.md)
+- [Survival](Modules/Survival.md)
+- [Trading](Modules/Trading.md)
+- [~Gameplay_Mechanics](Modules/~Gameplay_Mechanics.md)

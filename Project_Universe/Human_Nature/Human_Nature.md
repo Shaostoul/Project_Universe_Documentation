@@ -2,36 +2,135 @@
 
 **Human Nature** explores the core qualities, needs, emotions, and motivations that shape our lives and relationships. This collection of notes provides insights into positive traits, challenges, and the fundamental aspects of our existence, supporting self-awareness, growth, and deeper understanding of ourselves and others.
 
-<div class="collapsible-tabs">
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md">Challenges_and_Obstacles</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Emotions/Emotions.md">Emotions</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Fundamental_Needs/Fundamental_Needs.md">Fundamental_Needs</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Morality_and_Ethics.md">Morality_and_Ethics</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Motivations_and_Drives/Motivations_and_Drives.md">Motivations_and_Drives</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Personal_Development/Personal_Development.md">Personal_Development</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Relationships_and_Connection/Relationships_and_Connection.md">Relationships_and_Connection</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Virtues_and_Vices/Virtues_and_Vices.md">Virtues_and_Vices</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div></div>
+- [Challenges_and_Obstacles](Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md)
+  - [Competition](Project_Universe/Human_Nature/Challenges_and_Obstacles/Competition.md)
+  - [Compulsive_Behaviors](Project_Universe/Human_Nature/Challenges_and_Obstacles/Compulsive_Behaviors.md)
+  - [Dependence](Project_Universe/Human_Nature/Challenges_and_Obstacles/Dependence.md)
+  - [Doubt](Project_Universe/Human_Nature/Challenges_and_Obstacles/Doubt.md)
+  - [Exclusion](Project_Universe/Human_Nature/Challenges_and_Obstacles/Exclusion.md)
+  - [Existential_Challenges](Project_Universe/Human_Nature/Challenges_and_Obstacles/Existential_Challenges.md)
+  - [Fear](Project_Universe/Human_Nature/Challenges_and_Obstacles/Fear.md)
+  - [Habits_and_Addictions](Project_Universe/Human_Nature/Challenges_and_Obstacles/Habits_and_Addictions.md)
+  - [Inner-Conflicts](Project_Universe/Human_Nature/Challenges_and_Obstacles/Inner-Conflicts.md)
+  - [Inner_Critic](Project_Universe/Human_Nature/Challenges_and_Obstacles/Inner_Critic.md)
+  - [Jealousy](Project_Universe/Human_Nature/Challenges_and_Obstacles/Jealousy.md)
+  - [Legacy](Project_Universe/Human_Nature/Challenges_and_Obstacles/Legacy.md)
+  - [Meaning](Project_Universe/Human_Nature/Challenges_and_Obstacles/Meaning.md)
+  - [Mortality](Project_Universe/Human_Nature/Challenges_and_Obstacles/Mortality.md)
+  - [Self-Sabotage](Project_Universe/Human_Nature/Challenges_and_Obstacles/Self-Sabotage.md)
+  - [Social_Struggles](Project_Universe/Human_Nature/Challenges_and_Obstacles/Social_Struggles.md)
+  - [Unproductive_Habits](Project_Universe/Human_Nature/Challenges_and_Obstacles/Unproductive_Habits.md)
+- [Emotions](Project_Universe/Human_Nature/Emotions/Emotions.md)
+  - [Anger](Project_Universe/Human_Nature/Emotions/Anger.md)
+  - [Challenging_Emotions](Project_Universe/Human_Nature/Emotions/Challenging_Emotions.md)
+  - [Contentment](Project_Universe/Human_Nature/Emotions/Contentment.md)
+  - [Curiosity](Project_Universe/Human_Nature/Emotions/Curiosity.md)
+  - [Disgust](Project_Universe/Human_Nature/Emotions/Disgust.md)
+  - [Gratitude](Project_Universe/Human_Nature/Emotions/Gratitude.md)
+  - [Hope](Project_Universe/Human_Nature/Emotions/Hope.md)
+  - [Inspiration](Project_Universe/Human_Nature/Emotions/Inspiration.md)
+  - [Joy](Project_Universe/Human_Nature/Emotions/Joy.md)
+  - [Love](Project_Universe/Human_Nature/Emotions/Love.md)
+  - [Neutral_or_Complex_Emotions](Project_Universe/Human_Nature/Emotions/Neutral_or_Complex_Emotions.md)
+  - [Positive_Emotions](Project_Universe/Human_Nature/Emotions/Positive_Emotions.md)
+  - [Regret](Project_Universe/Human_Nature/Emotions/Regret.md)
+  - [Sadness](Project_Universe/Human_Nature/Emotions/Sadness.md)
+  - [Surprise](Project_Universe/Human_Nature/Emotions/Surprise.md)
+- [Fundamental_Needs](Project_Universe/Human_Nature/Fundamental_Needs/Fundamental_Needs.md)
+  - [Belonging](Project_Universe/Human_Nature/Fundamental_Needs/Belonging.md)
+  - [Companionship](Project_Universe/Human_Nature/Fundamental_Needs/Companionship.md)
+  - [Creativity](Project_Universe/Human_Nature/Fundamental_Needs/Creativity.md)
+  - [Food](Project_Universe/Human_Nature/Fundamental_Needs/Food.md)
+  - [Healthcare](Project_Universe/Human_Nature/Fundamental_Needs/Healthcare.md)
+  - [Physical_Needs](Project_Universe/Human_Nature/Fundamental_Needs/Physical_Needs.md)
+  - [Psychological_Needs](Project_Universe/Human_Nature/Fundamental_Needs/Psychological_Needs.md)
+  - [Purpose](Project_Universe/Human_Nature/Fundamental_Needs/Purpose.md)
+  - [Rest](Project_Universe/Human_Nature/Fundamental_Needs/Rest.md)
+  - [Safety](Project_Universe/Human_Nature/Fundamental_Needs/Safety.md)
+  - [Security](Project_Universe/Human_Nature/Fundamental_Needs/Security.md)
+  - [Self-Actualization](Project_Universe/Human_Nature/Fundamental_Needs/Self-Actualization.md)
+  - [Self-Fulfillment_Needs](Project_Universe/Human_Nature/Fundamental_Needs/Self-Fulfillment_Needs.md)
+  - [Shelter](Project_Universe/Human_Nature/Fundamental_Needs/Shelter.md)
+  - [Social_Needs](Project_Universe/Human_Nature/Fundamental_Needs/Social_Needs.md)
+  - [Stability](Project_Universe/Human_Nature/Fundamental_Needs/Stability.md)
+  - [Water](Project_Universe/Human_Nature/Fundamental_Needs/Water.md)
+- [Morality_and_Ethics](Project_Universe/Human_Nature/Morality_and_Ethics/Morality_and_Ethics.md)
+  - [Accountability](Project_Universe/Human_Nature/Morality_and_Ethics/Accountability.md)
+  - [Admitting_Mistakes](Project_Universe/Human_Nature/Morality_and_Ethics/Admitting_Mistakes.md)
+  - [Charity](Project_Universe/Human_Nature/Morality_and_Ethics/Charity.md)
+  - [Compassion](Project_Universe/Human_Nature/Morality_and_Ethics/Compassion.md)
+  - [Consent](Project_Universe/Human_Nature/Morality_and_Ethics/Consent.md)
+  - [Empathy](Project_Universe/Human_Nature/Morality_and_Ethics/Empathy.md)
+  - [Fairness](Project_Universe/Human_Nature/Morality_and_Ethics/Fairness.md)
+  - [Forgiveness](Project_Universe/Human_Nature/Morality_and_Ethics/Forgiveness.md)
+  - [Honesty](Project_Universe/Human_Nature/Morality_and_Ethics/Honesty.md)
+  - [Integrity](Project_Universe/Human_Nature/Morality_and_Ethics/Integrity.md)
+  - [Justice](Project_Universe/Human_Nature/Morality_and_Ethics/Justice.md)
+  - [Ownership](Project_Universe/Human_Nature/Morality_and_Ethics/Ownership.md)
+  - [Privacy](Project_Universe/Human_Nature/Morality_and_Ethics/Privacy.md)
+  - [Respect_for_Others](Project_Universe/Human_Nature/Morality_and_Ethics/Respect_for_Others.md)
+  - [Responsibility](Project_Universe/Human_Nature/Morality_and_Ethics/Responsibility.md)
+  - [Seeking_Growth](Project_Universe/Human_Nature/Morality_and_Ethics/Seeking_Growth.md)
+- [Motivations_and_Drives](Project_Universe/Human_Nature/Motivations_and_Drives/Motivations_and_Drives.md)
+  - [Achievement](Project_Universe/Human_Nature/Motivations_and_Drives/Achievement.md)
+  - [Altruism](Project_Universe/Human_Nature/Motivations_and_Drives/Altruism.md)
+  - [Approval](Project_Universe/Human_Nature/Motivations_and_Drives/Approval.md)
+  - [Contribution](Project_Universe/Human_Nature/Motivations_and_Drives/Contribution.md)
+  - [Health](Project_Universe/Human_Nature/Motivations_and_Drives/Health.md)
+  - [Recognition](Project_Universe/Human_Nature/Motivations_and_Drives/Recognition.md)
+  - [Survival_Instincts](Project_Universe/Human_Nature/Motivations_and_Drives/Survival_Instincts.md)
+- [Personal_Development](Project_Universe/Human_Nature/Personal_Development/Personal_Development.md)
+  - [Adaptability](Project_Universe/Human_Nature/Personal_Development/Adaptability.md)
+  - [Diligence](Project_Universe/Human_Nature/Personal_Development/Diligence.md)
+  - [Introspection](Project_Universe/Human_Nature/Personal_Development/Introspection.md)
+  - [Mindfulness](Project_Universe/Human_Nature/Personal_Development/Mindfulness.md)
+  - [Patience](Project_Universe/Human_Nature/Personal_Development/Patience.md)
+  - [Perseverance](Project_Universe/Human_Nature/Personal_Development/Perseverance.md)
+  - [Physical_Discipline](Project_Universe/Human_Nature/Personal_Development/Physical_Discipline.md)
+  - [Self-Awareness](Project_Universe/Human_Nature/Personal_Development/Self-Awareness.md)
+  - [Skill_Development](Project_Universe/Human_Nature/Personal_Development/Skill_Development.md)
+- [Relationships_and_Connection](Project_Universe/Human_Nature/Relationships_and_Connection/Relationships_and_Connection.md)
+  - [Agape](Project_Universe/Human_Nature/Relationships_and_Connection/Agape.md)
+  - [Authenticity](Project_Universe/Human_Nature/Relationships_and_Connection/Authenticity.md)
+  - [Boundaries](Project_Universe/Human_Nature/Relationships_and_Connection/Boundaries.md)
+  - [Commitment](Project_Universe/Human_Nature/Relationships_and_Connection/Commitment.md)
+  - [Communication](Project_Universe/Human_Nature/Relationships_and_Connection/Communication.md)
+  - [Community_Engagement](Project_Universe/Human_Nature/Relationships_and_Connection/Community_Engagement.md)
+  - [Conflict_Resolution](Project_Universe/Human_Nature/Relationships_and_Connection/Conflict_Resolution.md)
+  - [Eros](Project_Universe/Human_Nature/Relationships_and_Connection/Eros.md)
+  - [Extended_Family](Project_Universe/Human_Nature/Relationships_and_Connection/Extended_Family.md)
+  - [Intimacy](Project_Universe/Human_Nature/Relationships_and_Connection/Intimacy.md)
+  - [Listening](Project_Universe/Human_Nature/Relationships_and_Connection/Listening.md)
+  - [Loyalty](Project_Universe/Human_Nature/Relationships_and_Connection/Loyalty.md)
+  - [Parent-Child](Project_Universe/Human_Nature/Relationships_and_Connection/Parent-Child.md)
+  - [Partnership](Project_Universe/Human_Nature/Relationships_and_Connection/Partnership.md)
+  - [Philia](Project_Universe/Human_Nature/Relationships_and_Connection/Philia.md)
+  - [Respect](Project_Universe/Human_Nature/Relationships_and_Connection/Respect.md)
+  - [Sibling_Relationships](Project_Universe/Human_Nature/Relationships_and_Connection/Sibling_Relationships.md)
+  - [Social_Support](Project_Universe/Human_Nature/Relationships_and_Connection/Social_Support.md)
+  - [Storge](Project_Universe/Human_Nature/Relationships_and_Connection/Storge.md)
+  - [Support](Project_Universe/Human_Nature/Relationships_and_Connection/Support.md)
+  - [Trust](Project_Universe/Human_Nature/Relationships_and_Connection/Trust.md)
+- [Virtues_and_Vices](Project_Universe/Human_Nature/Virtues_and_Vices/Virtues_and_Vices.md)
+  - [Chastity](Project_Universe/Human_Nature/Virtues_and_Vices/Chastity.md)
+  - [Cordiality](Project_Universe/Human_Nature/Virtues_and_Vices/Cordiality.md)
+  - [Envy](Project_Universe/Human_Nature/Virtues_and_Vices/Envy.md)
+  - [Gluttony](Project_Universe/Human_Nature/Virtues_and_Vices/Gluttony.md)
+  - [Greed](Project_Universe/Human_Nature/Virtues_and_Vices/Greed.md)
+  - [Hatred](Project_Universe/Human_Nature/Virtues_and_Vices/Hatred.md)
+  - [Honor](Project_Universe/Human_Nature/Virtues_and_Vices/Honor.md)
+  - [Kindness](Project_Universe/Human_Nature/Virtues_and_Vices/Kindness.md)
+  - [Laziness](Project_Universe/Human_Nature/Virtues_and_Vices/Laziness.md)
+  - [Lust](Project_Universe/Human_Nature/Virtues_and_Vices/Lust.md)
+  - [Malice](Project_Universe/Human_Nature/Virtues_and_Vices/Malice.md)
+  - [Pride](Project_Universe/Human_Nature/Virtues_and_Vices/Pride.md)
+  - [Self-Care](Project_Universe/Human_Nature/Virtues_and_Vices/Self-Care.md)
+  - [Self-Confidence](Project_Universe/Human_Nature/Virtues_and_Vices/Self-Confidence.md)
+  - [Self-Love](Project_Universe/Human_Nature/Virtues_and_Vices/Self-Love.md)
+  - [Sloth](Project_Universe/Human_Nature/Virtues_and_Vices/Sloth.md)
+  - [Temperance](Project_Universe/Human_Nature/Virtues_and_Vices/Temperance.md)
+  - [Unconditional_Love](Project_Universe/Human_Nature/Virtues_and_Vices/Unconditional_Love.md)
+  - [Vices](Project_Universe/Human_Nature/Virtues_and_Vices/Vices.md)
+  - [Virtues](Project_Universe/Human_Nature/Virtues_and_Vices/Virtues.md)
+  - [Voluntary_Collaboration](Project_Universe/Human_Nature/Virtues_and_Vices/Voluntary_Collaboration.md)
+  - [Wrath](Project_Universe/Human_Nature/Virtues_and_Vices/Wrath.md)

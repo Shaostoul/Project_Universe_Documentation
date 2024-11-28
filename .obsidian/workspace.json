@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/SUMMARY.md",
+                "file": "Project_Universe/Modules/Modules.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "Modules"
             }
           }
         ]
@@ -176,31 +176,31 @@
   },
   "active": "cf681318688a59d0",
   "lastOpenFiles": [
-    "Project_Universe/Game_Design_Document/Gameplay_Mechanics.md",
-    "Project_Universe/Game_Design_Document/Core_Gameplay_Loops.md",
-    "Project_Universe/Game_Design_Document/Narrative_&_Lore.md",
-    "Project_Universe/Game_Design_Document/Introduction.md",
-    "Project_Universe/Game_Design_Document/Game_Design_Document.md",
-    "Project_Universe/SUMMARY.md",
-    "Project_Universe/Roadmap.md",
-    "Project_Universe/Software.md",
-    "Project_Universe/Project_Universe.md",
-    "Project_Universe/Modules/Offline_Single_Player.md",
-    "Project_Universe/Modules/Multiplayer.md",
-    "Project_Universe/Modules/Movement.md",
-    "Project_Universe/Modules/Modules.md",
-    "Project_Universe/Nature/Nature.md",
-    "Project_Universe/Facilities/Home/Bedroom.md",
-    "Project_Universe/Facilities/Home/Computer.md",
-    "Project_Universe/Game_Design_Document/Story_Part_3.md",
-    "Project_Universe/Game_Design_Document/Story_Part_2.md",
-    "Project_Universe/Game_Design_Document/Story_Part_1.md",
-    "Project_Universe/Responsibilities/Responsibilities.md",
-    "Project_Universe/Responsibilities/Technology.md",
-    "Project_Universe/Resources/Energy.md",
-    "Project_Universe/Modules/~Gameplay_Mechanics.md",
+    "Project_Universe/Legal/Legal.md",
+    "Project_Universe/Labors/Gardening/Gardening.md",
+    "Project_Universe/Labors/Labors.md",
+    "Project_Universe/Input-Output_Devices/Input-Output_Devices.md",
     "Project_Universe/Human_Nature/Human_Nature.md",
-    "Project_Universe/Concepts/World_Definition.md",
-    "Project_Universe/Concepts/Setting.md"
+    "Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md",
+    "Project_Universe/Human_Nature/Emotions/Emotions.md",
+    "Project_Universe/Human_Nature/Fundamental_Needs/Fundamental_Needs.md",
+    "Project_Universe/Human_Nature/Morality_and_Ethics/Morality_and_Ethics.md",
+    "Project_Universe/Human_Nature/Motivations_and_Drives/Motivations_and_Drives.md",
+    "Project_Universe/Human_Nature/Personal_Development/Personal_Development.md",
+    "Project_Universe/Human_Nature/Relationships_and_Connection/Relationships_and_Connection.md",
+    "Project_Universe/Human_Nature/Virtues_and_Vices/Virtues_and_Vices.md",
+    "Project_Universe/Health/Health.md",
+    "Project_Universe/Health/Diet/Viome/Viome.md",
+    "Project_Universe/Health/Diet/Diet.md",
+    "Project_Universe/Health/Exercise/Exercise.md",
+    "Project_Universe/Game_Design_Document/Game_Design_Document.md",
+    "Project_Universe/Concepts/Concepts.md",
+    "Project_Universe/Concepts/Ethics.md",
+    "Project_Universe/Diagrams/Diagrams.md",
+    "Project_Universe/Facilities/Facilities.md",
+    "Project_Universe/Facilities/Home/Home.md",
+    "Project_Universe/Facilities/Industrial/Industrial.md",
+    "Project_Universe/Facilities/Social/Social.md",
+    "Project_Universe/SUMMARY.md"
   ]
 }
