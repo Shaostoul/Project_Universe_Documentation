@@ -96,11 +96,11 @@
               <div class="tab-content file-content" style="display: none;"></div>
             </div>
             <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Virtues_and_Vices/Temperance.md">Temperance</button>
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Virtues_and_Vices/Unconditional_Love.md">Unconditional_Love</button>
               <div class="tab-content file-content" style="display: none;"></div>
             </div>
             <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Virtues_and_Vices/Unconditional_Love.md">Unconditional_Love</button>
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Virtues_and_Vices/Temperance.md">Temperance</button>
               <div class="tab-content file-content" style="display: none;"></div>
             </div>
             <div class="tab file">

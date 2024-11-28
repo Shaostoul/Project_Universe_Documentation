@@ -2,21 +2,68 @@
 
 Morality and Ethics encompass the values, principles, and standards that guide our sense of right and wrong, shaping personal choices and social interactions. Practicing ethical behavior fosters trust, accountability, and compassion, contributing to a just and empathetic community.
 
-## Subcategories
-
-1. [Accountability](Morality_and_Ethics/Accountability.md)
-2. [Admitting Mistakes](Morality_and_Ethics/Admitting_Mistakes.md)
-3. [Charity](Morality_and_Ethics/Charity.md)
-4. [Compassion](Morality_and_Ethics/Compassion.md)
-5. [Consent](Morality_and_Ethics/Consent.md)
-6. [Empathy](Morality_and_Ethics/Empathy.md)
-7. [Fairness](Morality_and_Ethics/Fairness.md)
-8. [Forgiveness](Morality_and_Ethics/Forgiveness.md)
-9. [Honesty](Morality_and_Ethics/Honesty.md)
-10. [Integrity](Morality_and_Ethics/Integrity.md)
-11. [Justice](Morality_and_Ethics/Justice.md)
-12. [Ownership](Morality_and_Ethics/Ownership.md)
-13. [Privacy](Morality_and_Ethics/Privacy.md)
-14. [Respect for Others](Morality_and_Ethics/Respect_for_Others.md)
-15. [Responsibility](Morality_and_Ethics/Responsibility.md)
-16. [Seeking Growth](Morality_and_Ethics/Seeking_Growth.md)
+<div class="collapsible-tabs">
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Accountability.md">Accountability</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Admitting_Mistakes.md">Admitting_Mistakes</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Charity.md">Charity</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Compassion.md">Compassion</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Consent.md">Consent</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Empathy.md">Empathy</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Fairness.md">Fairness</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Forgiveness.md">Forgiveness</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Honesty.md">Honesty</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Integrity.md">Integrity</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Justice.md">Justice</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Ownership.md">Ownership</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Privacy.md">Privacy</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Respect_for_Others.md">Respect_for_Others</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Responsibility.md">Responsibility</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Human_Nature/Morality_and_Ethics/Seeking_Growth.md">Seeking_Growth</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div></div>

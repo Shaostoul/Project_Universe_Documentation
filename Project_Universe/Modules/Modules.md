@@ -2,52 +2,92 @@
 
 This folder covers the various gameplay modules within Project Universe, detailing different aspects of game mechanics, player interaction, and in-game activities. Each module is designed to enhance the player's experience and support the overall vision of the game.
 
-### Direct Links:
-- [AI](./Modules/AI.md)
-- [Combat](./Modules/Combat.md)
-- [Construction](./Modules/Construction.md)
-- [Crafting](./Modules/Crafting.md)
-- [Customization](./Modules/Customization.md)
-- [Exploration](./Modules/Exploration.md)
-- [Inventory](./Modules/Inventory.md)
-- [Minimap](./Modules/Minimap.md)
-- [Mining](./Modules/Mining.md)
-- [Missions](./Modules/Missions.md)
-- [Movement](./Modules/Movement.md)
-- [Multiplayer](./Modules/Multiplayer.md)
-- [Offline Single Player](./Modules/Offline%20Single%20Player.md)
-- [Progression](./Modules/Progression.md)
-- [Resource Gathering](./Modules/Resource%20Gathering.md)
-- [Ship Management](./Modules/Ship%20Management.md)
-- [Survival](./Modules/Survival.md)
-- [Trading](./Modules/Trading.md)
-- [~Gameplay Mechanics](./Modules/~Gameplay%20Mechanics.md)
-
-### Crafting Subfolder:
-- [Clayworking](./Modules/Crafting/Clayworking.md)
-- [Earthworking](./Modules/Crafting/Earthworking.md)
-- [Metalworking](./Modules/Crafting/Metalworking.md)
-- [Stoneworking](./Modules/Crafting/Stoneworking.md)
-- [Woodworking](./Modules/Crafting/Woodworking.md)
-
-### 3D Printing Subfolder:
-- [Intro to 3D Printing](./Modules/Crafting/3D%20Printing/Intro%20to%203D%20Printing.md)
-
-#### Printing Materials:
-- [ABS (Acrylonitrile Butadiene Styrene)](./Modules/Crafting/3D%20Printing/Printing%20Materials/ABS%20(Acrylonitrile%20Butadiene%20Styrene).md)
-- [Metal Filaments](./Modules/Crafting/3D%20Printing/Printing%20Materials/Metal%20Filaments.md)
-- [Nylon (Polyamide)](./Modules/Crafting/3D%20Printing/Printing%20Materials/Nylon%20(Polyamide).md)
-- [PET (Polyethylene Terephthalate)](./Modules/Crafting/3D%20Printing/Printing%20Materials/PET%20(Polyethylene%20Terephthalate).md)
-- [PETG (Polyethylene Terephthalate Glycol-Modified)](./Modules/Crafting/3D%20Printing/Printing%20Materials/PETG%20(Polyethylene%20Terephthalate%20Glycol-Modified).md)
-- [PLA (Polylactic Acid)](./Modules/Crafting/3D%20Printing/Printing%20Materials/PLA%20(Polylactic%20Acid).md)
-- [Resin](./Modules/Crafting/3D%20Printing/Printing%20Materials/Resin.md)
-- [Specialty Filaments](./Modules/Crafting/3D%20Printing/Printing%20Materials/Specialty%20Filaments.md)
-- [TPU (Thermoplastic Polyurethane)](./Modules/Crafting/3D%20Printing/Printing%20Materials/TPU%20(Thermoplastic%20Polyurethane).md)
-
-#### Types of 3D Printing:
-- [DLP (Digital Light Processing)](./Modules/Crafting/3D%20Printing/Types%20of%203D%20Printing/DLP%20(Digital%20Light%20Processing).md)
-- [DMLS and SLM](./Modules/Crafting/3D%20Printing/Types%20of%203D%20Printing/DMLS%20(Direct%20Metal%20Laser%20Sintering)%20and%20SLM%20(Selective%20Laser%20Melting).md)
-- [FDM (Fused Deposition Modeling)](./Modules/Crafting/3D%20Printing/Types%20of%203D%20Printing/FDM%20(Fused%20Deposition%20Modeling).md)
-- [Material Jetting](./Modules/Crafting/3D%20Printing/Types%20of%203D%20Printing/Material%20Jetting.md)
-- [SLA (Stereolithography)](./Modules/Crafting/3D%20Printing/Types%20of%203D%20Printing/SLA%20(Stereolithography).md)
-- [SLS (Selective Laser Sintering)](./Modules/Crafting/3D%20Printing/Types%20of%203D%20Printing/SLS%20(Selective%20Laser%20Sintering).md)
+<div class="collapsible-tabs">
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/AI.md">AI</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Combat.md">Combat</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Construction.md">Construction</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Crafting/Crafting.md">Crafting</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting.md">Crafting</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Customization.md">Customization</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Energy_Systems/Energy_Systems.md">Energy_Systems</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Exploration.md">Exploration</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Farming/Farming.md">Farming</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Inventory.md">Inventory</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Minimap.md">Minimap</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Mining.md">Mining</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Missions.md">Missions</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Movement.md">Movement</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Multiplayer.md">Multiplayer</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Offline_Single_Player.md">Offline_Single_Player</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Progression.md">Progression</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Resource_Gathering.md">Resource_Gathering</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Ship_Management.md">Ship_Management</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Survival.md">Survival</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Trading.md">Trading</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/~Gameplay_Mechanics.md">~Gameplay_Mechanics</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div></div>

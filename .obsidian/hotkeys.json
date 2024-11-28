@@ -1,1 +1,18 @@
-{}
+{
+  "folder-tabs-plugin:insert-expandable-toc": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "expandable_table_of_contents:insert-expandable-toc": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

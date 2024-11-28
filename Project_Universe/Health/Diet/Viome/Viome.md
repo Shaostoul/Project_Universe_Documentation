@@ -16,7 +16,20 @@ The Viome approach is based on data-driven insights from testing gut microbiome 
 Each of these lists is based on Viome’s analysis of your body’s needs, designed to support a balanced microbiome and overall health optimization. Viome continuously refines recommendations as new scientific insights emerge, aiming to empower individuals with knowledge to make informed choices about their diet and lifestyle.
 
 ### Shaostoul's Results
-- [Avoid_List](Avoid_List.md)
-- [Enjoy_List](Enjoy_List.md)
-- [Minimize_List](Minimize_List.md)
-- [Superfood](Superfood.md)
+<div class="collapsible-tabs">
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Health/Diet/Viome/Avoid_List.md">Avoid_List</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Health/Diet/Viome/Enjoy_List.md">Enjoy_List</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Health/Diet/Viome/Minimize_List.md">Minimize_List</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Health/Diet/Viome/Superfood.md">Superfood</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div></div>

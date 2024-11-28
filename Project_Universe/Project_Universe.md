@@ -9,71 +9,71 @@ Invented by Shaostoul (Michael Boisson) and developed further with humanity's vo
 - View the [eBook](https://docs.shaostoul.com/)
 
 <div class="collapsible-tabs">
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Concepts/Concepts.md">Concepts</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Diagrams/Diagrams.md">Diagrams</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Facilities/Facilities.md">Facilities</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header no-file">Game_Design_Document (No file)</button>
-                <div class="tab-content folder-content" style="display: none;">No associated file for this folder.</div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Health/Health.md">Health</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Human_Nature.md">Human_Nature</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Input-Output_Devices/Input-Output_Devices.md">Input-Output_Devices</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Labors/Labors.md">Labors</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Legal/Legal.md">Legal</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Modules.md">Modules</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Nature/Nature.md">Nature</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Resources/Resources.md">Resources</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Responsibilities/Responsibilities.md">Responsibilities</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Scripts/Scripts.md">Scripts</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Roadmap.md">Roadmap</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Software.md">Software</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Tasks/Tasks.md">Tasks</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div></div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Concepts/Concepts.md">Concepts</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Diagrams/Diagrams.md">Diagrams</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Facilities/Facilities.md">Facilities</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header no-file">Game_Design_Document (No file)</button>
+                                <div class="tab-content folder-content" style="display: none;">No associated file for this folder.</div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Health/Health.md">Health</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Human_Nature.md">Human_Nature</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Input-Output_Devices/Input-Output_Devices.md">Input-Output_Devices</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Labors/Labors.md">Labors</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Legal/Legal.md">Legal</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Modules.md">Modules</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Nature/Nature.md">Nature</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Resources/Resources.md">Resources</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Responsibilities/Responsibilities.md">Responsibilities</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                        <div class="tab file">
+                            <button class="tab-header file-header" data-path="Project_Universe/Roadmap.md">Roadmap</button>
+                            <div class="tab-content file-content" style="display: none;"></div>
+                        </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Scripts/Scripts.md">Scripts</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div>
+                        <div class="tab file">
+                            <button class="tab-header file-header" data-path="Project_Universe/Software.md">Software</button>
+                            <div class="tab-content file-content" style="display: none;"></div>
+                        </div>
+                            <div class="tab folder">
+                                <button class="tab-header folder-header" data-path="Project_Universe/Tasks/Tasks.md">Tasks</button>
+                                <div class="tab-content folder-content" style="display: none;"></div>
+                            </div></div>

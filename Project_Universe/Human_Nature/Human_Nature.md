@@ -2,8 +2,6 @@
 
 **Human Nature** explores the core qualities, needs, emotions, and motivations that shape our lives and relationships. This collection of notes provides insights into positive traits, challenges, and the fundamental aspects of our existence, supporting self-awareness, growth, and deeper understanding of ourselves and others.
 
----
-
 <div class="collapsible-tabs">
               <div class="tab folder">
                 <button class="tab-header folder-header" data-path="Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md">Challenges_and_Obstacles</button>

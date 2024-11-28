@@ -7,3 +7,9 @@ To optimize health, a diet should be varied and nutrient-dense, focusing on whol
 Personalized approaches to diet—such as those informed by microbiome analysis or metabolic testing—offer tailored recommendations, helping individuals understand specific dietary needs and sensitivities. This personalization can be crucial, as optimal health often depends on factors unique to each person, including their genetics, activity levels, and health goals.
 
 Ultimately, diet and exercise together are essential for holistic health, with diet laying the groundwork by fueling and nourishing the body, allowing for effective physical activity, recovery, and overall vitality.
+
+<div class="collapsible-tabs">
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Health/Diet/Viome/Viome.md">Viome</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div></div>

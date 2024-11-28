@@ -1,49 +1,66 @@
 Here's a detailed list of everything to track for optimal plant growth and utilization in Project Universe, considering both Earth and space environments:
 
-### Plant Growth Tracking
-
-1. **Plant Genetics**  
-   - Species, variety, and genetic traits for resilience, yield, or specific qualities.
-   
-2. **Environmental Conditions**  
-   - **Light**: Type (sunlight, LED spectrum), duration, intensity, and cycles.
-   - **Temperature**: Optimal range, daily/night fluctuations, and tolerance levels.
-   - **Humidity**: Required range, adaptability, and impact on growth and disease resistance.
-   - **Atmospheric Composition**: Oxygen, CO₂, and any additional gases.
-   - **Soil/Medium Composition**: Type, nutrient content, pH, and microbial ecosystem.
-   - **Water**: Frequency, quantity, quality (pH, mineral content), and source.
-
-3. **Growth Phases**  
-   - Seed germination requirements, root establishment, vegetative growth, flowering/fruiting, and harvesting conditions.
-
-4. **Nutrition and Fertilization**  
-   - Type of nutrients (NPK levels, micronutrients), frequency, quantity, and method of delivery (soil, hydroponic solution, foliar feeding).
-
-5. **Pest and Disease Management**  
-   - Monitoring for pests, symptoms of disease, treatment/prevention methods, and immune response tracking.
-
-6. **Pollination Requirements**  
-   - Type of pollination (self, insect, wind), needs for external pollinators, or artificial pollination mechanisms.
-
-7. **Growth Monitoring**  
-   - Height, leaf size, root spread, growth rate, fruit/flower development, and signs of stress or nutrient deficiencies.
-
-8. **Resource Consumption**  
-   - Daily/seasonal water, nutrient, and light energy usage for optimization in a resource-limited environment.
-
-9. **Soil/Medium Rejuvenation**  
-   - Process to restore soil/medium health after each growth cycle for sustainable planting.
-
-### Production and Harvesting
-
-10. **Harvest Timing and Methods**  
-    - Optimal timing based on plant maturity, nutrient density, and desired end-use characteristics.
-
-11. **Yield Quality and Quantity**  
-    - Weight, nutrient profile, flavor, and physical characteristics of produce.
-
-12. **Post-Harvest Processing**  
-    - Cleaning, drying, sorting, and quality control methods for plant-based materials.
+<div class="collapsible-tabs">
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Environmental_Conditions.md">Environmental_Conditions</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Growth_Monitoring.md">Growth_Monitoring</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Growth_Phases.md">Growth_Phases</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Harvest_Timing_and_Methods.md">Harvest_Timing_and_Methods</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Nutrition_and_Fertilization.md">Nutrition_and_Fertilization</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Pest_and_Disease_Management.md">Pest_and_Disease_Management</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Plant_Genetics.md">Plant_Genetics</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Pollination_Requirements.md">Pollination_Requirements</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Post_Harvest_Processing.md">Post_Harvest_Processing</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Primary_Uses.md">Primary_Uses</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Resource_Consumption.md">Resource_Consumption</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Secondary_Processing_and_Byproducts.md">Secondary_Processing_and_Byproducts</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Soil_Rejuvenation.md">Soil_Rejuvenation</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Waste_Management.md">Waste_Management</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Labors/Gardening/Yield_Quality_and_Quantity.md">Yield_Quality_and_Quantity</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div></div>
 
 ### Uses and Transformation
 

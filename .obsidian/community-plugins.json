@@ -1,7 +1,6 @@
 [
   "obsidian-git",
-  "toc-generator",
-  "mdbook-summary-generator",
-  "dummy-plugin",
-  "folder-tabs-plugin"
+  "interactive_table_of_contents_tabs",
+  "expandable_table_of_contents",
+  "mdbook-automation"
 ]

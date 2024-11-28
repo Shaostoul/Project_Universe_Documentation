@@ -2,28 +2,56 @@
 
 The Farming section provides detailed insights into sustainable practices, key factors for cultivating plants and animals, and optimizing resources for a thriving agricultural ecosystem in Project Universe.
 
-### Direct Links:
-- [Closed Loop Habitat](./Farming/Closed%20Loop%20Habitat.md)
-- [Coconut Husks as Soil Amendment](./Farming/Coconut%20Husks%20as%20Soil%20Amendment.md)
-- [Farming Animals Key Factors](./Farming/Farming%20Animals%20Key%20Factors.md)
-- [Farming Fungus Key Factors](./Farming/Farming%20Fungus%20Key%20Factors.md)
-- [Farming Plants Key Factors](./Farming/Farming%20Plants%20Key%20Factors.md)
-- [Plant Lifespans](./Farming/Plant%20Lifespans.md)
-- [Products from Animals](./Farming/Products%20from%20Animals.md)
-- [Products from Plants](./Farming/Products%20from%20Plants.md)
-- [Soil - The Foundation of Gardening](./Farming/Soil%20-%20The%20Foundation%20of%20Gardening.md)
-- [Soil Amendments](./Farming/Soil%20Amendments.md)
-- [Used Coffee Grounds as Fertilizer](./Farming/Used%20Coffee%20Grounds%20as%20Fertilizer.md)
-
-### Animals Subfolder:
-- [Aquaponics Fish](./Farming/Animals/Aquaponics%20Fish.md)
-- [Aquaponics Shellfish](./Farming/Animals/Aquaponics%20Shellfish.md)
-- [Beekeeping](./Farming/Animals/Beekeeping.md)
-
-### Plants Subfolder:
-- [Perennial Berry Bushes](./Farming/Plants/Perennial%20Berry%20Bushes.md)
-- [Perennial Fruit Trees](./Farming/Plants/Perennial%20Fruit%20Trees.md)
-- [Perennial Herbs](./Farming/Plants/Perennial%20Herbs.md)
-- [Perennial Vegetables](./Farming/Plants/Perennial%20Vegetables.md)
-- [Perennial Vines](./Farming/Plants/Perennial%20Vines.md)
-- [Plants Data (Spreadsheet)](./Farming/Plants/Plants.ods)
+<div class="collapsible-tabs">
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Farming/Animals/Animals.md">Animals</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Closed_Loop_Habitat.md">Closed_Loop_Habitat</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Coconut_Husks_as_Soil_Amendment.md">Coconut_Husks_as_Soil_Amendment</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Farming_Animals_Key_Factors.md">Farming_Animals_Key_Factors</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Farming_Fungus_Key_Factors.md">Farming_Fungus_Key_Factors</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Farming_Plants_Key_Factors.md">Farming_Plants_Key_Factors</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+              <div class="tab folder">
+                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Farming/Plants/Plants.md">Plants</button>
+                <div class="tab-content folder-content" style="display: none;"></div>
+              </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Plant_Lifespans.md">Plant_Lifespans</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Products_from_Animals.md">Products_from_Animals</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Products_from_Plants.md">Products_from_Plants</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Soil_-_The_Foundation_of_Gardening.md">Soil_-_The_Foundation_of_Gardening</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Soil_Amendments.md">Soil_Amendments</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div>
+            <div class="tab file">
+              <button class="tab-header file-header" data-path="Project_Universe/Modules/Farming/Used_Coffee_Grounds_as_Fertilizer.md">Used_Coffee_Grounds_as_Fertilizer</button>
+              <div class="tab-content file-content" style="display: none;"></div>
+            </div></div>
