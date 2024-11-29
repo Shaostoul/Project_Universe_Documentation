@@ -1,17 +1,14 @@
-<div class="collapsible-tabs">
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Nature/Lifeforms/Animals/Animals.md">Animals</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Nature/Lifeforms/Lifeform_Template_for_Animals.md">Lifeform_Template_for_Animals</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Nature/Lifeforms/Lifeform_Template_for_Plants.md">Lifeform_Template_for_Plants</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Nature/Lifeforms/Plants/Plants.md">Plants</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div></div>
+- [Animals](Animals/Animals.md)
+  - [Cats](Animals/Cats.md)
+  - [Chicken](Animals/Chicken.md)
+  - [Dogs](Animals/Dogs.md)
+  - [Highland_Cows](Animals/Highland_Cows.md)
+  - [Honeybees](Animals/Honeybees.md)
+  - [Humans](Animals/Humans.md)
+  - [Pigs](Animals/Pigs.md)
+  - [Rats](Animals/Rats.md)
+  - [Sheep](Animals/Sheep.md)
+- [Lifeform_Template_for_Animals](Lifeform_Template_for_Animals.md)
+- [Lifeform_Template_for_Plants](Lifeform_Template_for_Plants.md)
+- [Plants](Plants/Plants.md)
+  - [Wild_Blueberries](Plants/Wild_Blueberries.md)

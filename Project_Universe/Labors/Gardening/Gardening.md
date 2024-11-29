@@ -1,20 +1,21 @@
 Here's a detailed list of everything to track for optimal plant growth and utilization in Project Universe, considering both Earth and space environments:
 
-- [Environmental_Conditions](Project_Universe/Labors/Gardening/Environmental_Conditions.md)
-- [Growth_Monitoring](Project_Universe/Labors/Gardening/Growth_Monitoring.md)
-- [Growth_Phases](Project_Universe/Labors/Gardening/Growth_Phases.md)
-- [Harvest_Timing_and_Methods](Project_Universe/Labors/Gardening/Harvest_Timing_and_Methods.md)
-- [Nutrition_and_Fertilization](Project_Universe/Labors/Gardening/Nutrition_and_Fertilization.md)
-- [Pest_and_Disease_Management](Project_Universe/Labors/Gardening/Pest_and_Disease_Management.md)
-- [Plant_Genetics](Project_Universe/Labors/Gardening/Plant_Genetics.md)
-- [Pollination_Requirements](Project_Universe/Labors/Gardening/Pollination_Requirements.md)
-- [Post_Harvest_Processing](Project_Universe/Labors/Gardening/Post_Harvest_Processing.md)
-- [Primary_Uses](Project_Universe/Labors/Gardening/Primary_Uses.md)
-- [Resource_Consumption](Project_Universe/Labors/Gardening/Resource_Consumption.md)
-- [Secondary_Processing_and_Byproducts](Project_Universe/Labors/Gardening/Secondary_Processing_and_Byproducts.md)
-- [Soil_Rejuvenation](Project_Universe/Labors/Gardening/Soil_Rejuvenation.md)
-- [Waste_Management](Project_Universe/Labors/Gardening/Waste_Management.md)
-- [Yield_Quality_and_Quantity](Project_Universe/Labors/Gardening/Yield_Quality_and_Quantity.md)
+- [Environmental_Conditions](Environmental_Conditions.md)
+- [Growth_Monitoring](Growth_Monitoring.md)
+- [Growth_Phases](Growth_Phases.md)
+- [Harvest_Timing_and_Methods](Harvest_Timing_and_Methods.md)
+- [Pest_and_Disease_Management](Pest_and_Disease_Management.md)
+- [Plant_Genetics](Plant_Genetics.md)
+- [Nutrition_and_Fertilization](Nutrition_and_Fertilization.md)
+- [Pollination_Requirements](Pollination_Requirements.md)
+- [Post_Harvest_Processing](Post_Harvest_Processing.md)
+- [Primary_Uses](Primary_Uses.md)
+- [Resource_Consumption](Resource_Consumption.md)
+- [Secondary_Processing_and_Byproducts](Secondary_Processing_and_Byproducts.md)
+- [Soil_Rejuvenation](Soil_Rejuvenation.md)
+- [Waste_Management](Waste_Management.md)
+- [Yield_Quality_and_Quantity](Yield_Quality_and_Quantity.md)
+
 
 ### Uses and Transformation
 

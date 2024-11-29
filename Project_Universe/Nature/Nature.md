@@ -1,9 +1,48 @@
-<div class="collapsible-tabs">
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Nature/Astronomical_Objects/Astronomical_Objects.md">Astronomical_Objects</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Nature/Lifeforms/Lifeforms.md">Lifeforms</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div></div>
+- [Astronomical_Objects](Astronomical_Objects/Astronomical_Objects.md)
+  - [Asteroids](#)
+    - [Example_Asteroid](Astronomical_Objects/Asteroids/Example_Asteroid.md)
+  - [Galaxies](#)
+    - [Milky_Way](Astronomical_Objects/Galaxies/Milky_Way.md)
+  - [Solar_Systems](#)
+    - [Sun](Astronomical_Objects/Solar_Systems/Sun/Sun.md)
+      - [Asteroid_Belts](#)
+        - [Asteroid_Belt](Astronomical_Objects/Solar_Systems/Sun/Asteroid_Belts/Asteroid_Belt.md)
+        - [Kuiper_Belt](Astronomical_Objects/Solar_Systems/Sun/Asteroid_Belts/Kuiper_Belt.md)
+      - [Dwarf_Planets](#)
+        - [Pluto](Astronomical_Objects/Solar_Systems/Sun/Dwarf_Planets/Pluto/Pluto.md)
+
+      - [Planets](#)
+        - [Earth](Astronomical_Objects/Solar_Systems/Sun/Planets/Earth/Earth.md)
+          - [Moons](#)
+            - [Moon](Astronomical_Objects/Solar_Systems/Sun/Planets/Earth/Moons/Moon.md)
+        - [Jupiter](Astronomical_Objects/Solar_Systems/Sun/Planets/Jupiter/Jupiter.md)
+
+        - [Mars](Astronomical_Objects/Solar_Systems/Sun/Planets/Mars/Mars.md)
+
+        - [Mercury](Astronomical_Objects/Solar_Systems/Sun/Planets/Mercury/Mercury.md)
+
+        - [Neptune](Astronomical_Objects/Solar_Systems/Sun/Planets/Neptune/Neptune.md)
+
+        - [Saturn](Astronomical_Objects/Solar_Systems/Sun/Planets/Saturn/Saturn.md)
+
+        - [Uranus](Astronomical_Objects/Solar_Systems/Sun/Planets/Uranus/Uranus.md)
+
+        - [Venus](Astronomical_Objects/Solar_Systems/Sun/Planets/Venus/Venus.md)
+
+  - [Universes](#)
+    - [Our_Universe](Astronomical_Objects/Universes/Our_Universe.md)
+- [Lifeforms](Lifeforms/Lifeforms.md)
+  - [Animals](Lifeforms/Animals/Animals.md)
+    - [Cats](Lifeforms/Animals/Cats.md)
+    - [Chicken](Lifeforms/Animals/Chicken.md)
+    - [Dogs](Lifeforms/Animals/Dogs.md)
+    - [Highland_Cows](Lifeforms/Animals/Highland_Cows.md)
+    - [Honeybees](Lifeforms/Animals/Honeybees.md)
+    - [Humans](Lifeforms/Animals/Humans.md)
+    - [Pigs](Lifeforms/Animals/Pigs.md)
+    - [Rats](Lifeforms/Animals/Rats.md)
+    - [Sheep](Lifeforms/Animals/Sheep.md)
+  - [Lifeform_Template_for_Animals](Lifeforms/Lifeform_Template_for_Animals.md)
+  - [Lifeform_Template_for_Plants](Lifeforms/Lifeform_Template_for_Plants.md)
+  - [Plants](Lifeforms/Plants/Plants.md)
+    - [Wild_Blueberries](Lifeforms/Plants/Wild_Blueberries.md)

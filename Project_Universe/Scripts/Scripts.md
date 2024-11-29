@@ -1,1 +1,0 @@
-<div class="collapsible-tabs"></div>

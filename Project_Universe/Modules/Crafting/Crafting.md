@@ -1,25 +1,23 @@
-<div class="collapsible-tabs">
-              <div class="tab folder">
-                <button class="tab-header folder-header" data-path="Project_Universe/Modules/Crafting/3D_Printing/3D_Printing.md">3D_Printing</button>
-                <div class="tab-content folder-content" style="display: none;"></div>
-              </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting/Clayworking.md">Clayworking</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting/Earthworking.md">Earthworking</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting/Metalworking.md">Metalworking</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting/Stoneworking.md">Stoneworking</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div>
-            <div class="tab file">
-              <button class="tab-header file-header" data-path="Project_Universe/Modules/Crafting/Woodworking.md">Woodworking</button>
-              <div class="tab-content file-content" style="display: none;"></div>
-            </div></div>
+- [3D_Printing](3D_Printing/3D_Printing.md)
+  - [Printing_Materials](#)
+    - [ABS_(Acrylonitrile_Butadiene_Styrene)](3D_Printing/Printing_Materials/ABS_(Acrylonitrile_Butadiene_Styrene).md)
+    - [Metal_Filaments](3D_Printing/Printing_Materials/Metal_Filaments.md)
+    - [Nylon_(Polyamide)](3D_Printing/Printing_Materials/Nylon_(Polyamide).md)
+    - [PETG_(Polyethylene_Terephthalate_Glycol-Modified)](3D_Printing/Printing_Materials/PETG_(Polyethylene_Terephthalate_Glycol-Modified).md)
+    - [PET_(Polyethylene_Terephthalate)](3D_Printing/Printing_Materials/PET_(Polyethylene_Terephthalate).md)
+    - [PLA_(Polylactic_Acid)](3D_Printing/Printing_Materials/PLA_(Polylactic_Acid).md)
+    - [Resin](3D_Printing/Printing_Materials/Resin.md)
+    - [Specialty_Filaments](3D_Printing/Printing_Materials/Specialty_Filaments.md)
+    - [TPU_(Thermoplastic_Polyurethane)](3D_Printing/Printing_Materials/TPU_(Thermoplastic_Polyurethane).md)
+  - [Types_of_3D_Printing](#)
+    - [DLP_(Digital_Light_Processing)](3D_Printing/Types_of_3D_Printing/DLP_(Digital_Light_Processing).md)
+    - [DMLS_(Direct_Metal_Laser_Sintering)_and_SLM_(Selective_Laser_Melting)](3D_Printing/Types_of_3D_Printing/DMLS_(Direct_Metal_Laser_Sintering)_and_SLM_(Selective_Laser_Melting).md)
+    - [FDM_(Fused_Deposition_Modeling)](3D_Printing/Types_of_3D_Printing/FDM_(Fused_Deposition_Modeling).md)
+    - [Material_Jetting](3D_Printing/Types_of_3D_Printing/Material_Jetting.md)
+    - [SLA_(Stereolithography)](3D_Printing/Types_of_3D_Printing/SLA_(Stereolithography).md)
+    - [SLS_(Selective_Laser_Sintering)](3D_Printing/Types_of_3D_Printing/SLS_(Selective_Laser_Sintering).md)
+- [Clayworking](Clayworking.md)
+- [Earthworking](Earthworking.md)
+- [Metalworking](Metalworking.md)
+- [Stoneworking](Stoneworking.md)
+- [Woodworking](Woodworking.md)
