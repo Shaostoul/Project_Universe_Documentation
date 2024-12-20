@@ -3,7 +3,7 @@
 The Farming section provides detailed insights into sustainable practices, key factors for cultivating plants and animals, and optimizing resources for a thriving agricultural ecosystem in Project Universe.
 
 - [Closed_Loop_Habitat](Closed_Loop_Habitat.md)
-- [Animals](Animals/Animals.md)
+- [Animals](Project_Universe/Modules/Farming/Animals/Animals.md)
   - [Aquaponics_Fish](Animals/Aquaponics_Fish.md)
   - [Aquaponics_Shellfish](Animals/Aquaponics_Shellfish.md)
   - [Beekeeping](Animals/Beekeeping.md)
@@ -12,7 +12,7 @@ The Farming section provides detailed insights into sustainable practices, key f
 - [Farming_Fungus_Key_Factors](Farming_Fungus_Key_Factors.md)
 - [Farming_Plants_Key_Factors](Farming_Plants_Key_Factors.md)
 - [Plant_Lifespans](Plant_Lifespans.md)
-- [Plants](Plants/Plants.md)
+- [Plants](Project_Universe/Modules/Farming/Plants/Plants.md)
   - [Perennial_Berry_Bushes](Plants/Perennial_Berry_Bushes.md)
   - [Perennial_Fruit_Trees](Plants/Perennial_Fruit_Trees.md)
   - [Perennial_Herbs](Plants/Perennial_Herbs.md)

@@ -4,5 +4,5 @@
 - [Plant_Nutrition_Needs](Plant_Nutrition_Needs.md)
 - [Sanitation](Sanitation.md)
 - [Shelter](Shelter.md)
-- [Software](Software.md)
+- [Software](Project_Universe/Resources/Software.md)
 - [Water](Water.md)

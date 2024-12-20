@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "445aa544b12f7cca",
+        "id": "5b4b643e8b43c8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "cf681318688a59d0",
+            "id": "d1ac239cc30649fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/Tasks/Tasks.md",
+                "file": "Project_Universe/crafting/materials/metals.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "metals"
+            }
+          },
+          {
+            "id": "18f3ad45b82f2ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_Universe/crafting/materials/metals.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "metals"
+            }
+          },
+          {
+            "id": "660ea99e221a8870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_Universe/crafting/materials/plastics/PLA_(Polylactic_Acid).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PLA_(Polylactic_Acid)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 417.5
   },
   "right": {
     "id": "205c3ee9466d51c9",
@@ -174,33 +203,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf681318688a59d0",
+  "active": "f8ce6bb2fc41a6f7",
   "lastOpenFiles": [
-    "Project_Universe/Scripts/Scripts.md",
-    "Project_Universe/Responsibilities/Responsibilities.md",
-    "Project_Universe/Resources/Resources.md",
-    "Project_Universe/Nature/Astronomical_Objects/Solar_Systems/Sun/Asteroid_Belts/Asteroid_Belt.md",
-    "Project_Universe/Nature/Astronomical_Objects/Universes/Our_Universe.md",
-    "Project_Universe/Nature/Astronomical_Objects/Astronomical_Objects.md",
-    "Project_Universe/Nature/Lifeforms/Animals/Animals.md",
-    "Project_Universe/Nature/Lifeforms/Plants/Plants.md",
-    "Project_Universe/Nature/Lifeforms/Lifeforms.md",
-    "Project_Universe/Nature/Nature.md",
-    "Project_Universe/Modules/Modules.md",
-    "Project_Universe/Project_Universe.md",
-    "Project_Universe/Concepts/Concepts.md",
-    "Project_Universe/Diagrams/Diagrams.md",
-    "Project_Universe/Facilities/Home/Home.md",
-    "Project_Universe/Facilities/Industrial/Industrial.md",
-    "Project_Universe/Facilities/Social/Social.md",
-    "Project_Universe/Facilities/Facilities.md",
-    "Project_Universe/Game_Design_Document/Game_Design_Document.md",
-    "Project_Universe/Health/Diet/Viome/Viome.md",
-    "Project_Universe/Health/Diet/Diet.md",
-    "Project_Universe/Health/Exercise/Exercise.md",
-    "Project_Universe/Health/Health.md",
-    "Project_Universe/Human_Nature/Challenges_and_Obstacles/Challenges_and_Obstacles.md",
-    "Project_Universe/Human_Nature/Emotions/Emotions.md",
-    "Project_Universe/Human_Nature/Fundamental_Needs/Fundamental_Needs.md"
+    "Project_Universe/crafting/3D_Printing/Printing_Materials/Printing_Materials.md",
+    "Project_Universe/crafting/3D_Printing/Printing_Materials/Specialty_Filaments.md",
+    "Project_Universe/crafting/materials/plastics.md",
+    "Project_Universe/crafting/materials/metals.md",
+    "Project_Universe/crafting/materials/materials.md",
+    "Project_Universe/crafting/materials/metals/lithium.md",
+    "Project_Universe/crafting/materials/metals/steel.md",
+    "Project_Universe/crafting/materials/metals/zinc.md",
+    "Project_Universe/crafting/materials/metals/vanadium.md",
+    "Project_Universe/crafting/materials/metals/tungsten.md",
+    "Project_Universe/crafting/materials/metals/titanium.md",
+    "Project_Universe/crafting/materials/metals/tin.md",
+    "Project_Universe/crafting/materials/metals/silver.md",
+    "Project_Universe/crafting/materials/metals/platinum.md",
+    "Project_Universe/crafting/materials/metals/nickel.md",
+    "Project_Universe/crafting/materials/metals/magnesium.md",
+    "Project_Universe/crafting/materials/metals/manganese.md",
+    "Project_Universe/crafting/materials/metals/lead.md",
+    "Project_Universe/crafting/materials/metals/gold.md",
+    "Project_Universe/crafting/materials/metals/copper.md",
+    "Project_Universe/crafting/materials/metals/cobalt.md",
+    "Project_Universe/crafting/materials/metals/chromium.md",
+    "metals/copper.md",
+    "metals",
+    "Project_Universe/crafting/materials/metals/aluminum.md",
+    "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.md",
+    "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.glb",
+    "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.glb",
+    "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.stl",
+    "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.stl",
+    "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.stl",
+    "Project_Universe/crafting/materials/metals/aluminum/2020-SingleBolt-SleeveBracket_100mm-3030TPlatform_v1.stl",
+    "Project_Universe/crafting/materials/metals/aluminum/2060-DoubleBolt-TBracket_100mm-2020SlottedArm_v1.stl",
+    "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.blend1",
+    "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.blend1",
+    "Project_Universe/crafting/materials/metals/aluminum/2020bracket.md",
+    "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
+    "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
+    "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
+    "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
+    "dall·e 2024-12-17 22.30.45 - a realistic artistic depiction of three distinct types of asteroids, each represented in a separate part of the image_ 1) a carbonaceous (c-type) aste.webp"
   ]
 }

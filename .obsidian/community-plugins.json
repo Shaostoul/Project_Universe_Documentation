@@ -4,5 +4,7 @@
   "expandable_table_of_contents",
   "mdbook-automation",
   "mdbook_summary_generator",
-  "table_of_contents_generator"
+  "table_of_contents_generator",
+  "decapitalize_all_files_and_folders",
+  "3d_embeds"
 ]
