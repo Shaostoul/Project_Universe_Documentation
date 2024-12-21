@@ -1,4 +1,4 @@
-Nylon is a strong, flexible, and durable filament known for its toughness and high resistance to impact, abrasion, and chemical exposure. Its unique mechanical properties make it ideal for functional and industrial-grade parts, though it can be challenging to print due to its tendency to absorb moisture, which requires proper handling and storage.
+Nylon (Polyamide) is a strong, flexible, and durable filament known for its toughness and high resistance to impact, abrasion, and chemical exposure. Its unique mechanical properties make it ideal for functional and industrial-grade parts, though it can be challenging to print due to its tendency to absorb moisture, which requires proper handling and storage.
 
 - **Properties**: Strong, flexible, impact-resistant, durable, chemically resistant.
 - **Best For**: Mechanical parts, gears, hinges, functional prototypes, and any application requiring high strength and toughness.

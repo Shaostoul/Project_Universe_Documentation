@@ -1,4 +1,4 @@
-PETG is a popular 3D printing filament known for its balance between durability, flexibility, and ease of use. It combines some of the best properties of PLA (easy to print) and ABS (impact-resistant), making it a versatile option for functional parts. PETG has low warping, is resistant to moisture, and offers food-safe varieties, though printing conditions and additives should be considered for food safety.
+PETG (PolyEthylene Terephthalate Glycol) is a popular 3D printing filament known for its balance between durability, flexibility, and ease of use. It combines some of the best properties of PLA (easy to print) and ABS (impact-resistant), making it a versatile option for functional parts. PETG has low warping, is resistant to moisture, and offers food-safe varieties, though printing conditions and additives should be considered for food safety.
 
 - **Properties**: Strong, flexible, impact-resistant, moisture-resistant.
 - **Best For**: Functional parts, food containers, mechanical components, and applications needing chemical resistance.

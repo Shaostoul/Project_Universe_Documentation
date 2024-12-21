@@ -34,27 +34,27 @@
 
 ### Filaments and Materials
 
-1. **[[PLA_(Polylactic_Acid)]]**
+1. **[[PLA]]**
 	- **Properties**: Biodegradable, low warp, easy to print, low strength.
 	- **Best For**: Beginner projects, prototyping, low-strength parts.
   
-2. **[[ABS_(Acrylonitrile_Butadiene_Styrene)]]**
+2. **[[ABS]]**
 	- **Properties**: Stronger, more durable than PLA; requires heated bed.
 	- **Best For**: Functional parts, automotive, and consumer products.
 
-3. **[[PETG_(Polyethylene_Terephthalate_Glycol-Modified)]]**
+3. **[[PETG]]**
 	- **Properties**: Durable, chemical-resistant, low odor, food-safe.
 	- **Best For**: Functional parts, food containers, mechanical parts.
 
-4. **[[PET_(Polyethylene_Terephthalate)]]**
+4. **[[PET]]**
 	- **Properties**: Durable, moisture-resistant, recyclable, food-safe.
 	- **Best For**: Eco-friendly projects, food containers, lightweight functional parts.
 
-5. **[[TPU_(Thermoplastic_Polyurethane)]]**
+5. **[[TPU]]**
 	- **Properties**: Flexible, impact-resistant.
 	- **Best For**: Flexible parts, phone cases, wearables.
 
-6. **[[Nylon_(Polyamide)]]**
+6. **[[Nylon]]**
 	- **Properties**: Strong, durable, slightly flexible, absorbs moisture.
 	- **Best For**: High-stress parts, gears, hinges, mechanical components.
 

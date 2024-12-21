@@ -1,4 +1,4 @@
-- [Gardening](Gardening/Gardening.md)
+- [Gardening](Project_Universe/labors/gardening/Gardening.md)
   - [Environmental_Conditions](Gardening/Environmental_Conditions.md)
   - [Growth_Monitoring](Gardening/Growth_Monitoring.md)
   - [Growth_Phases](Gardening/Growth_Phases.md)

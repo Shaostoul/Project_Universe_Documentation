@@ -1,4 +1,4 @@
-ABS is a robust, heat-resistant, and slightly flexible filament commonly used for industrial and engineering applications. Known for its strength and durability, ABS is well-suited to functional parts but requires a heated bed and an enclosed environment to reduce warping during printing.
+ABS (Acrylonitrile Butadiene Styrene) is a robust, heat-resistant, and slightly flexible filament commonly used for industrial and engineering applications. Known for its strength and durability, ABS is well-suited to functional parts but requires a heated bed and an enclosed environment to reduce warping during printing.
 
 - **Properties**: Strong, impact-resistant, durable, heat-resistant.
 - **Best For**: Mechanical parts, automotive components, enclosures, and parts requiring high impact resistance.

@@ -1,4 +1,4 @@
-PET, commonly known as the plastic used in soda and water bottles, is a widely recyclable and durable filament. Unlike PETG, it lacks glycol modifiers, which makes it less flexible but adds to its strength and rigidity. PET offers good mechanical properties and chemical resistance, making it suitable for more demanding applications.
+PET (PolyEthylene Terephthalate), commonly known as the plastic used in soda and water bottles, is a widely recyclable and durable filament. Unlike PETG, it lacks glycol modifiers, which makes it less flexible but adds to its strength and rigidity. PET offers good mechanical properties and chemical resistance, making it suitable for more demanding applications.
 
 - **Properties**: Strong, chemical-resistant, low odor, slightly brittle.
 - **Best For**: Functional parts, mechanical components, containers, and applications needing high durability.

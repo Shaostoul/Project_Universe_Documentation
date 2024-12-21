@@ -1,4 +1,4 @@
-TPU is a flexible, rubber-like filament known for its durability and elasticity. This filament is ideal for parts requiring flexibility, impact resistance, or shock absorption, such as phone cases, gaskets, or wheels. Although TPU can be challenging to print due to its elasticity, it offers excellent mechanical properties and is resistant to abrasion and chemicals.
+TPU (ThermoPlastic Polyurethane) is a flexible, rubber-like filament known for its durability and elasticity. This filament is ideal for parts requiring flexibility, impact resistance, or shock absorption, such as phone cases, gaskets, or wheels. Although TPU can be challenging to print due to its elasticity, it offers excellent mechanical properties and is resistant to abrasion and chemicals.
 
 - **Properties**: Highly flexible, impact-resistant, chemical-resistant, durable.
 - **Best For**: Flexible parts like phone cases, seals, gaskets, grips, wearables, and wheels.

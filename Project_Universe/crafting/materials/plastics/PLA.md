@@ -1,4 +1,4 @@
-PLA is a popular, plant-based filament made from renewable resources like cornstarch or sugarcane, making it environmentally friendly and compostable under industrial conditions. It is the most commonly used 3D printing material, known for its ease of use, relatively low cost, and wide color availability.
+PLA (PolyLactic Acid) is a popular, plant-based filament made from renewable resources like cornstarch or sugarcane, making it environmentally friendly and compostable under industrial conditions. It is the most commonly used 3D printing material, known for its ease of use, relatively low cost, and wide color availability.
 
 - **Properties**: Biodegradable, low-warp, low odor, easy to print, comes in a wide range of colors.
 - **Best For**: Prototyping, aesthetic models, low-stress applications, educational projects.

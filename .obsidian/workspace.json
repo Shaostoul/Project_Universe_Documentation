@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/crafting/materials/plastics/PLA_(Polylactic_Acid).md",
+                "file": "Project_Universe/summary.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PLA_(Polylactic_Acid)"
+              "title": "summary"
             }
           }
         ],
@@ -203,12 +203,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8ce6bb2fc41a6f7",
+  "active": "660ea99e221a8870",
   "lastOpenFiles": [
+    "Project_Universe/Project_Universe.md",
+    "Project_Universe/readme.md",
+    "Project_Universe/summary.md",
+    "Project_Universe/gardening/gardening.md",
+    "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.md",
+    "Project_Universe/gardening",
+    "Project_Universe/crafting/materials/plastics/ABS.md",
+    "Project_Universe/crafting/materials/plastics/Nylon.md",
+    "Project_Universe/crafting/materials/plastics/PET.md",
+    "Project_Universe/crafting/materials/plastics/PETG.md",
+    "Project_Universe/crafting/materials/plastics/PLA.md",
+    "Project_Universe/crafting/materials/plastics/Resin.md",
+    "Project_Universe/crafting/materials/plastics/TPU.md",
+    "Project_Universe/crafting/materials/metals.md",
     "Project_Universe/crafting/3D_Printing/Printing_Materials/Printing_Materials.md",
     "Project_Universe/crafting/3D_Printing/Printing_Materials/Specialty_Filaments.md",
     "Project_Universe/crafting/materials/plastics.md",
-    "Project_Universe/crafting/materials/metals.md",
     "Project_Universe/crafting/materials/materials.md",
     "Project_Universe/crafting/materials/metals/lithium.md",
     "Project_Universe/crafting/materials/metals/steel.md",
@@ -219,18 +232,7 @@
     "Project_Universe/crafting/materials/metals/tin.md",
     "Project_Universe/crafting/materials/metals/silver.md",
     "Project_Universe/crafting/materials/metals/platinum.md",
-    "Project_Universe/crafting/materials/metals/nickel.md",
-    "Project_Universe/crafting/materials/metals/magnesium.md",
-    "Project_Universe/crafting/materials/metals/manganese.md",
-    "Project_Universe/crafting/materials/metals/lead.md",
-    "Project_Universe/crafting/materials/metals/gold.md",
-    "Project_Universe/crafting/materials/metals/copper.md",
-    "Project_Universe/crafting/materials/metals/cobalt.md",
-    "Project_Universe/crafting/materials/metals/chromium.md",
-    "metals/copper.md",
     "metals",
-    "Project_Universe/crafting/materials/metals/aluminum.md",
-    "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.md",
     "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.glb",
     "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.glb",
     "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.stl",
@@ -239,8 +241,6 @@
     "Project_Universe/crafting/materials/metals/aluminum/2020-SingleBolt-SleeveBracket_100mm-3030TPlatform_v1.stl",
     "Project_Universe/crafting/materials/metals/aluminum/2060-DoubleBolt-TBracket_100mm-2020SlottedArm_v1.stl",
     "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.blend1",
-    "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.blend1",
-    "Project_Universe/crafting/materials/metals/aluminum/2020bracket.md",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
