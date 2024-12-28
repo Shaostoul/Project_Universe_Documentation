@@ -50,7 +50,7 @@
 - Vitamin E - 56.7 mg - 473%DV
 - Vitamin K2 - 75 μg - 100%DV
 
-# Vivaravida BPC-159 *(untested)*
+# Vivaravida BPC-159 ==(test pending)==
 - https://www.amazon.com/Vivaravida-BPC-159-Peptide-Capsules-1500mcg/dp/B0DGFQL48F (normal link)
 ## Includes:
 - Collagen Peptides - 400 mg
@@ -73,7 +73,7 @@
 	14. L-Tyrosine
 	15. L-Valine
 
-# Methyl-Life Multivitamin *(untested)*
+# Methyl-Life Multivitamin (untested)
 - https://methyl-life.com/products/methylated-multivitamin (normal link)
 ## Includes:
 - Vitamin A (as Retinyl Palmitate - 2,000 IU) - 600 mcg RAE 67%DV
@@ -106,6 +106,7 @@
 
 # To Be Researched
 - micellized turmeric + curcumin
+- non-hallucinogenic mushrooms (IE: lionsmane)
 
 # ALWAYS AVOID
 - cyanocobalamin - vitamin b12
