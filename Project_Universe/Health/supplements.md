@@ -105,8 +105,12 @@
 - Vitamin K2 (as Menaquinone-7) - 175 mcg
 
 # To Be Researched
+- Infiniwell - https://infiniwell.com (normal link)
 - micellized turmeric + curcumin
 - non-hallucinogenic mushrooms (IE: lionsmane)
+- Seeking Health - https://www.seekinghealth.com/ (normal link)
+- BioOptimizer - https://bioptimizers.com/ (normal link)
+- Nootopia - https://nootopia.com/ (normal link)
 
 # ALWAYS AVOID
 - cyanocobalamin - vitamin b12
