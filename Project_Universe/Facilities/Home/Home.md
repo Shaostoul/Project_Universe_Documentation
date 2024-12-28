@@ -4,7 +4,7 @@ Your **Home** serves as the central hub for most player activities within Projec
 - [Computer](Computer.md)
 - [Depot](Depot.md)
 - [Garage](Garage.md)
-- [Garden](Garden.md)
+- [Garden](Project_Universe/facilities/Home/Garden.md)
 - [Hangar](Hangar.md)
 - [Kitchen](Kitchen.md)
 - [Library](Library.md)

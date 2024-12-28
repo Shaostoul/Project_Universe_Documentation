@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/summary.md",
+                "file": "Project_Universe/garden/garden.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "summary"
+              "title": "garden"
+            }
+          },
+          {
+            "id": "8afe0a96e7c3e518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_Universe/health/supplements.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "supplements"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 200
   },
   "right": {
     "id": "205c3ee9466d51c9",
@@ -203,44 +217,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "660ea99e221a8870",
+  "active": "8afe0a96e7c3e518",
   "lastOpenFiles": [
-    "Project_Universe/Project_Universe.md",
-    "Project_Universe/readme.md",
-    "Project_Universe/summary.md",
-    "Project_Universe/gardening/gardening.md",
-    "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.md",
-    "Project_Universe/gardening",
-    "Project_Universe/crafting/materials/plastics/ABS.md",
-    "Project_Universe/crafting/materials/plastics/Nylon.md",
-    "Project_Universe/crafting/materials/plastics/PET.md",
-    "Project_Universe/crafting/materials/plastics/PETG.md",
-    "Project_Universe/crafting/materials/plastics/PLA.md",
-    "Project_Universe/crafting/materials/plastics/Resin.md",
-    "Project_Universe/crafting/materials/plastics/TPU.md",
-    "Project_Universe/crafting/materials/metals.md",
-    "Project_Universe/crafting/3D_Printing/Printing_Materials/Printing_Materials.md",
-    "Project_Universe/crafting/3D_Printing/Printing_Materials/Specialty_Filaments.md",
-    "Project_Universe/crafting/materials/plastics.md",
-    "Project_Universe/crafting/materials/materials.md",
-    "Project_Universe/crafting/materials/metals/lithium.md",
-    "Project_Universe/crafting/materials/metals/steel.md",
-    "Project_Universe/crafting/materials/metals/zinc.md",
-    "Project_Universe/crafting/materials/metals/vanadium.md",
-    "Project_Universe/crafting/materials/metals/tungsten.md",
-    "Project_Universe/crafting/materials/metals/titanium.md",
-    "Project_Universe/crafting/materials/metals/tin.md",
-    "Project_Universe/crafting/materials/metals/silver.md",
-    "Project_Universe/crafting/materials/metals/platinum.md",
+    "Project_Universe/health/diet.md",
+    "Project_Universe/health/exercise.md",
+    "Project_Universe/health/Viome/Viome.md",
+    "Project_Universe/health/Viome/Superfood.md",
+    "Project_Universe/health/Viome/Minimize.md",
+    "Project_Universe/health/Viome/Enjoy.md",
+    "Project_Universe/health/Viome/Avoid.md",
+    "Project_Universe/health/diet/diet.md",
+    "Project_Universe/health/breathwork.md",
+    "Project_Universe/health/supplements.md",
+    "Project_Universe/health/water.md",
+    "Project_Universe/health/grounding.md",
+    "Project_Universe/health/health.md",
+    "Project_Universe/health/light.md",
+    "Untitled.md",
+    "Project_Universe/chat/HTML adding chat to website.md",
+    "Project_Universe/Untitled",
+    "Project_Universe/chat/roadmap.md",
+    "Project_Universe/chat",
+    "Project_Universe/zoo/enclosure_design.md",
+    "Project_Universe/zoo/automation.md",
+    "Project_Universe/zoo/animal_behavior.md",
+    "Project_Universe/zoo/training.md",
+    "Project_Universe/zoo/species_diversity.md",
+    "Project_Universe/zoo/skill_trees.md",
+    "Project_Universe/zoo/health_management.md",
+    "Project_Universe/zoo/feeding.md",
+    "Project_Universe/zoo/environmental_factors.md",
+    "Project_Universe/zoo",
+    "Project_Universe/regulations",
+    "Project_Universe/policies",
+    "Project_Universe/garden",
     "metals",
     "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.glb",
     "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.glb",
     "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.stl",
-    "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.stl",
-    "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.stl",
-    "Project_Universe/crafting/materials/metals/aluminum/2020-SingleBolt-SleeveBracket_100mm-3030TPlatform_v1.stl",
-    "Project_Universe/crafting/materials/metals/aluminum/2060-DoubleBolt-TBracket_100mm-2020SlottedArm_v1.stl",
-    "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.blend1",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",

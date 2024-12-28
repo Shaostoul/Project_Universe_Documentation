@@ -8,7 +8,7 @@ Thank you for your interest in contributing to **Project Universe**! This projec
 
 ### 1. Understand the Project
 - **Read the [`README.md`](README.md):** Familiarize yourself with the project's goals and structure.
-- **Check the [`Roadmap.md`](Roadmap.md):** Understand the project's current priorities and milestones.
+- **Check the [`Roadmap.md`](Project_Universe/dev/roadmap.md):** Understand the project's current priorities and milestones.
 
 ### 2. Set Up Your Environment
 - Fork the repository to your GitHub account.

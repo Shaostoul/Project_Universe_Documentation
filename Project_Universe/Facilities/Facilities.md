@@ -7,7 +7,7 @@ Each facility serves a unique purpose, blending in-game mechanics with real-worl
   - [Computer](Computer.md)
   - [Depot](Depot.md)
   - [Garage](Garage.md)
-  - [Garden](Garden.md)
+  - [Garden](Project_Universe/facilities/Home/Garden.md)
   - [Hangar](Hangar.md)
   - [Kitchen](Kitchen.md)
   - [Library](Library.md)

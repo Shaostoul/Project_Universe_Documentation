@@ -5,4 +5,4 @@
 - [Sanitation](Sanitation.md)
 - [Shelter](Shelter.md)
 - [Software](Project_Universe/Resources/Software.md)
-- [Water](Water.md)
+- [water](Project_Universe/resources/water.md)
