@@ -8,63 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1ac239cc30649fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project_Universe/crafting/materials/metals.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "metals"
-            }
-          },
-          {
-            "id": "18f3ad45b82f2ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project_Universe/crafting/materials/metals.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "metals"
-            }
-          },
-          {
-            "id": "660ea99e221a8870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project_Universe/garden/garden.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "garden"
-            }
-          },
-          {
             "id": "8afe0a96e7c3e518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project_Universe/health/supplements.md",
+                "file": "Project_Universe/game_design_document/story_prelude.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "supplements"
+              "title": "story_prelude"
+            }
+          },
+          {
+            "id": "bc89594f9f252f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_Universe/game_design_document/story_prelude.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "story_prelude"
+            }
+          },
+          {
+            "id": "a1bd2ccd34c62ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project_Universe/game_design_document/story_prelude.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "story_prelude"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -120,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "205c3ee9466d51c9",
@@ -217,36 +204,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8afe0a96e7c3e518",
+  "active": "a1bd2ccd34c62ff3",
   "lastOpenFiles": [
-    "Project_Universe/health/diet.md",
-    "Project_Universe/health/exercise.md",
-    "Project_Universe/health/Viome/Viome.md",
-    "Project_Universe/health/Viome/Superfood.md",
-    "Project_Universe/health/Viome/Minimize.md",
-    "Project_Universe/health/Viome/Enjoy.md",
-    "Project_Universe/health/Viome/Avoid.md",
-    "Project_Universe/health/diet/diet.md",
-    "Project_Universe/health/breathwork.md",
-    "Project_Universe/health/supplements.md",
-    "Project_Universe/health/water.md",
-    "Project_Universe/health/grounding.md",
-    "Project_Universe/health/health.md",
-    "Project_Universe/health/light.md",
+    "Project_Universe/game_design_document/story_chapter_1.md",
+    "Project_Universe/game_design_document/story_part_3.md",
+    "Project_Universe/game_design_document/story_prelude.md",
+    "Project_Universe/Project_Universe.md",
     "Untitled.md",
-    "Project_Universe/chat/HTML adding chat to website.md",
-    "Project_Universe/Untitled",
-    "Project_Universe/chat/roadmap.md",
+    "Project_Universe/concepts/setting.md",
+    "Project_Universe/concepts/security.md",
+    "Project_Universe/concepts/golden_ratio.md",
+    "Project_Universe/concepts/Forever_Invitation.md",
+    "Project_Universe/concepts/fibonacci_sequence.md",
+    "Project_Universe/concepts/Ethics.md",
+    "Project_Universe/concepts/concepts.md",
+    "Project_Universe/health/water.md",
+    "Project_Universe/health/supplements.md",
+    "Project_Universe/health/light.md",
+    "Project_Universe/health/health.md",
+    "Project_Universe/health/grounding.md",
+    "Project_Universe/health/exercise.md",
+    "Project_Universe/health/diet.md",
+    "Project_Universe/health/breathwork.md",
+    "Project_Universe/modules/Combat.md",
+    "Project_Universe/modules/ai.md",
+    "Project_Universe/modules/inventory.md",
+    "Project_Universe/player/player.md",
+    "Project_Universe/player/housing.md",
+    "Project_Universe/player/economy.md",
+    "Project_Universe/server",
+    "Project_Universe/vps",
     "Project_Universe/chat",
-    "Project_Universe/zoo/enclosure_design.md",
-    "Project_Universe/zoo/automation.md",
-    "Project_Universe/zoo/animal_behavior.md",
-    "Project_Universe/zoo/training.md",
-    "Project_Universe/zoo/species_diversity.md",
-    "Project_Universe/zoo/skill_trees.md",
-    "Project_Universe/zoo/health_management.md",
-    "Project_Universe/zoo/feeding.md",
-    "Project_Universe/zoo/environmental_factors.md",
     "Project_Universe/zoo",
     "Project_Universe/regulations",
     "Project_Universe/policies",
@@ -254,7 +242,6 @@
     "metals",
     "Project_Universe/crafting/materials/metals/aluminum/2020-3Bolt-SleeveBracket_100mm-3030TPlatform.glb",
     "Project_Universe/crafting/materials/metals/aluminum/2060-2Bolt-TBracket_100mm-2020SlottedArm.glb",
-    "Project_Universe/crafting/materials/metals/aluminum/2020beam_4-Tslot_1m.stl",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",
     "project_universe/nature/astronomy/rubberduckyasteroid.jpg",

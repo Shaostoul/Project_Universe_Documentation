@@ -2,7 +2,9 @@
 
 ## The Dyson Sphere Trap
 
-As humanity's grand expedition fleet approached the mysterious solar system, none could have predicted the trap that awaited them. The system's true nature revealed itself too late—an enormous energy-based Dyson sphere encapsulated the entire system, its presence masked until the moment of crossing.
+As humanity's grand expedition fleet flew through space it suddenly came upon an energy field instantly slowing them down faster than they could themselves, none could have predicted the trap that awaited them. The system's true nature revealed itself too late—an enormous energy-based Dyson sphere encapsulated the entire system, its presence masked until the moment of crossing.
+
+As fleet enters they begin crashing into the backs of each other for those following behind. Immediately causes panic requiring the players to begin emergency operations to save who and what they can.
 
 Space stations, evenly spaced throughout the sphere's structure, emitted an energy shield that had cloaked the system from detection. As the fleet breached this threshold, an unknown force dramatically slowed their ships. The sudden deceleration caused a catastrophic chain reaction—trailing vessels collided with those ahead, resulting in significant damage and loss of life.
 
